@@ -1,5 +1,5 @@
 import express from 'express';
-import { getCities, getHotels, getRestaurant } from './.vercel/api/data.js';
+import { getCities, getHotels, getRestaurant } from './data.js';
 const app = express();
 app.get('/hotels', (req, res) => {
   res.json({ hotels: getHotels() });
