@@ -42,7 +42,7 @@ export function getHotels() {
       country_id: 11,
     },
     {
-      name: ' Raffles Hotel',
+      name: 'Raffles Hotel',
       image:
         'https://m.ahstatic.com/is/image/accorhotels/aja_p_5484-68?wid=1920',
       location: 'https://maps.app.goo.gl/bchFoax5sxxBQXnNA',
@@ -50,7 +50,7 @@ export function getHotels() {
       country_id: 44,
     },
     {
-      name: ' W Melbourne Hotel',
+      name: 'W Melbourne Hotel',
       image:
         'https://cf.bstatic.com/xdata/images/hotel/max1280x900/467646513.jpg?k=7cdfef934806535197f8832886d8ce054ac2bde3e6e9dd72ebf6dcb0a9096872&o=&hp=1',
       location: 'https://maps.app.goo.gl/bchFoax5sxxBQXnNA',
