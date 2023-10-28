@@ -508,6 +508,7 @@ export function getHotels() {
       country_id: 22,
       id: 20,
     },
+
     {
       name: "Kempinski Summerland Hotel & Resort Beirut",
       images: [
@@ -689,6 +690,31 @@ export function getHotels() {
       reviews: 3850,
       country_id: 55,
       id: 79,
+    },
+    {
+      name: 'Atlantis The Palm',
+      description:
+          '',
+      images: [
+          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b2/2e/64/atlantis-the-palm.jpg?w=1000&h=-1&s=1',
+          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/6f/61/93/atlantis-the-palm.jpg?w=1200&h=-1&s=1',
+          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e4/46/3c/view-from-guest-room.jpg?w=1100&h=-1&s=1',
+          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/25/f4/e5/atlantis-the-palm.jpg?w=1200&h=-1&s=1'
+      ],
+      location: {
+        locationName:
+          'Crescent Road, Dubai United Arab Emirates',
+        locationAddress:
+            'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.15522083419!2d55.1171498!3d25.1304426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f153e3609c979%3A0x5945a418a804ac5!2sAtlantis%2C%20The%20Palm!5e0!3m2!1sen!2seg!4v1698487074675!5m2!1sen!2seg',
+      },
+      price: '860$',
+      phone: '+971 4 426 0000',
+      website:
+          'https://www.atlantis.com/dubai?utm_source=tripadvisor&utm_medium=ba',
+      rating: 4.5,
+      reviews: 6168,
+      country_id: 44,
+      id: 31,
     },
   ];
 }
