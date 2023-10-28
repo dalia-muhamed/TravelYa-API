@@ -338,6 +338,28 @@ export function getHotels() {
       country_id: 22,
       id: 17,
     },
+    {
+      name: "The Westin Excelsior, Rome",
+      images: [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/47/exterior.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/a2/winter-garden-meeting.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/9b/outdoor-activities-e.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/99/private-tennis-lesson.jpg?w=1200&h=-1&s=1",
+      ],
+      location: {
+        locationName: "125, Via Vittorio Veneto, 00187 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.3101773862227!2d12.487500175086149!3d41.90769036356257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6107544fb047%3A0x79f6a0a46f732437!2sThe%20Westin%20Excelsior%2C%20Rome!5e0!3m2!1sen!2sus!4v1698465974499!5m2!1sen!2sus",
+      },
+      price: "585$",
+      phone: "00 1 844-631-0595",
+      website:
+        "https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_r8GDHhc29P0lw1j1_woQJ9gwwCLs2x7jN_GPiocl6aPD_BwE",
+      rating: 4,
+      reviews: 3150,
+      country_id: 22,
+      id: 18,
+    },
 
 
 
