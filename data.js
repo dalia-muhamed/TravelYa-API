@@ -722,7 +722,7 @@ export function getRestaurant() {
   return [
     {
       name: "Solis Restaurant ",
-      iamges: [
+      images: [
         "https://media-cdn.tripadvisor.com/media/photo-s/1a/43/d8/9b/solis-restaurant.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-f/1a/65/c4/9f/enjoy-drinking-over-a.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-f/1a/65/c4/5e/feed-your-soul-freshness.jpg",
@@ -827,7 +827,7 @@ export function getRestaurant() {
 
     {
       name: "Em Sherif Restaurant",
-      image: [
+      images: [
         "https://media-cdn.tripadvisor.com/media/photo-s/14/fa/01/77/the-ultimate-enjoyment.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-s/0f/08/34/4a/em-sherif.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-s/0f/08/2f/d3/em-sherif.jpg",
@@ -860,7 +860,7 @@ export function getRestaurant() {
     },
     {
       name: "Mosaic Restaurant",
-      image: [
+      images: [
         "https://media-cdn.tripadvisor.com/media/photo-s/04/81/c0/2c/mosaic.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-f/17/b9/f2/9c/lebanese-breakfast.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-f/04/81/c0/cf/mosaic.jpg",
