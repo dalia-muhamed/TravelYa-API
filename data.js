@@ -169,7 +169,6 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/4f/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/5e/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/7c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        '',
       ],
       location: 'https://maps.app.goo.gl/SHu8BpW2Nqu3DXQg8',
       price: '167$',
@@ -179,15 +178,14 @@ export function getHotels() {
     {
       name: 'Movenpick Hotel Cairo-Media City',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/55/5d/c0/pool-view.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/f3/36/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/f3/1d/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/9c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/8b/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/4f/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/5e/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/7c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        '',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/33/e4/47/exterior.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/09/a7/0d/just-a-small-part-of.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/33/e4/55/restaurant.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9b/1f/2d/bellini-cocktail-lounge.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/33/e4/4c/exterior.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/33/e4/66/other.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/33/e4/5d/recreational-facilities.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/2e/96/2d/intercontinental-city.jpg?w=600&h=-1&s=1',
       ],
       location: 'https://maps.app.goo.gl/5SnAwasC43EU2hYr9',
       price: '191$',
@@ -246,6 +244,7 @@ export function getRestaurant() {
         'https://lh5.googleusercontent.com/p/AF1QipM6j2cjs5U7fK_EiQurPmnX0uqiPUNnUST4rS06=w260-h175-n-k-no',
       location: '54 Rd 9, Maadi, Cairo Governorate 4212011',
       country_id: 11,
+      id: 31,
     },
     {
       name: 'Tree Lounge Maadi ',
@@ -254,6 +253,7 @@ export function getRestaurant() {
       location:
         'Maadi Al Khabiri Ash Sharqeyah, Maadi, Cairo Governorate 11728',
       country_id: 11,
+      id: 32,
     },
     {
       name: 'Griix',
@@ -261,6 +261,7 @@ export function getRestaurant() {
         'https://lh3.googleusercontent.com/p/AF1QipMdCIJ14s2gA4Jf9zGzp7nsQFyQnX2JaxzixV-E=s680-w680-h510',
       location: '38 street 231, degla, Maadi, Cairo Governorate',
       country_id: 11,
+      id: 33,
     },
     {
       name: 'Lucca Italian Restaurant',
@@ -268,6 +269,7 @@ export function getRestaurant() {
         'https://storage.kempinski.com/cdn-cgi/image/w=480,h=550,f=auto,g=auto,fit=cover/ki-cms-prod/images/1/6/2/5/95261-1-eng-GB/62213d1650f3-73658083_4K.jpg',
       location: 'Ring Rd, Second New Cairo, Cairo, Cairo Governorate 11477',
       country_id: 11,
+      id: 34,
     },
     {
       name: 'The Grill',
@@ -275,6 +277,7 @@ export function getRestaurant() {
       location:
         'Semiramis InterContinental, Cornich, El Nile, Cairo Governorate 11511',
       country_id: 11,
+      id: 35,
     },
     {
       name: 'QUAY',
