@@ -13,8 +13,18 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/46/2c/7f/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
       ],
 
-      location: 'https://maps.app.goo.gl/2ep3axMDoQwaegga7',
+      location: {
+        locationName:
+          'Emtedad Makram Obied Street Heliopolis, Cairo 11737 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7446559541786!2d31.341519675321475!3d30.07285291722463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583e0e114f78e1%3A0x9c8117239bf55428!2sStaybridge%20Suites%20Cairo%20-%20Citystars%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698460221559!5m2!1sen!2seg',
+      },
       price: '150$',
+      phone: '00 248 1 799 999',
+      website:
+        'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
+      rating: 4.5,
+      reviews: 3800,
       country_id: 11,
       id: 1,
     },
@@ -30,8 +40,17 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/b0/c1/fb/enjoy-sunny-days-at-one.jpg?w=900&h=-1&s=1',
       ],
 
-      location: 'https://maps.app.goo.gl/kYiNtJKWBxJ3pVYZ8',
+      location: {
+        locationName: '6 Pyramids Road, Giza 12556 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3455.793340670234!2d31.130497075318324!3d29.985368621367773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14584585ab0b3725%3A0x5c4989c1e098ceb2!2sMarriott%20Mena%20House%2C%20Cairo!5e0!3m2!1sen!2seg!4v1698460319432!5m2!1sen!2seg',
+      },
       price: '167$',
+      phone: '00 729 1 189 209',
+      website:
+        'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
+      rating: 4.5,
+      reviews: 3800,
       country_id: 11,
       id: 2,
     },
@@ -48,8 +67,17 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/c6/77/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
       ],
 
-      location: 'https://maps.app.goo.gl/QBGNXCoxDz1H2qt28',
+      location: {
+        locationName: 'Corniche El Nile 1115, Cairo 12344 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.531828756496!2d31.229475475320765!3d30.05028651829444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840c381a29537%3A0xf1d5b3a64a0e4de1!2sRamses%20Hilton!5e0!3m2!1sen!2seg!4v1698461596494!5m2!1sen!2seg',
+      },
       price: '187$',
+      phone: '00 248 1 799 999',
+      website:
+        'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
+      rating: 4.5,
+      reviews: 3800,
       country_id: 11,
       id: 3,
     },
@@ -65,14 +93,23 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/66/dc/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/c5/ef/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
       ],
-      location: 'https://maps.app.goo.gl/NMAaTXwV7p3bier57',
+      location: {
+        locationName: '29 Corniche El Nil, Maadi Maadi, Cairo 11511 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.6504287823777!2d31.24531067531733!3d29.960732122532537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145841dfaf29305d%3A0xaa67399c83ab1e1b!2sHoliday%20Inn%20%26%20Suites%20Cairo%20Maadi%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698461809081!5m2!1sen!2seg',
+      },
       price: '170$',
+      phone: '00 248 1 799 999',
+      website:
+        'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
+      rating: 4.5,
+      reviews: 3800,
       country_id: 11,
       id: 4,
     },
     {
       name: 'Kempinski nile Cairo',
-      images: [
+      image: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/98/80/hotel-exterior-during.jpg?w=1200&h=-1&s=1',
         'https://i.pinimg.com/564x/e4/dc/8c/e4dc8c7510ba4e1d201ad16eded671ab.jpg',
         'https://www.kayak.com/rimg/himg/48/a1/1d/ice-302919-105502000-870092.jpg?width=720&height=576&crop=true',
@@ -83,14 +120,18 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/45/82/65/devarana-spa.jpg?w=1200&h=-1&s=1',
       ],
 
-      location: 'https://maps.app.goo.gl/Lp978htKBgqL1YZG7',
+      location: {
+        locationName: ' 12 Ahmed Ragheb Street Garden City, Cairo 11519 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.9374844920058!2d31.22783437532024!3d30.03865131884551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840cdb8f441cb%3A0x59cf96cf4cfe8978!2sKempinski%20Nile%20Hotel%20Garden%20City%20Cairo!5e0!3m2!1sen!2seg!4v1698461931751!5m2!1sen!2seg',
+      },
       price: '200$',
       country_id: 11,
       id: 5,
     },
     {
       name: 'Fairmont Nile city Cairo',
-      images: [
+      image: [
         'https://www.fairmont.com/assets/0/104/2361/2366/4691/4692/1fc71b0d-63b1-4630-babd-5a54aa16d5b3.jpg',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/82/40/exterior-view.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/82/ab/guest-room.jpg?w=1100&h=-1&s=1',
@@ -101,15 +142,24 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/56/4d/44/pool--v5053901.jpg?w=1200&h=-1&s=1',
       ],
 
-      location: 'https://maps.app.goo.gl/eJy8zarBPCSitdyh7',
+      location: {
+        locationName:
+          'Nile City Towers - 2005 B, Corniche El Nil Ramlet Beaulac, Cairo 2466 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7793230055063!2d31.2251524753213!3d30.071859417271636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840fa057818c7%3A0x3f7e03a153cbeafc!2sFairmont%20Nile%20City%20Hotel!5e0!3m2!1sen!2seg!4v1698460009624!5m2!1sen!2seg',
+      },
       price: '300$',
+      phone: '00 134 9 139 809',
+      website:
+        'https://all.accor.com/ssr/app/accor/hotels/cairo-cairo-governorate-egypt/fai/index.en.shtml?compositions=1&stayplus=false&order_hotels_by=RECOMMENDATION&snu=false&hideWDR=false&accessibleRooms=false&hideHotelDetails=false&utm_term=mafm&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFIHNA69OpNTMo6oQwMO9H-oCrEAwLzrOXszpRpWie1mF86apur5mgRoCYr8QAvD_BwE&utm_campaign=ppc-ach-mafm-goo-me-en-dom_top-mix-s&utm_medium=cpc&utm_source=google&utm_content=me-en-EG-V4724',
+      rating: 4.5,
+      reviews: 3800,
       country_id: 11,
       id: 6,
     },
 
     {
       name: 'Four Seasons Hotel Cairo at the First Residence',
-
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ab/99/f7/a-hero-image.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/2e/8f/1a/view-of-the-pyramid-at.jpg?w=1200&h=-1&s=1',
@@ -119,8 +169,17 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a0/17/bc/aura-restaurant-day-shot.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/68/c0/df/deluxe-twin-room.jpg?w=1100&h=-1&s=1',
       ],
-      location: 'https://maps.app.goo.gl/tPKW3wA1F6B54Kys6',
-      price: '147$',
+      location: {
+        locationName: '35 Giza Street, Giza 12311 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.437900899548!2d31.214212075319708!3d30.02429251952571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145841aed9f9d687%3A0x37dd6f74867cf818!2sFour%20Seasons%20Hotel%20Cairo%20at%20The%20First%20Residence!5e0!3m2!1sen!2seg!4v1698459850712!5m2!1sen!2seg',
+      },
+      price: '122$',
+      phone: '00 648 9 459 001',
+      website:
+        'https://www.fourseasons.com/cairofr/?ppc=true&utm_source=google&utm_medium=paidsearch&utm_campaign=acronym-caf-hre-low-allglobalbrand-na&utm_content=na-71700000100975741-58700008076301406-0&utm_term=na&gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFN6GYyUgm7r-mcGSVhfkXoyADmXFV__BnjnSJ_6emmH041wxvkMN7BoCNmIQAvD_BwE&gclsrc=aw.ds',
+      rating: 4.8,
+      reviews: 4900,
       country_id: 11,
       id: 7,
     },
@@ -136,8 +195,18 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/59/c4/07/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/84/51/ef/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
       ],
-      location: 'https://maps.app.goo.gl/RX4Wr7R72LBB8wZh9',
+      location: {
+        locationName:
+          'El Tesseen Street City Centre, Fifth Settlement, New Cairo, Cairo 11511 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.3938546468357!2d31.4527062753197!3d30.02555661946581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145817082c16d32f%3A0xdd32554012caf391!2sDusit%20Thani%20Lakeview%20Cairo!5e0!3m2!1sen!2seg!4v1698459749308!5m2!1sen!2seg',
+      },
       price: '147$',
+      phone: '00 101 6 714 270',
+      website:
+        'https://www.guestreservations.com/hotel-dusit-thani-lakeview-cairo/booking?gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFJRb5LB-XIsmZsjxvpD10lumPmI8MSpmIWHy_HUxMtwAEpWV5ri0fBoCDmsQAvD_BwE',
+      rating: 4.6,
+      reviews: 1905,
       country_id: 11,
       id: 8,
     },
@@ -153,8 +222,17 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/80/6e/60/restaurant.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8d/85/6b/restaurant.jpg?w=1100&h=-1&s=1',
       ],
-      location: 'https://maps.app.goo.gl/Rfv4uSsv6dXZpxT77',
+      location: {
+        locationName: '3 El Thawra Council St Zamalek, Cairo Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.935410415009!2d31.222026175320188!3d30.038710818842738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840d30a49a737%3A0xf9ff57d9857cd389!2sSofitel%20Cairo%20Nile%20El%20Gezirah!5e0!3m2!1sen!2seg!4v1698459516090!5m2!1sen!2seg',
+      },
       price: '192$',
+      phone: '00 548 2 139 409',
+      website:
+        'https://all.accor.com/ssr/app/sofitel/hotels/cairo-cairo-governorate-egypt/sof/index.en.shtml?compositions=1&stayplus=false&order_hotels_by=RECOMMENDATION&snu=false&hideWDR=false&accessibleRooms=false&hideHotelDetails=false&utm_term=mar&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOjxf7OXUGUUTUuqiW_74Ekxd0n55eyI1T9i41Sv_nJE-J8SnstU1hoCmAYQAvD_BwE&utm_campaign=ppc-sof-mar-goo-me-en-dom_top-mix-se&utm_medium=cpc&utm_source=google&utm_content=me-en-EG-V4724',
+      rating: 4.4,
+      reviews: 1060,
       country_id: 11,
       id: 9,
     },
@@ -169,31 +247,23 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/4f/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/5e/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/7c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        '',
       ],
-      location: 'https://maps.app.goo.gl/SHu8BpW2Nqu3DXQg8',
+      location: {
+        locationName:
+          'KM 22 Cairo-Alexandria Desert RD Pyramids Heights Business Park, Giza 8655 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.6466297715324!2d31.070284575552805!3d30.018301474936795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840c6229bc341%3A0xe845cc30383a2652!2sHyatt%20Regency%20Cairo%20West!5e0!3m2!1sen!2seg!4v1698459395336!5m2!1sen!2seg',
+      },
       price: '167$',
+      phone: '00 248 4 721 900',
+      website:
+        'https://www.hyatt.com/en-US/hotel/egypt/hyatt-regency-cairo-west/hberc',
+      rating: 4.3,
+      reviews: 4700,
       country_id: 11,
       id: 10,
     },
-    {
-      name: 'Movenpick Hotel Cairo-Media City',
-      images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/55/5d/c0/pool-view.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/f3/36/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/f3/1d/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/9c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/8b/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/4f/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/5e/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/7c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        '',
-      ],
-      location: 'https://maps.app.goo.gl/5SnAwasC43EU2hYr9',
-      price: '191$',
-      country_id: 11,
-      id: 30,
-    },
+
     {
       name: "Crowne Plaza Rome - St. Peter's, an IHG Hotel",
       images: [
@@ -473,52 +543,110 @@ export function getCities() {
 export function getRestaurant() {
   return [
     {
-      name: "Lucille's Restaurant Cairo",
-      image:
-        'https://lh5.googleusercontent.com/p/AF1QipM6j2cjs5U7fK_EiQurPmnX0uqiPUNnUST4rS06=w260-h175-n-k-no',
-      location: '54 Rd 9, Maadi, Cairo Governorate 4212011',
+      name: 'Solis Restaurant ',
+      images: [
+        'https://media-cdn.tripadvisor.com/media/photo-s/1a/43/d8/9b/solis-restaurant.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/1a/65/c4/9f/enjoy-drinking-over-a.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/1a/65/c4/5e/feed-your-soul-freshness.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-p/1c/ab/3b/e0/shrimp-linguine-with.jpg',
+      ],
+      location: '29 Cornish El Nil Maadi, Cairo 11511 Egypt',
+      phone: '+20 115 812 2200',
+      website: 'https://www.facebook.com/SolisLounge/',
+      rating: 4.2,
+      reviews: 1400,
       country_id: 11,
       id: 60,
     },
     {
       name: 'Tree Lounge Maadi ',
-      image:
+      images: [
         'https://lh3.googleusercontent.com/p/AF1QipMePG6E4vzRKTRkjDGZdsTZytbKK7YCnSILoAV4=s1360-w1360-h1020',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtHX6yLk5MeeJghny948oub86_HycaXdSCTLyVyy3YQ&s',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWODl-3cSOEZkKYUj00aILLxFLqFnJjFCMJDK4UnGCmg&s',
+        'https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/370037088_334477472258886_3945309400591221769_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0DUQHQGkUwUAX-1s5-q&_nc_ht=scontent.fcai20-1.fna&oh=00_AfDGjHonGsroKecXTLMdSQ8-XBr5y7LIhAHpCISpOtdiIg&oe=6541575F',
+      ],
       location:
         'Maadi Al Khabiri Ash Sharqeyah, Maadi, Cairo Governorate 11728',
+      phone: '+20 102 557 9192',
+      website: 'https://www.facebook.com/Tree.Lounge1/',
+      rating: 4.4,
+      reviews: 2380,
       country_id: 11,
       id: 61,
     },
     {
-      name: 'Griix',
-      image:
-        'https://lh3.googleusercontent.com/p/AF1QipMdCIJ14s2gA4Jf9zGzp7nsQFyQnX2JaxzixV-E=s680-w680-h510',
-      location: '38 street 231, degla, Maadi, Cairo Governorate',
+      name: ' Al Khal Egyptian Restaurant',
+      images: [
+        'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-6090070368-16x9',
+        'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-6089741642-3x2',
+        'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-5296460886-4x3',
+        'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-5304407063-3x2',
+        'https://media-cdn.tripadvisor.com/media/photo-f/0e/ae/b1/9a/al-khal-egyptian-dishes.jpg',
+      ],
+      location:
+        'InterContinental Cairo Citystars Omar Bin Khattab Street, Cairo 11511 Egypt',
+      phone: '+202 24 800 009',
+      website:
+        'https://www.ihg.com/intercontinental/hotels/gb/en/cairo/crohc/hoteldetail/dining?cm_mmc=GoogleMaps-_-IC-_-EG-_-CROHC',
+      rating: 4.5,
+      reviews: 1980,
       country_id: 11,
       id: 62,
     },
     {
       name: 'Lucca Italian Restaurant',
-      image:
-        'https://storage.kempinski.com/cdn-cgi/image/w=480,h=550,f=auto,g=auto,fit=cover/ki-cms-prod/images/1/6/2/5/95261-1-eng-GB/62213d1650f3-73658083_4K.jpg',
-      location: 'Ring Rd, Second New Cairo, Cairo, Cairo Governorate 11477',
+      images: [
+        'https://media-cdn.tripadvisor.com/media/photo-s/1d/a8/e1/b0/chef-giovanni-at-lucca.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-s/28/48/7e/9f/lucca-is-the-place-where.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/0b/08/21/78/tuscan-interiors-with.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/0b/08/21/7a/daylight-lunch-overlooking.jpg',
+      ],
+      location:
+        'Royal Maxim Palace Kempinski Cairo, First Settlement, New Cairo First Settlement, New Cairo, Cairo 11477 Egyp',
+      phone: '+20 109 711 1151',
+      website:
+        'https://www.kempinski.com/en/royal-maxim-palace-kempinski-cairo/restaurants-bars/lucca',
+      rating: 4.7,
+      reviews: 1080,
       country_id: 11,
       id: 63,
     },
     {
-      name: 'The Grill',
-      image: 'https://resizer.otstatic.com/v2/photos/xlarge/4/26670259.webp',
+      name: 'Bab El-Sharq',
+      images: [
+        'https://media-cdn.tripadvisor.com/media/photo-s/12/2b/14/2d/bab-el-sharq.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/16/aa/8d/c3/bab-el-sharq.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/12/2b/14/98/bab-el-sharq.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-p/12/2b/14/67/bab-el-sharq.jpg',
+      ],
       location:
-        'Semiramis InterContinental, Cornich, El Nile, Cairo Governorate 11511',
+        '1113 Corniche El Nil The Nile Ritz Carlton , ground Floor, Cairo 11221 Egypt',
+      phone: '+202 257 788 99',
+      website:
+        'https://www.ritzcarlton.com/en/hotels/cairz-the-nile-ritz-carlton-cairo/dining/',
+      rating: 4.6,
+      reviews: 4000,
       country_id: 11,
       id: 64,
     },
     {
-      name: 'QUAY',
-      image:
-        'https://www.australia.com/content/australia/en/things-to-do/food-and-drinks/best-restaurants-in-australia/jcr:content/mainParsys/imagewithcaption_1431434042/LargeImageTile/largeImageSrc.adapt.740.medium.jpg',
-      country_id: 44,
+      name: '8 Chinese Restaurant',
+      images: [
+        'https://media-cdn.tripadvisor.com/media/photo-s/1b/69/3c/4c/8-chinese-restaurant.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-s/19/37/0d/3e/8-chinese-restaurant.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/19/37/0d/48/8-chinese-restaurant.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/1b/69/3b/d4/8-chinese-restaurant.jpg',
+      ],
+      location: '1089 Corniche El Nil Garden City, Cairo 11519 Egypt',
+      phone: '+202 27 916 888',
+      website: 'https://www.fourseasons.com/caironp/dining/restaurants/8/',
+      rating: 4.2,
+      reviews: 3407,
+      country_id: 11,
+      id: 65,
     },
+
     {
       name: 'Em Sherif Restaurant',
       image: [
