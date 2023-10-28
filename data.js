@@ -813,7 +813,7 @@ export function getThingsToDo() {
       about:'Learn to ski, or take your skills to the next level, in the Middle East’s largest ski resort: Mzaar Kfardebian. Your instructor will start with theory and first principles for beginners, or assess your level on the nursery slopes before proceeding to more advanced areas. Lift passes, ski hire, and gear rental are at your expense: transfers can be arranged from Beirut, Byblos, or in between for an additional fee.',
       location: 'Mzaar Kfardebian, Lebanon',
       package:'$153.85',
-      duration:'6–8 hours',
+      duration:'6-8 hours',
       reviews:1009,
       rating:4,
       reccommendation:'Recommended by 91% of travelers',
