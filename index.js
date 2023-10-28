@@ -1,6 +1,8 @@
 import express from 'express';
 import { getCities, getHotels, getRestaurant } from './data.js';
 const app = express();
+import cors from 'cors';
+app.use(cors());
 app.get('/hotels', (req, res) => {
   res.json({ hotels: getHotels() });
 });
