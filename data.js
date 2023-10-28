@@ -109,7 +109,7 @@ export function getHotels() {
     },
     {
       name: 'Kempinski nile Cairo',
-      image: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/98/80/hotel-exterior-during.jpg?w=1200&h=-1&s=1',
         'https://i.pinimg.com/564x/e4/dc/8c/e4dc8c7510ba4e1d201ad16eded671ab.jpg',
         'https://www.kayak.com/rimg/himg/48/a1/1d/ice-302919-105502000-870092.jpg?width=720&height=576&crop=true',
@@ -131,7 +131,7 @@ export function getHotels() {
     },
     {
       name: 'Fairmont Nile city Cairo',
-      image: [
+      images: [
         'https://www.fairmont.com/assets/0/104/2361/2366/4691/4692/1fc71b0d-63b1-4630-babd-5a54aa16d5b3.jpg',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/82/40/exterior-view.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/82/ab/guest-room.jpg?w=1100&h=-1&s=1',
@@ -482,7 +482,7 @@ export function getHotels() {
     },
     {
       name: 'Suite Hotel Chrome',
-      iamges: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/38/2a/jacuzzi-suite.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3b/50/deluxe-2-bedroom.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3a/9f/executive-suite.jpg?w=300&h=300&s=1',
@@ -501,7 +501,7 @@ export function getHotels() {
     },
     {
       name: 'Princessa Hotel',
-      iamges: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ee/91/d2/princessa-hotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bd/da/f1/breakfast.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bd/da/ab/breakfast.jpg?w=300&h=300&s=1',
@@ -519,7 +519,7 @@ export function getHotels() {
     },
     {
       name: 'Ahiram Hotel',
-      iamges: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6a/70/b1/ahiram-hotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6a/70/d4/ahiram-hotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/13/4c/08/photo0jpg.jpg?w=300&h=300&s=1',
