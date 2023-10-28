@@ -663,16 +663,16 @@ export function getHotels() {
     },
     {
       name: "Suite Hotel Chrome",
-      description:'',
+      description:'The Suite Hotel Chrome has 44 large suites divided into 4 categories - Family Suite, Deluxe Double Room (Annex), Executive Suite and Junior Suite. All suites have lively colours and a joyful mood, they are furnished with comfortable beds, large relaxing couches and all the necessary amenities. They are tastefully decorated in a modern and stylish design. With independent air-conditioning system, with climate control, direct dial telephone, Wi-Fi, satellite TV and 24-hour front desk service. In-room hairdryers, iron & board are available upon request. All suites have large modern bathrooms, kitchenette with work bench and refrigerator.',
       images: [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/38/2a/jacuzzi-suite.jpg?w=300&h=300&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3b/50/deluxe-2-bedroom.jpg?w=300&h=300&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3a/9f/executive-suite.jpg?w=300&h=300&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3a/27/executive-suite.jpg?w=300&h=300&s=1",
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3b/27/deluxe-2-bedroom.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/6d/meeting-room.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/0f/exterior.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/61/16/59/suite-hotel-chrome.jpg?w=1200&h=-1&s=1'
       ],
         location:{
         locationName:"6 Saint-George Square 82 Facing Cepp Street 61 Sector Jal El-Dib, Beirut Lebanon",
-        locationAddress:""
+        locationAddress:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.302534179846!2d35.586791974921844!3d33.907612425354685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f3e73137d2ffd%3A0x2d1d430ca567b5d!2sSuite%20Hotel%20Chrome!5e0!3m2!1sen!2sus!4v1698497921718!5m2!1sen!2sus"
       },
       price: "150$",
       phone: "00 961 1 619 999",
