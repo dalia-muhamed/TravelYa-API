@@ -508,7 +508,6 @@ export function getHotels() {
       country_id: 22,
       id: 20,
     },
-
     {
       name: "Kempinski Summerland Hotel & Resort Beirut",
       images: [
@@ -549,7 +548,7 @@ export function getHotels() {
     {
       name: "InterContinental Phoenicia Beirut",
       images: [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/10/80/d7/hotel-exterior.jpg?w=300&h=300&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/10/80/d7/hotel-exterior.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/68/c0/48/cascade-lounge.jpg?w=300&h=300&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/fc/9a/9f/double-bed-guest-room.jpg?w=300&h=300&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/fc/9a/9e/your-burger-your-way.jpg?w=300&h=300&s=1",
@@ -567,10 +566,10 @@ export function getHotels() {
     {
       name: "Radisson Blu Martinez Hotel, Beirut",
       images: [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d2/51/7e/hotel-exterior.jpg?w=300&h=300&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/92/5a/ae/bed-and-desk.jpg?w=300&h=300&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/61/view-from-roof.jpg?w=300&h=300&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/58/presidential-suite-bedroom.jpg?w=300&h=300&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/21/hotel-main-entrance.jpg?w=1100&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/1d/lobby-lounge-terrace.jpg?w=1100&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/1b/junior-suite.jpg?w=1100&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/19/olivos-restaurant.jpg?w=1100&h=-1&s=1",
       ],
       location: "Phoenicia Street, Beirut 1267 Lebanon",
       price: "180$",
