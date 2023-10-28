@@ -263,7 +263,97 @@ export function getHotels() {
       country_id: 11,
       id: 10,
     },
-
+    {
+      name: "Hotel Artemide",
+      description:"Welcome to Hotel Artemide, your 4-star hotel in downtown Rome! Just a stone's throw away from the Trevi Fountain, the Colosseum or the Spanish Steps, Artemide is right in the heart of Via Nazionale, a lively and bright street, with plenty of shops to choose from. Within walking distance of Termini Train Station and with the metro station Repubblica at just 100 metres, the Artemide Hotel is the perfect starting point for discovering the Eternal City. Free mini-bar and wi-fi connection in every room, and a fully-equipped gym are just some of the perks we offer our guests. Also, make sure not to miss the Artemís Spa to dedicate a moment for your well-being and enjoy individual or couples massages. And to complete the experience, don't miss the Ambrosia Rooftop Restaurant & Bar, on the 7th floor of the hotel, with its magnificent view over the Rome' skyline.",
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3a/entrance-hotel-artemide.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/56/spa-relax-area.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/51/ambrosia-restaurant-exterior.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3b/location.jpg?w=1200&h=-1&s=1',
+      ],
+      location: {
+        locationName: 'Via Nazionale 22, 00184 Rome Italy',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.6295896901843!2d12.49107977508567!3d41.900822563992726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61af3c2971f9%3A0x2edb75cb2a49720a!2sHotel%20Artemide!5e0!3m2!1sen!2seg!4v1698468263463!5m2!1sen!2seg',
+      },
+      price: '238$',
+      phone: '00 39 06 489911',
+      website:
+        'https://www.hotelartemide.it/en/?utm_source=TripAdvisor&utm_medium=Link&utm_campaign=TripAdvisorBusinessListing&utm_content=WebsiteLink',
+      rating: 5,
+      reviews: 8890,
+      country_id: 22,
+      id: 11,
+    },
+    {
+      name: "Rome Cavalieri, A Waldorf Astoria Hotel",
+      description:"Overlooking the panorama that has inspired visitors for centuries is Rome's most prestigious address – the Rome Cavalieri hotel. Though only minutes from the city's great monuments, the Rome Cavalieri has the tranquility of an oasis. Enclosed in fifteen acres of lush Mediterranean parklands, this luxury hotel is a calm retreat in the heart of the Eternal City, an elegant refuge where time slows and hearts quicken.The first hotel in Europe to be part of the exclusive Waldorf Astoria Hotels & Resorts, the Rome Cavalieri hotel is more than just a 5–star property. It's the pre-eminent luxury hotel in Rome, with an art collection that outshines many museums, a Grand Spa that would be the envy of a prestige health resort, and standards of luxury that set it apart from other Rome hotels. The Rome Cavalieri brings new meaning to notions of Italian style, and new purpose to the fine art of exclusive hospitality.",
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b9/15/e7/exterior.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/8a/2a/d2/guest-room.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d8/95/c0/meeting-room.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d8/95/c3/not-set.jpg?w=1100&h=-1&s=1',
+      ],
+      location: {
+        locationName: 'Via Alberto Cadlolo 101, 00136 Rome Italy',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.7924265919164!2d12.44404287508678!3d41.91882076286513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f608452400f1f%3A0xe4256ff233fd34e6!2sRome%20Cavalieri%2C%20A%20Waldorf%20Astoria%20Hotel!5e0!3m2!1sen!2seg!4v1698468676470!5m2!1sen!2seg',
+      },
+      price: '426$',
+      phone: '00 1 888-446-6677',
+      website:
+        'https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=ROMHI&arrivalDate=2023-10-28&departureDate=2023-10-29&room1NumAdults=2&ta_refid=c14e5840-0418-425f-9276-820ffbaea434&mc_id=zINDA0EMEA1WA2OLX3TA4INTTABA5WB6ROMHIWA7_110561617_8141862&utm_source=tripadvisor&utm_medium=intlmeta&utm_campaign=business_listings&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_rNBs6016hElWhOI-qaIcMzGYug-AtXg0eFhChZaS_9_D_BwE',
+      rating: 5,
+      reviews: 7426,
+      country_id: 22,
+      id: 12,
+    },
+    {
+      name: "Hotel Indigo Rome - St. George, an IHG Hotel",
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a9/9b/fd/caption.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ab/92/36/i-sofa-bar-restaurant.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7c/7b/bd/dinner-with-a-view-from.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7c/7b/aa/hotel-exterior-vertical.jpg?w=1200&h=-1&s=1',
+      ],
+      location: {
+        locationName: 'Via Giulia 62, 00186 Rome Italy',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.7516078976378!2d12.463630475085559!3d41.89819876415707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f60437b4d4847%3A0x2fbee6f09fbdd0b8!2sHotel%20Indigo%20Rome%20-%20St.%20George%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698469025233!5m2!1sen!2seg',
+      },
+      price: '339$',
+      phone: '00 1 877-859-5095',
+      website:
+        'https://www.ihg.com/hotelindigo/hotels/us/en/rome/romsg/hoteldetail?fromRedirect=true&qSrt=sAV&qIta=99618083&icdv=99618083&glat=MEDI_TABA-website_mdpr_TripAdvisorUS_BLwebsiteD_ROMSG_us_en_ba&qSlH=ROMSG&qRms=1&qAdlt=2&qChld=0&qCiD=28&qCiMy=092023&qCoD=29&qCoMy=092023&setPMCookies=true&qSHBrC=IN&qDest=Via%2520Giulia%252062%252C%2520Rome%252C%2520IT&cm_mmc=TABA-website_mdpr_TripAdvisorUS_BLwebsiteD_ROMSG_us_en_ba&srb_u=1',
+      rating: 4.5,
+      reviews: 1974,
+      country_id: 22,
+      id: 13,
+    },
+    {
+      name: "Hilton Rome Airport Hotel",
+      description:"Hilton Rome Airport is directly connected to Leonardo da Vinci Fiumicino Airport via a covered overpass with a moving walkway, just 7 minutes walking ditance. Stylishly appointed and modern in design, this contemporary hotel offers upscale amenities, fine dining and warm hospitality, supported by friendly and professional Hilton Team Members. 35 minutes from downtown Rome, free wi-fi Internet access in public areas, swimming pool with Jacuzzi and Fitness Centre featuring the latest generation of cardio and strength training equipment, will help you to feel your best during the stay. 517 stylish and soundproof guest rooms including 108 Executive Rooms and 15 Suites with access to the Executive Lounge (serving complimentary breakfast and refreshments all day). On site Le Colonne Restaurant serving Buffet breakfast, lunch and dinner and Caffe Tevere Bistro with a delicious selection of pizzas, pastas, burgers and creative salads. A Kids Menu is also available, offering chicken nuggets, mini burgers and ice cream. An In-Room Dining menu is located in each guest room and offers a variety of food and beverage items for you to enjoy. Hilton Rome Airport is located 8 miles from the Parco de Medici business district and 6.5 miles from Fiera di Roma Exhibition Centre. Parco Leonardo shopping mall is just one train stop from the Airport station.",
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/79/af/01/exterior.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/79/af/76/business-center.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/79/af/70/barlounge.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/79/af/6a/meeting-room.jpg?w=1100&h=-1&s=1',
+      ],
+      location: {
+        locationName: 'Via Arturo Ferrarin, 2, 00054, Fiumicino Italy',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.697849570237!2d12.252955875079032!3d41.79172497081927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1325f09e26a242e7%3A0x8f107daa05815605!2sHilton%20Rome%20Airport!5e0!3m2!1sen!2seg!4v1698469250544!5m2!1sen!2seg',
+      },
+      price: '339$',
+      phone: '00 1 877-859-5095',
+      website:
+        'https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=ROMAP&arrivalDate=2023-10-28&departureDate=2023-10-29&room1NumAdults=2&ta_refid=12126655-e09e-48dc-829d-aea8bf999387&mc_id=zINDA0EMEA1HI2OLX3TA4INTTABA5WB6ROMAPTW7_110561617_8141862&utm_source=tripadvisor&utm_medium=intlmeta&utm_campaign=business_listings&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_rgROIlpn1PHTN7n0oIuRGqgTDNxHu6xJA7UatueOnRvD_BwE',
+      rating: 3.5,
+      reviews: 6268,
+      country_id: 22,
+      id: 14,
+    },
     {
       name: "Crowne Plaza Rome - St. Peter's, an IHG Hotel",
       images: [
@@ -288,6 +378,7 @@ export function getHotels() {
     },
     {
       name: 'Rome Marriott Grand Hotel Flora',
+      description:"Rome Marriott Grand Hotel Flora - il cuore di Via Veneto batte in altoImmerse in your personal 'Dolce Vita' at the Rome Marriott Grand Hotel Flora, right on top of the noble Via Veneto and next door to the Villa Borghese gardens.This gracious edifice with the stylish decor capturing the grandeur of Neoclassicism is exclusively designed for those looking for refined luxury in an atmosphere of sophistication and the highest level of welcoming hospitality anticipating every need of today's business or leisure traveller.Just sink back in the timeless elegance of the superbly appointed rooms and relax, or delight in the culinary highlights of the Mediterranean cuisine at the restaurant The Cabiria. The adjoining bar is the ideal place to meet, to see, or be seen, or to take in the flamboyant atmosphere of Via Veneto.The rooftop Ailanto is the perfect setting for wedding receptions and exclusive celebrations, or simply for admiring the enchanting view over the roofs of the Eternal city.Rome Marriott Grand Hotel Flora - right on the top.",
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0f/8a/01/exterior.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0f/8a/2f/flora-rooftop-terrace.jpg?w=1200&h=-1&s=1',
@@ -310,6 +401,7 @@ export function getHotels() {
     },
     {
       name: 'The Westin Excelsior, Rome',
+      description:"Our 5-star hotel is one of the city's most imposing palaces, rich in history and located on one of the most celebrated and talked about streets of Rome and close to Rome's main attractions: the legendary Via Veneto, nestled between the Spanish Steps and the Borghese Gardens Gallery. The Westin Excelsior’s magnificent and imposing dome unveils the most spectacular and opulent suite in Europe – the unparalleled Villa La Cupola offering the ultra-elite a truly ‘Roman Emperor‘ experience. Set on two floors, the suite combines breathtaking views of the city with sumptuous splendours throughout.",
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/47/exterior.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/a2/winter-garden-meeting.jpg?w=1200&h=-1&s=1',
@@ -331,26 +423,73 @@ export function getHotels() {
       id: 17,
     },
     {
-      name: "The Westin Excelsior, Rome",
+      name: "Marcella Royal Hotel - Rooftop Garden",
+      description:"See why so many travelers make Marcella Royal Hotel their hotel of choice when visiting Rome. Providing an ideal mix of value, comfort and convenience, it offers a romantic setting with an array of amenities designed for travelers like you.Free wifi is offered to guests, and rooms at Marcella Royal Hotel offer a flat screen TV, air conditioning, and a minibar. During your stay, take advantage of some of the amenities offered, including a concierge, a rooftop terrace, and room service. Guests of Marcella Royal Hotel are also welcome to enjoy free breakfast, located on site. While staying at Marcella Royal Hotel Rome, visitors can check out Colosseum (1.3 mi) and Pantheon (1.3 mi), some of Rome's top attractions. During your visit, be sure to check out one of Rome's popular ramen restaurants such as Mercato Centrale Roma, Waraku, and Kisaki Ramen & Sushi, all a short distance from Marcella Royal Hotel.Rome is also known for some great gardens, including Villa Doria Pamphilj, Roseto Comunale, and Parco Savello, which are not too far from Marcella Royal Hotel.We’re sure you’ll enjoy your stay at Marcella Royal Hotel as you experience all of the things Rome has to offer.",
       images: [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/47/exterior.jpg?w=1200&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/a2/winter-garden-meeting.jpg?w=1200&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/9b/outdoor-activities-e.jpg?w=1200&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/99/private-tennis-lesson.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/05/73/06/rooftop-garden.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/06/c7/ac/prestige-room.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/33/31/30/marcella-royal-hotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/06/c6/b8/suite.jpg?w=1200&h=-1&s=1",
       ],
       location: {
-        locationName: "125, Via Vittorio Veneto, 00187 Rome Italy",
+        locationName: "Via Flavia 106, 00187 Rome Italy",
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.3101773862227!2d12.487500175086149!3d41.90769036356257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6107544fb047%3A0x79f6a0a46f732437!2sThe%20Westin%20Excelsior%2C%20Rome!5e0!3m2!1sen!2sus!4v1698465974499!5m2!1sen!2sus",
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.301451759475!2d12.49554427508612!3d41.90787796355072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61084b73fee1%3A0xc48154e7b909a1f3!2sMarcella%20Royal%20Hotel!5e0!3m2!1sen!2seg!4v1698469831930!5m2!1sen!2seg",
       },
-      price: "585$",
-      phone: "00 1 844-631-0595",
+      price: "184$",
+      phone: "00 39 06 4201 4591",
       website:
-        "https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_r8GDHhc29P0lw1j1_woQJ9gwwCLs2x7jN_GPiocl6aPD_BwE",
-      rating: 4,
-      reviews: 3150,
+        "https://www.marcellaroyalhotel.com/?utm_source=Tripadvisor&utm_medium=Homepage&utm_campaign=Trip23",
+      rating: 4.5,
+      reviews: 3352,
       country_id: 22,
       id: 18,
+    },
+    {
+      name: "The St. Regis Rome",
+      description:"Introduced to Rome society in 1894, the architecturally iconic St. Regis Rome is located in one of the city’s most impressive palazzos. The pioneer St. Regis in Europe and a social beacon for Romans and international travelers, the hotel has emerged to define a new era of luminosity. Blending a noble heritage with fearless, elegant interiors has transformed this grand dame into a supremely luxurious and artful residence. High-ceilinged and light-filled, the guestrooms and suites are styled with luxurious Rubelli fabrics, handmade glass and collectable curios – effortlessly sophisticated and distinctively urbane. A contemporary take on a historic address, St. Regis Rome has shed its former bearing and stepped out, into the limelight to truly own Rome. Radiant and luminous, it combines fearless elegance, disruptive artistry and discerning enlightenment. Starting from January 2020, The St. Regis Rome is the permanent exhibition space for the world-renowned art gallery Galleria Continua in Rome.",
+      images: [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/c3/lobby.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ab/e0/f0/external-facade.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6e/62/ritz-ballroom-gala-dinner.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6e/5f/principe-room.jpg?w=1200&h=-1&s=1",
+      ],
+      location: {
+        locationName: "Via Vittorio Emanuele Orlando, 3, 00185 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.478297625635!2d12.492297975085915!3d41.90407566378893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13256cb7df8064c7%3A0xffc5e7bf84acf2b!2sThe%20St.%20Regis%20Rome!5e0!3m2!1sen!2seg!4v1698470466010!5m2!1sen!2seg",
+      },
+      price: "1241$",
+      phone: "00 1 844-631-0595",
+      website:
+        "https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      rating: 4.5,
+      reviews: 2569,
+      country_id: 22,
+      id: 19,
+    },
+    {
+      name: "Albergo del Senato",
+      description:"Finding an ideal romantic hotel in Rome does not have to be difficult. Welcome to Albergo del Senato, a nice option for travelers like you. For those interested in checking out popular landmarks while visiting Rome, Albergo del Senato is located a short distance from Palatine Hill (0.8 mi) and Villa Borghese (1.3 mi). You’ll enjoy relaxing rooms that offer a flat screen TV, air conditioning, and a minibar, and you can stay connected during your stay as Albergo Del Senato Rome offers guests free wifi. The hotel features a 24 hour front desk, a rooftop terrace, and a concierge. Plus, Rome Senato Hotel offers free breakfast, providing a pleasant respite from your busy day. If you’re looking for something to do, Colosseum (1.0 mi), Trastevere (1.0 mi), and Pantheon (0.0 mi) are a nice way to spend some time, and they are all within walking distance of Albergo Del Senato Rome. Albergo del Senato looks forward to welcoming you on your visit to Rome.",
+      images: [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/53/47/c9/superior-double-room.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/7a/cd/71/view-from-lobby-bar.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/53/4f/bc/triple-with-a-double.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/53/45/38/reception-concierge-24h.jpg?w=1200&h=-1&s=1",
+      ],
+      location: {
+        locationName: "Via delle Alpi 15D, 00198 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.8931070649214!2d12.505108775086693!3d41.91665656300087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f616d40d44e39%3A0x14c885321d2f2c3e!2sPalm%20Gallery%20Hotel!5e0!3m2!1sen!2seg!4v1698470962476!5m2!1sen!2seg",
+      },
+      price: "228$",
+      phone: "00 39 06 678 4343",
+      website:
+        "https://www.albergodelsenato.it/?utm_source=Tripadvisor&utm_medium=Home&utm_campaign=Trip23",
+      rating: 4.5,
+      reviews: 4536,
+      country_id: 22,
+      id: 20,
     },
 
     {
