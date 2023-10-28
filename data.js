@@ -355,7 +355,7 @@ export function getHotels() {
 
     {
       name: 'Kempinski Summerland Hotel & Resort Beirut',
-      image: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4a/f4/38/kempinski-summerland.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/71/d7/ec/kempinski-summerland.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4a/f3/e1/kempinski-summerland.jpg?w=300&h=300&s=1',
@@ -373,7 +373,7 @@ export function getHotels() {
     },
     {
       name: 'The Smallville Hotel',
-      image: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/54/02/the-smallville-hotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/0e/d2/e6/the-smallville-hotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/19/17/09/caption.jpg?w=300&h=300&s=1',
@@ -392,7 +392,7 @@ export function getHotels() {
     },
     {
       name: 'InterContinental Phoenicia Beirut',
-      image: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/10/80/d7/hotel-exterior.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/68/c0/48/cascade-lounge.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/fc/9a/9f/double-bed-guest-room.jpg?w=300&h=300&s=1',
@@ -410,7 +410,7 @@ export function getHotels() {
     },
     {
       name: 'Radisson Blu Martinez Hotel, Beirut',
-      image: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d2/51/7e/hotel-exterior.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/92/5a/ae/bed-and-desk.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/61/view-from-roof.jpg?w=300&h=300&s=1',
@@ -427,7 +427,7 @@ export function getHotels() {
     },
     {
       name: 'Crowne Plaza Beirut, an IHG Hotel',
-      image: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c2/22/business-center-where.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c2/21/meeting-room.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c2/1e/the-elegant-vivadi-restaurant.jpg?w=300&h=300&s=1',
@@ -445,7 +445,7 @@ export function getHotels() {
     },
     {
       name: 'The Key ApartHotel',
-      image: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/ad/d6/the-key-aparthotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/a5/48/the-key-aparthotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/ac/4f/the-key-aparthotel.jpg?w=300&h=300&s=1',
@@ -464,7 +464,7 @@ export function getHotels() {
     },
     {
       name: 'Hollywood Inn Hotel',
-      image: [
+      images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/82/0c/e1/royal-suites.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/82/0a/eb/junior-suites-top-floor.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/99/5f/49/filename-lobby2-jpg-thumbnail0.jpg?w=300&h=300&s=1',
@@ -482,7 +482,7 @@ export function getHotels() {
     },
     {
       name: 'Suite Hotel Chrome',
-      image: [
+      iamges: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/38/2a/jacuzzi-suite.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3b/50/deluxe-2-bedroom.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3a/9f/executive-suite.jpg?w=300&h=300&s=1',
@@ -501,7 +501,7 @@ export function getHotels() {
     },
     {
       name: 'Princessa Hotel',
-      image: [
+      iamges: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ee/91/d2/princessa-hotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bd/da/f1/breakfast.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bd/da/ab/breakfast.jpg?w=300&h=300&s=1',
@@ -519,7 +519,7 @@ export function getHotels() {
     },
     {
       name: 'Ahiram Hotel',
-      image: [
+      iamges: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6a/70/b1/ahiram-hotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6a/70/d4/ahiram-hotel.jpg?w=300&h=300&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/13/4c/08/photo0jpg.jpg?w=300&h=300&s=1',
@@ -566,7 +566,7 @@ export function getRestaurant() {
   return [
     {
       name: 'Solis Restaurant ',
-      images: [
+      iamges: [
         'https://media-cdn.tripadvisor.com/media/photo-s/1a/43/d8/9b/solis-restaurant.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-f/1a/65/c4/9f/enjoy-drinking-over-a.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-f/1a/65/c4/5e/feed-your-soul-freshness.jpg',
