@@ -232,22 +232,111 @@ export function getHotels() {
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6c/e8/4f/ristorante-le-terrazze.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/37/9d/58/singer.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6c/ee/91/jim-s-bar.jpg?w=1200&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/52/spa.jpg?w=1200&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/51/ambrosia-restaurant-exterior.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6c/ee/31/ristorante-le-terrazze.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6c/ed/ee/ristorante-le-terrazze.jpg?w=1200&h=-1&s=1",
       ],
       location: {
-        locationName: "Via Nazionale 22, 00184 Rome Italy",
+        locationName: "Via Alessandro Specchi 10, 00186 Rome Italy",
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.6295896901843!2d12.491079775085659!3d41.90082256399273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61af3c2971f9%3A0x2edb75cb2a49720a!2sHotel%20Artemide!5e0!3m2!1sen!2sus!4v1698459248015!5m2!1sen!2sus",
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.716883706735!2d12.47856517508563!3d41.89894546411033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f605287c0737b%3A0xc18194e086c2e1fd!2sSinger%20Palace%20Hotel!5e0!3m2!1sen!2sus!4v1698464414563!5m2!1sen!2sus",
       },
-      price: "283$",
-      phone: "00 39 06 489911",
+      price: "575$",
+      phone: "00 39 06 697 6161",
       website:
-        "https://www.hotelartemide.it/en/?utm_source=TripAdvisor&utm_medium=Link&utm_campaign=TripAdvisorBusinessListing&utm_content=WebsiteLink",
-      rating: 4.5,
-      reviews: 8900,
+        "https://singerpalacehotel.com/?utm_source=tripadvisor&utm_medium=referral&utm_campaign=TripAdvisor_ContactLinks",
+      rating: 5,
+      reviews: 881,
       country_id: 22,
       id: 13,
+    },
+
+    {
+      name: "Hotel Indigo Rome - St. George, an IHG Hotel",
+      images: [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a9/9b/fd/caption.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ab/92/36/i-sofa-bar-restaurant.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7c/7b/bd/dinner-with-a-view-from.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6c/ee/31/ristorante-le-terrazze.jpg?w=1200&h=-1&s=1",
+      ],
+      location: {
+        locationName: "Via Giulia 62, 00186 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.7516078976373!2d12.463630475085552!3d41.89819876415708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f60437b4d4847%3A0x2fbee6f09fbdd0b8!2sHotel%20Indigo%20Rome%20-%20St.%20George%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698464867020!5m2!1sen!2sus",
+      },
+      price: "339$",
+      phone: "00 1 877-859-5095",
+      website:
+        "https://www.ihg.com/hotelindigo/hotels/us/en/rome/romsg/hoteldetail?fromRedirect=true&qSrt=sAV&qIta=99618083&icdv=99618083&glat=MEDI_TABA-website_mdpr_TripAdvisorUS_BLwebsiteD_ROMSG_us_en_ba&qSlH=ROMSG&qRms=1&qAdlt=2&qChld=0&qCiD=27&qCiMy=092023&qCoD=28&qCoMy=092023&setPMCookies=true&qSHBrC=IN&qDest=Via%2520Giulia%252062%252C%2520Rome%252C%2520IT&cm_mmc=TABA-website_mdpr_TripAdvisorUS_BLwebsiteD_ROMSG_us_en_ba&srb_u=1",
+      rating: 4.5,
+      reviews: 1974,
+      country_id: 22,
+      id: 14,
+    },
+    {
+      name: "Crowne Plaza Rome - St. Peter's, an IHG Hotel",
+      images: [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c0/94/view-over-the-swimming.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/01/9f/68/lobby--v2084065.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/01/9c/e2/le-jardin-dhiver-breakfast-room--.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/01/9f/01/lobby--v2083717.jpg?w=1200&h=-1&s=1",
+      ],
+      location: {
+        locationName: "Via Aurelia Antica 415, 00165 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.186768468939!2d12.42349867508495!3d41.888840264743095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f5fe8b4bf70cd%3A0x586cc964285c08da!2sCrowne%20Plaza%20Rome%20-%20St.%20Peter&#39;s%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698465249908!5m2!1sen!2sus",
+      },
+      price: "148$",
+      phone: "00 1 877-859-5095",
+      website:
+        "https://www.ihg.com/crowneplaza/hotels/gb/en/rome/romsp/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-IT-_-ROMSP",
+      rating: 4,
+      reviews: 4892,
+      country_id: 22,
+      id: 15,
+    },
+    {
+      name: "Rome Marriott Grand Hotel Flora",
+      images: [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0f/8a/01/exterior.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0f/8a/2f/flora-rooftop-terrace.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0f/8a/2e/wedding-setup.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0f/8a/2d/flora-rooftop-terrace.jpg?w=1200&h=-1&s=1",
+      ],
+      location: {
+        locationName: "Via Vittorio Veneto 191, 00187 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.244543706119!2d12.486416075086192!3d41.909101463474066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6100c4481bff%3A0xac87579417893429!2sRome%20Marriott%20Grand%20Hotel%20Flora!5e0!3m2!1sen!2sus!4v1698465651934!5m2!1sen!2sus",
+      },
+      price: "439$",
+      phone: "00 1 844-631-0595",
+      website:
+        "https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_rgxyE2JwBwKGW__CJfIVJsjHZw3zLXI2PPWnbh3o6SfD_BwE",
+      rating: 4,
+      reviews: 2010,
+      country_id: 22,
+      id: 16,
+    },
+    {
+      name: "The Westin Excelsior, Rome",
+      images: [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/47/exterior.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/a2/winter-garden-meeting.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/9b/outdoor-activities-e.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/6d/99/private-tennis-lesson.jpg?w=1200&h=-1&s=1",
+      ],
+      location: {
+        locationName: "125, Via Vittorio Veneto, 00187 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.3101773862227!2d12.487500175086149!3d41.90769036356257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6107544fb047%3A0x79f6a0a46f732437!2sThe%20Westin%20Excelsior%2C%20Rome!5e0!3m2!1sen!2sus!4v1698465974499!5m2!1sen!2sus",
+      },
+      price: "585$",
+      phone: "00 1 844-631-0595",
+      website:
+        "https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_r8GDHhc29P0lw1j1_woQJ9gwwCLs2x7jN_GPiocl6aPD_BwE",
+      rating: 4,
+      reviews: 3150,
+      country_id: 22,
+      id: 17,
     },
 
 
