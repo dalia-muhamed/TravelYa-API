@@ -805,14 +805,18 @@ export function getCities() {
 export function getRestaurant() {
   return [
     {
-      name: "Solis Restaurant ",
+      name: "Solis Restaurant",
       images: [
         "https://media-cdn.tripadvisor.com/media/photo-s/1a/43/d8/9b/solis-restaurant.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-f/1a/65/c4/9f/enjoy-drinking-over-a.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-f/1a/65/c4/5e/feed-your-soul-freshness.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-p/1c/ab/3b/e0/shrimp-linguine-with.jpg",
       ],
-      location: "29 Cornish El Nil Maadi, Cairo 11511 Egypt",
+      location: {
+        locationName: "29 Cornish El Nil Maadi, Cairo 11511 Egypt",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.6474623522304!2d31.245395874453486!3d29.96081742253004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145847f500fd4313%3A0x9ec4cf8ba351cea6!2sSolis%20Restaurant!5e0!3m2!1sen!2seg!4v1698602519988!5m2!1sen!2seg",
+      },
       phone: "+20 115 812 2200",
       website: "https://www.facebook.com/SolisLounge/",
       rating: 4.2,
@@ -828,8 +832,13 @@ export function getRestaurant() {
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWODl-3cSOEZkKYUj00aILLxFLqFnJjFCMJDK4UnGCmg&s",
         "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/370037088_334477472258886_3945309400591221769_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0DUQHQGkUwUAX-1s5-q&_nc_ht=scontent.fcai20-1.fna&oh=00_AfDGjHonGsroKecXTLMdSQ8-XBr5y7LIhAHpCISpOtdiIg&oe=6541575F",
       ],
-      location:
-        "Maadi Al Khabiri Ash Sharqeyah, Maadi, Cairo Governorate 11728",
+      location: {
+        locationName:
+          "Maadi Al Khabiri Ash Sharqeyah, Maadi, Cairo Governorate 11728",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.8169956217134!2d31.25686257445332!3d29.955942122760433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145847ae4d14d407%3A0xbd4a4057af0f0eef!2sTree%20Lounge%20Maadi%20Branch!5e0!3m2!1sen!2seg!4v1698602452883!5m2!1sen!2seg",
+      },
+
       phone: "+20 102 557 9192",
       website: "https://www.facebook.com/Tree.Lounge1/",
       rating: 4.4,
@@ -838,7 +847,7 @@ export function getRestaurant() {
       country_id: 11,
     },
     {
-      name: " Al Khal Egyptian Restaurant",
+      name: "Al Khal Egyptian Restaurant",
       images: [
         "https://digital.ihg.com/is/image/ihg/intercontinental-cairo-6090070368-16x9",
         "https://digital.ihg.com/is/image/ihg/intercontinental-cairo-6089741642-3x2",
@@ -846,8 +855,13 @@ export function getRestaurant() {
         "https://digital.ihg.com/is/image/ihg/intercontinental-cairo-5304407063-3x2",
         "https://media-cdn.tripadvisor.com/media/photo-f/0e/ae/b1/9a/al-khal-egyptian-dishes.jpg",
       ],
-      location:
-        "InterContinental Cairo Citystars Omar Bin Khattab Street, Cairo 11511 Egypt",
+      location: {
+        locationName:
+          "InterContinental Cairo Citystars Omar Bin Khattab Street, Cairo 11511 Egypt",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7598663161407!2d31.345464274458433!3d30.07241701724682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145815c93997462b%3A0xc10c3656b8fcf60!2sAl%20Khal%20Egyptian%20Restaurant!5e0!3m2!1sen!2seg!4v1698602369056!5m2!1sen!2seg",
+      },
+
       phone: "+202 24 800 009",
       website:
         "https://www.ihg.com/intercontinental/hotels/gb/en/cairo/crohc/hoteldetail/dining?cm_mmc=GoogleMaps-_-IC-_-EG-_-CROHC",
@@ -864,8 +878,13 @@ export function getRestaurant() {
         "https://media-cdn.tripadvisor.com/media/photo-f/0b/08/21/78/tuscan-interiors-with.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-f/0b/08/21/7a/daylight-lunch-overlooking.jpg",
       ],
-      location:
-        "Royal Maxim Palace Kempinski Cairo, First Settlement, New Cairo First Settlement, New Cairo, Cairo 11477 Egyp",
+      location: {
+        locationName:
+          "Royal Maxim Palace Kempinski Cairo, First Settlement, New Cairo First Settlement, New Cairo, Cairo 11477 Egyp",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.1776735628277!2d31.416917074457952!3d30.06044121781459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583d6650eed755%3A0xab33fbd8c8b1458f!2sLucca%20Italian%20Restaurant!5e0!3m2!1sen!2seg!4v1698602284392!5m2!1sen!2seg",
+      },
+
       phone: "+20 109 711 1151",
       website:
         "https://www.kempinski.com/en/royal-maxim-palace-kempinski-cairo/restaurants-bars/lucca",
@@ -882,8 +901,13 @@ export function getRestaurant() {
         "https://media-cdn.tripadvisor.com/media/photo-f/12/2b/14/98/bab-el-sharq.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-p/12/2b/14/67/bab-el-sharq.jpg",
       ],
-      location:
-        "1113 Corniche El Nil The Nile Ritz Carlton , ground Floor, Cairo 11221 Egypt",
+      location: {
+        locationName:
+          "1113 Corniche El Nil The Nile Ritz Carlton , ground Floor, Cairo 11221 Egypt",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.698895896704!2d31.2296152744573!3d30.045495118522926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840c5c6143a17%3A0x76815075626b6809!2sBab%20El-Sharq!5e0!3m2!1sen!2seg!4v1698602195065!5m2!1sen!2seg ",
+      },
+
       phone: "+202 257 788 99",
       website:
         "https://www.ritzcarlton.com/en/hotels/cairz-the-nile-ritz-carlton-cairo/dining/",
@@ -900,7 +924,11 @@ export function getRestaurant() {
         "https://media-cdn.tripadvisor.com/media/photo-f/19/37/0d/48/8-chinese-restaurant.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-f/1b/69/3b/d4/8-chinese-restaurant.jpg",
       ],
-      location: "1089 Corniche El Nil Garden City, Cairo 11519 Egypt",
+      location: {
+        locationName: "1089 Corniche El Nil Garden City, Cairo 11519 Egypt",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.0215076219065!2d31.226881874456858!3d30.036240818961275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458408f25846503%3A0x84d599fc271bd09b!2s8%20Restaurant!5e0!3m2!1sen!2seg!4v1698602095898!5m2!1sen!2seg",
+      },
       phone: "+202 27 916 888",
       website: "https://www.fourseasons.com/caironp/dining/restaurants/8/",
       rating: 4.2,
