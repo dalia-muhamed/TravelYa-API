@@ -511,16 +511,18 @@ export function getHotels() {
 
     {
       name: "Kempinski Summerland Hotel & Resort Beirut",
-      description:'Welcome to Kempinski Summerland Hotel & Resort, the exclusive five-star luxury hotel and beach resort in Beirut. A distinguished location on the coast of the Mediterranean Sea, a hotel and resort uniquely famous in Beirut for Summerland Bay\'s own private beach and marina, a labyrinth of pools with pool-bars and private Jacuzzi bungalows.',
+      description:
+        "Welcome to Kempinski Summerland Hotel & Resort, the exclusive five-star luxury hotel and beach resort in Beirut. A distinguished location on the coast of the Mediterranean Sea, a hotel and resort uniquely famous in Beirut for Summerland Bay's own private beach and marina, a labyrinth of pools with pool-bars and private Jacuzzi bungalows.",
       images: [
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/48/bb/91/kempinski-summerland.jpg?w=1200&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4a/f2/80/cascade-pool-bar.jpg?w=1200&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4a/f4/0c/kempinski-summerland.jpg?w=1200&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/71/d7/eb/kempinski-summerland.jpg?w=1200&h=-1&s=1'
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/48/bb/91/kempinski-summerland.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4a/f2/80/cascade-pool-bar.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4a/f4/0c/kempinski-summerland.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/71/d7/eb/kempinski-summerland.jpg?w=1200&h=-1&s=1",
       ],
-      location:{
-        locationName:"Al Akhtal Al Saghir, Beirut 1103 Lebanon",
-        locationAddress:"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26499.96786540798!2d35.48395!3d33.876878!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f1756f85ea317%3A0xe2b82e2bc240dc72!2sKempinski%20Summerland%20Hotel%20%26%20Resort!5e0!3m2!1sen!2sus!4v1698495680131!5m2!1sen!2sus"
+      location: {
+        locationName: "Al Akhtal Al Saghir, Beirut 1103 Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26499.96786540798!2d35.48395!3d33.876878!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f1756f85ea317%3A0xe2b82e2bc240dc72!2sKempinski%20Summerland%20Hotel%20%26%20Resort!5e0!3m2!1sen!2sus!4v1698495680131!5m2!1sen!2sus",
       },
       price: "190$",
       phone: "00 961 1 858 000",
@@ -533,16 +535,19 @@ export function getHotels() {
     },
     {
       name: "The Smallville Hotel",
-      description:'The Smallville Hotel is the only urban design, business and lifestyle hotel offering short and extended stays, located in the midst of the electric residential neighborhood of Badaro. The hotel offers both short and extended stays. Comprising of 117 spacious bedrooms, 37 suites and five day-lit meeting rooms, a SPA, GYM, DESIGN SHOP. HAIRSALON, CONCIERGE SERVICE, POOL, VIP AMENITIES, ROOFTOP, 7 RESTAURANTS, The Smallville offers you all the pleasures of a five-star stay. Not only so, but with its simplicity and elegance, this hotel is your gateway to the cultural and artistic beat of the city.',
+      description:
+        "The Smallville Hotel is the only urban design, business and lifestyle hotel offering short and extended stays, located in the midst of the electric residential neighborhood of Badaro. The hotel offers both short and extended stays. Comprising of 117 spacious bedrooms, 37 suites and five day-lit meeting rooms, a SPA, GYM, DESIGN SHOP. HAIRSALON, CONCIERGE SERVICE, POOL, VIP AMENITIES, ROOFTOP, 7 RESTAURANTS, The Smallville offers you all the pleasures of a five-star stay. Not only so, but with its simplicity and elegance, this hotel is your gateway to the cultural and artistic beat of the city.",
       images: [
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2c/71/70/the-smallville-hotel.jpg?w=1000&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/60/41/97/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/52/b3/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/54/f3/df/the-smallville-hotel.jpg?w=1200&h=-1&s=1'
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2c/71/70/the-smallville-hotel.jpg?w=1000&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/60/41/97/the-smallville-hotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/52/b3/the-smallville-hotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/54/f3/df/the-smallville-hotel.jpg?w=1200&h=-1&s=1",
       ],
-        location:{
-        locationName:"Damascus Road, Museum District, Badaro National Museum, Beirut 116-5214 Lebanon",
-        locationAddress:"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13249.161608280363!2d35.517263!3d33.882174!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17060925fc67%3A0x20c56cd455ce9973!2sThe%20Smallville%20Hotel!5e0!3m2!1sen!2sus!4v1698495872868!5m2!1sen!2sus",
+      location: {
+        locationName:
+          "Damascus Road, Museum District, Badaro National Museum, Beirut 116-5214 Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13249.161608280363!2d35.517263!3d33.882174!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17060925fc67%3A0x20c56cd455ce9973!2sThe%20Smallville%20Hotel!5e0!3m2!1sen!2sus!4v1698495872868!5m2!1sen!2sus",
       },
       price: "150$",
       phone: "00 961 1 619 999",
@@ -555,16 +560,18 @@ export function getHotels() {
     },
     {
       name: "InterContinental Phoenicia Beirut",
-      description:'History, glamour and fine dining converge at this landmark Beirut hotel. It overlooks the palm lined Corniche, which snakes alongside trendy Zaitunay Bay marina and the Mediterranean. Beirut Souks, downtown and Beirut Convention Centre are a 10 minute drive. Stylish accommodation, state of the art event facilities and devoted staff are just part of the appeal. Chic bars and restaurants, boutiques and contemporary art collections add to the hotel\'s very special atmosphere and character.',
+      description:
+        "History, glamour and fine dining converge at this landmark Beirut hotel. It overlooks the palm lined Corniche, which snakes alongside trendy Zaitunay Bay marina and the Mediterranean. Beirut Souks, downtown and Beirut Convention Centre are a 10 minute drive. Stylish accommodation, state of the art event facilities and devoted staff are just part of the appeal. Chic bars and restaurants, boutiques and contemporary art collections add to the hotel's very special atmosphere and character.",
       images: [
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/10/80/d7/hotel-exterior.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/68/c0/48/cascade-lounge.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/68/c0/46/pigeon-rocks-in-raouche.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/fc/9a/9d/breakfast-with-a-view.jpg?w=1200&h=-1&s=1",
       ],
-      location:{
-        locationName:"Minet El Hosn, Beirut 846 Lebanon",
-        locationAddress:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.5695413095796!2d35.49240507492145!3d33.9007384257163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f16dc7dbed627%3A0x4c436908c262b02!2sInterContinental%20Phoenicia%20Beirut%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698496229173!5m2!1sen!2sus",
+      location: {
+        locationName: "Minet El Hosn, Beirut 846 Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.5695413095796!2d35.49240507492145!3d33.9007384257163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f16dc7dbed627%3A0x4c436908c262b02!2sInterContinental%20Phoenicia%20Beirut%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698496229173!5m2!1sen!2sus",
       },
       price: "250$",
       phone: "00 1 877-859-5095",
@@ -577,16 +584,18 @@ export function getHotels() {
     },
     {
       name: "Radisson Blu Martinez Hotel, Beirut",
-      description:'Boasting a stunning seaside location, the Radisson Blu Martinez Hotel, Beirut offers a superb place to stay in a city steeped in ancient memories and monuments. Our 185 rooms and suites offer excellent amenities, including free high-speed Wi-Fi, to help you make the most of your stay in Beirut.',
+      description:
+        "Boasting a stunning seaside location, the Radisson Blu Martinez Hotel, Beirut offers a superb place to stay in a city steeped in ancient memories and monuments. Our 185 rooms and suites offer excellent amenities, including free high-speed Wi-Fi, to help you make the most of your stay in Beirut.",
       images: [
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/21/hotel-main-entrance.jpg?w=1100&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/1d/lobby-lounge-terrace.jpg?w=1100&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/1b/junior-suite.jpg?w=1100&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/00/19/olivos-restaurant.jpg?w=1100&h=-1&s=1",
       ],
-      location:{
-        locationName:"Phoenicia Street, Beirut 1267 Lebanon",
-        locationAddress:"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4683.303700953596!2d35.49348492408628!3d33.9000622027084!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f16dbc7258a29%3A0x3a0a0a6969dccdfc!2sRadisson%20Blu%20Martinez%20Hotel%2C%20Beirut!5e0!3m2!1sen!2sus!4v1698496394086!5m2!1sen!2sus" 
+      location: {
+        locationName: "Phoenicia Street, Beirut 1267 Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4683.303700953596!2d35.49348492408628!3d33.9000622027084!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f16dbc7258a29%3A0x3a0a0a6969dccdfc!2sRadisson%20Blu%20Martinez%20Hotel%2C%20Beirut!5e0!3m2!1sen!2sus!4v1698496394086!5m2!1sen!2sus",
       },
       price: "180$",
       phone: "00 961 1 619 999",
@@ -598,16 +607,19 @@ export function getHotels() {
     },
     {
       name: "Crowne Plaza Beirut, an IHG Hotel",
-      description:'Crowne Plaza Beirut hotel is well located in the heart of the capital of Beirut in Hamra Main Street, a prime destination for business, leisure and shopping.The property consists of 190 rooms ,some overlooking the Mediterranean Sea equipped with free high-speed internet, laptop-sized safe, a minibar and satellite LCD TV. The hotel features an indoor pool, and a full-service on-site Health Club Fitness Zone and an amusement and bowling center.',
+      description:
+        "Crowne Plaza Beirut hotel is well located in the heart of the capital of Beirut in Hamra Main Street, a prime destination for business, leisure and shopping.The property consists of 190 rooms ,some overlooking the Mediterranean Sea equipped with free high-speed internet, laptop-sized safe, a minibar and satellite LCD TV. The hotel features an indoor pool, and a full-service on-site Health Club Fitness Zone and an amusement and bowling center.",
       images: [
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/cd/lobby--v7085318.jpg?w=1200&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/cb/lobby--v7085483.jpg?w=1200&h=-1&s=1',
-      'https://dynamihttps://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/d0/front-desk--v7085531.jpg?w=1200&h=-1&s=1c-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/97/pool--v7085482.jpg?w=1200&h=-1&s=1',
-      ''
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/cd/lobby--v7085318.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/cb/lobby--v7085483.jpg?w=1200&h=-1&s=1",
+        "https://dynamihttps://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/d0/front-desk--v7085531.jpg?w=1200&h=-1&s=1c-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/97/pool--v7085482.jpg?w=1200&h=-1&s=1",
+        "",
       ],
-      location:{
-        locationName:"Hamra Main Street Taj Tower Building, Beirut 7512 Lebanon",
-        locationAddress:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.763947998064!2d35.477386755259985!3d33.895732725372916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1518b4a8dcf68a7b%3A0xfc73e79351f5227b!2sCrowne%20Plaza%20Beirut%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698496630018!5m2!1sen!2sus"
+      location: {
+        locationName:
+          "Hamra Main Street Taj Tower Building, Beirut 7512 Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.763947998064!2d35.477386755259985!3d33.895732725372916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1518b4a8dcf68a7b%3A0xfc73e79351f5227b!2sCrowne%20Plaza%20Beirut%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698496630018!5m2!1sen!2sus",
       },
       price: "195$",
       phone: "00 1 877-859-5095",
@@ -620,16 +632,19 @@ export function getHotels() {
     },
     {
       name: "The Key ApartHotel",
-      description:'THE KEY is a Luxury ApartHotel located in Beirut\'s Museum District. The design is sleek and contemporary with bespoke furniture and artwork sourced from renowned international boutiques. Whether your stay with us is for business or leisure, our spacious luxury apartments offer you a genuine home-from-home feel. Our guests enjoy the convenience and dedicated service of a hotel with added flexibility to make the space their own. Our fully-furnished apartments are within close proximity to major attractions and an excellent array of shops, restaurants and bars. The appealing architecture is by leading architectural firm \'Said Bitar\'',
+      description:
+        "THE KEY is a Luxury ApartHotel located in Beirut's Museum District. The design is sleek and contemporary with bespoke furniture and artwork sourced from renowned international boutiques. Whether your stay with us is for business or leisure, our spacious luxury apartments offer you a genuine home-from-home feel. Our guests enjoy the convenience and dedicated service of a hotel with added flexibility to make the space their own. Our fully-furnished apartments are within close proximity to major attractions and an excellent array of shops, restaurants and bars. The appealing architecture is by leading architectural firm 'Said Bitar'",
       images: [
-       'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/ad/d6/the-key-aparthotel.jpg?w=1200&h=-1&s=1',
-       'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/ac/59/the-key-aparthotel.jpg?w=1200&h=-1&s=1',
-       'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/aa/f1/the-spa.jpg?w=1200&h=-1&s=1',
-       'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/a7/0c/the-gym.jpg?w=1200&h=-1&s=1'
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/ad/d6/the-key-aparthotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/ac/59/the-key-aparthotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/aa/f1/the-spa.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/2c/a7/0c/the-gym.jpg?w=1200&h=-1&s=1",
       ],
-        location:{
-        locationName:"Palais de Justice District, Corniche du Fleuve, Beirut 1670 Lebanon",
-        locationAddress:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.4269626743403!2d35.52077097492049!3d33.87865612687765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17a9e976c0cf%3A0x41a71d10352f8b25!2sThe%20Key%20ApartHotel!5e0!3m2!1sen!2sus!4v1698496925206!5m2!1sen!2sus"
+      location: {
+        locationName:
+          "Palais de Justice District, Corniche du Fleuve, Beirut 1670 Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.4269626743403!2d35.52077097492049!3d33.87865612687765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17a9e976c0cf%3A0x41a71d10352f8b25!2sThe%20Key%20ApartHotel!5e0!3m2!1sen!2sus!4v1698496925206!5m2!1sen!2sus",
       },
       price: "170$",
       phone: "00 961 1 424 247",
@@ -642,16 +657,19 @@ export function getHotels() {
     },
     {
       name: "Hollywood Inn Hotel",
-      description:'This luxurious hotel overlooks the Mediterranean Sea in Jounie. It includes a rooftop swimming pool and is within walking distance of the Casino Du Liban, and 9 miles from Jeita Grotto. The Hollywood Inn is a boutique hotel that opened in 2010. It features a restaurant, a bar and free Wi-Fi is available in public areas.',
+      description:
+        "This luxurious hotel overlooks the Mediterranean Sea in Jounie. It includes a rooftop swimming pool and is within walking distance of the Casino Du Liban, and 9 miles from Jeita Grotto. The Hollywood Inn is a boutique hotel that opened in 2010. It features a restaurant, a bar and free Wi-Fi is available in public areas.",
       images: [
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/82/0c/e1/royal-suites.jpg?w=1200&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/82/0d/09/royal-suites.jpg?w=1200&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/4d/86/bf/caption.jpg?w=1200&h=-1&s=1',
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/79/ff/01/20151031-113236-largejpg.jpg?w=1200&h=-1&s=1'  
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/82/0c/e1/royal-suites.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/82/0d/09/royal-suites.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/4d/86/bf/caption.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/79/ff/01/20151031-113236-largejpg.jpg?w=1200&h=-1&s=1",
       ],
-        location:{
-        locationName:"Near Casino du Liban Jounieh near Casino Du Liban, Jounieh 100000 Lebanon",
-        locationAddress:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.3898813766373!2d35.64570687492638!3d34.00820192005585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f412df9051915%3A0x355c9bb41d5edf9d!2sHollywood%20Inn%20Boutique%20Hotel!5e0!3m2!1sen!2sus!4v1698497317901!5m2!1sen!2sus"
+      location: {
+        locationName:
+          "Near Casino du Liban Jounieh near Casino Du Liban, Jounieh 100000 Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.3898813766373!2d35.64570687492638!3d34.00820192005585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f412df9051915%3A0x355c9bb41d5edf9d!2sHollywood%20Inn%20Boutique%20Hotel!5e0!3m2!1sen!2sus!4v1698497317901!5m2!1sen!2sus",
       },
       price: "160$",
       phone: "00 961 1 858 000",
@@ -663,16 +681,19 @@ export function getHotels() {
     },
     {
       name: "Suite Hotel Chrome",
-      description:'The Suite Hotel Chrome has 44 large suites divided into 4 categories - Family Suite, Deluxe Double Room (Annex), Executive Suite and Junior Suite. All suites have lively colours and a joyful mood, they are furnished with comfortable beds, large relaxing couches and all the necessary amenities. They are tastefully decorated in a modern and stylish design. With independent air-conditioning system, with climate control, direct dial telephone, Wi-Fi, satellite TV and 24-hour front desk service. In-room hairdryers, iron & board are available upon request. All suites have large modern bathrooms, kitchenette with work bench and refrigerator.',
+      description:
+        "The Suite Hotel Chrome has 44 large suites divided into 4 categories - Family Suite, Deluxe Double Room (Annex), Executive Suite and Junior Suite. All suites have lively colours and a joyful mood, they are furnished with comfortable beds, large relaxing couches and all the necessary amenities. They are tastefully decorated in a modern and stylish design. With independent air-conditioning system, with climate control, direct dial telephone, Wi-Fi, satellite TV and 24-hour front desk service. In-room hairdryers, iron & board are available upon request. All suites have large modern bathrooms, kitchenette with work bench and refrigerator.",
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3b/27/deluxe-2-bedroom.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/6d/meeting-room.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/0f/exterior.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/61/16/59/suite-hotel-chrome.jpg?w=1200&h=-1&s=1'
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3b/27/deluxe-2-bedroom.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/6d/meeting-room.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/0f/exterior.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/61/16/59/suite-hotel-chrome.jpg?w=1200&h=-1&s=1",
       ],
-        location:{
-        locationName:"6 Saint-George Square 82 Facing Cepp Street 61 Sector Jal El-Dib, Beirut Lebanon",
-        locationAddress:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.302534179846!2d35.586791974921844!3d33.907612425354685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f3e73137d2ffd%3A0x2d1d430ca567b5d!2sSuite%20Hotel%20Chrome!5e0!3m2!1sen!2sus!4v1698497921718!5m2!1sen!2sus"
+      location: {
+        locationName:
+          "6 Saint-George Square 82 Facing Cepp Street 61 Sector Jal El-Dib, Beirut Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.302534179846!2d35.586791974921844!3d33.907612425354685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f3e73137d2ffd%3A0x2d1d430ca567b5d!2sSuite%20Hotel%20Chrome!5e0!3m2!1sen!2sus!4v1698497921718!5m2!1sen!2sus",
       },
       price: "150$",
       phone: "00 961 1 619 999",
@@ -685,16 +706,18 @@ export function getHotels() {
     },
     {
       name: "Princessa Hotel",
-      description:'On the Mediterranean Sea in the entertainment district of Jounieh Coastal Road, this 4-star boutique hotel features sumptuous accommodations with free Wi-Fi. It offers a rooftop terrace with sea and mountain views and a spa. All rooms and suites at the Princessa Hotel are tastefully furnished and equipped with air conditioning and flat-screen TVs. Some suites feature a private Jacuzzi while most have balconies with bay or coastline views. Guests can treat themselves to a health or beauty treatment in Princessa\'s spa or relax in its sauna or Jacuzzi. ',
+      description:
+        "On the Mediterranean Sea in the entertainment district of Jounieh Coastal Road, this 4-star boutique hotel features sumptuous accommodations with free Wi-Fi. It offers a rooftop terrace with sea and mountain views and a spa. All rooms and suites at the Princessa Hotel are tastefully furnished and equipped with air conditioning and flat-screen TVs. Some suites feature a private Jacuzzi while most have balconies with bay or coastline views. Guests can treat themselves to a health or beauty treatment in Princessa's spa or relax in its sauna or Jacuzzi. ",
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ee/91/d2/princessa-hotel.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ee/b3/e4/princessa-hotel.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/41/1a/db/princessa-hotel.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/51/59/fb/photo0jpg.jpg?w=1200&h=-1&s=1'
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ee/91/d2/princessa-hotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ee/b3/e4/princessa-hotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/41/1a/db/princessa-hotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/51/59/fb/photo0jpg.jpg?w=1200&h=-1&s=1",
       ],
-      location:{
-      locationName:"Maameltein Main Road, Jounieh 1200 Lebanon",
-      locationAddress:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.9098047302923!2d35.639888074925864!3d33.994850420759946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f40da0baf25c5%3A0xca6b4700284c553f!2sPrincessa%20Hotel!5e0!3m2!1sen!2sus!4v1698513620111!5m2!1sen!2sus"
+      location: {
+        locationName: "Maameltein Main Road, Jounieh 1200 Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.9098047302923!2d35.639888074925864!3d33.994850420759946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f40da0baf25c5%3A0xca6b4700284c553f!2sPrincessa%20Hotel!5e0!3m2!1sen!2sus!4v1698513620111!5m2!1sen!2sus",
       },
       price: "190$",
       phone: "00 961 1 858 000",
@@ -707,16 +730,18 @@ export function getHotels() {
     },
     {
       name: "Ahiram Hotel",
-      description:'As you visit Byblos, the city that gave the world the gift of writing, you cannot miss Hotel Ahiram, the relaxing beach front hotel that is located on a beach overlooking a beautiful rocky bay, a few steps away from the citadel, the old port and the market of Byblos. At Ahiram Hotel, the place in Byblos you can call home, you will be welcomed by a familial atmosphere and you will enjoy the charming local hospitality. From the hotel\'s 25 rooms overlooking the sea, you can admire the breathtaking sunset or watch the fishing boats slowly disappear in the horizon.',
+      description:
+        "As you visit Byblos, the city that gave the world the gift of writing, you cannot miss Hotel Ahiram, the relaxing beach front hotel that is located on a beach overlooking a beautiful rocky bay, a few steps away from the citadel, the old port and the market of Byblos. At Ahiram Hotel, the place in Byblos you can call home, you will be welcomed by a familial atmosphere and you will enjoy the charming local hospitality. From the hotel's 25 rooms overlooking the sea, you can admire the breathtaking sunset or watch the fishing boats slowly disappear in the horizon.",
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/dd/09/b9/ahiram-hotel.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/dd/0a/af/ahiram-hotel.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/83/8f/c5/360-photo.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/13/4c/08/photo0jpg.jpg?w=1200&h=-1&s=1'
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/dd/09/b9/ahiram-hotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/dd/0a/af/ahiram-hotel.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/83/8f/c5/360-photo.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/13/4c/08/photo0jpg.jpg?w=1200&h=-1&s=1",
       ],
-      location:{
-      locationName:"Jbeil Street, Byblos Lebanon",
-      locationAddress:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3302.856224929715!2d35.64177237493198!3d34.12443031391652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f5cafb1a38c59%3A0x35e8d568f043e07a!2sAhiram%20Hotel%20Byblos!5e0!3m2!1sen!2sus!4v1698514882576!5m2!1sen!2sus"
+      location: {
+        locationName: "Jbeil Street, Byblos Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3302.856224929715!2d35.64177237493198!3d34.12443031391652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f5cafb1a38c59%3A0x35e8d568f043e07a!2sAhiram%20Hotel%20Byblos!5e0!3m2!1sen!2sus!4v1698514882576!5m2!1sen!2sus",
       },
       price: "180$",
       phone: "00 1 877-859-5095",
@@ -728,25 +753,23 @@ export function getHotels() {
       id: 30,
     },
     {
-      name: 'Atlantis The Palm',
-      description:
-          '',
+      name: "Atlantis The Palm",
+      description: "",
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b2/2e/64/atlantis-the-palm.jpg?w=1000&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/6f/61/93/atlantis-the-palm.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e4/46/3c/view-from-guest-room.jpg?w=1100&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/25/f4/e5/atlantis-the-palm.jpg?w=1200&h=-1&s=1'
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b2/2e/64/atlantis-the-palm.jpg?w=1000&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/6f/61/93/atlantis-the-palm.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e4/46/3c/view-from-guest-room.jpg?w=1100&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/25/f4/e5/atlantis-the-palm.jpg?w=1200&h=-1&s=1",
       ],
       location: {
-        locationName:
-          'Crescent Road, Dubai United Arab Emirates',
+        locationName: "Crescent Road, Dubai United Arab Emirates",
         locationAddress:
-            'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.15522083419!2d55.1171498!3d25.1304426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f153e3609c979%3A0x5945a418a804ac5!2sAtlantis%2C%20The%20Palm!5e0!3m2!1sen!2seg!4v1698487074675!5m2!1sen!2seg',
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.15522083419!2d55.1171498!3d25.1304426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f153e3609c979%3A0x5945a418a804ac5!2sAtlantis%2C%20The%20Palm!5e0!3m2!1sen!2seg!4v1698487074675!5m2!1sen!2seg",
       },
-      price: '860$',
-      phone: '+971 4 426 0000',
+      price: "860$",
+      phone: "+971 4 426 0000",
       website:
-          'https://www.atlantis.com/dubai?utm_source=tripadvisor&utm_medium=ba',
+        "https://www.atlantis.com/dubai?utm_source=tripadvisor&utm_medium=ba",
       rating: 4.5,
       reviews: 6168,
       country_id: 44,
@@ -794,8 +817,8 @@ export function getRestaurant() {
       website: "https://www.facebook.com/SolisLounge/",
       rating: 4.2,
       reviews: 1400,
+      id: 51,
       country_id: 11,
-      id: 60,
     },
     {
       name: "Tree Lounge Maadi ",
@@ -811,8 +834,8 @@ export function getRestaurant() {
       website: "https://www.facebook.com/Tree.Lounge1/",
       rating: 4.4,
       reviews: 2380,
+      id: 52,
       country_id: 11,
-      id: 61,
     },
     {
       name: " Al Khal Egyptian Restaurant",
@@ -830,8 +853,8 @@ export function getRestaurant() {
         "https://www.ihg.com/intercontinental/hotels/gb/en/cairo/crohc/hoteldetail/dining?cm_mmc=GoogleMaps-_-IC-_-EG-_-CROHC",
       rating: 4.5,
       reviews: 1980,
+      id: 53,
       country_id: 11,
-      id: 62,
     },
     {
       name: "Lucca Italian Restaurant",
@@ -848,8 +871,8 @@ export function getRestaurant() {
         "https://www.kempinski.com/en/royal-maxim-palace-kempinski-cairo/restaurants-bars/lucca",
       rating: 4.7,
       reviews: 1080,
+      id: 54,
       country_id: 11,
-      id: 63,
     },
     {
       name: "Bab El-Sharq",
@@ -866,8 +889,8 @@ export function getRestaurant() {
         "https://www.ritzcarlton.com/en/hotels/cairz-the-nile-ritz-carlton-cairo/dining/",
       rating: 4.6,
       reviews: 4000,
+      id: 55,
       country_id: 11,
-      id: 64,
     },
     {
       name: "8 Chinese Restaurant",
@@ -882,10 +905,211 @@ export function getRestaurant() {
       website: "https://www.fourseasons.com/caironp/dining/restaurants/8/",
       rating: 4.2,
       reviews: 3407,
+      id: 56,
       country_id: 11,
-      id: 65,
     },
-
+    {
+      name: "Osteria da Fortunata - Pellegrino",
+      images: [
+        "https://www.osteriadafortunata.it/wp-content/uploads/2023/09/RCP_7240-scaled-1-1024x684.jpg",
+        "https://admin.leggimenu.it/uploads/voci/75qk7eqm71q1/31355243761573123e596c7.14726502.jpeg",
+        "https://admin.leggimenu.it/uploads/voci/75qk7eqm71q1/1371706853615c4178874e94.35150636.jpeg",
+        "https://admin.leggimenu.it/uploads/voci/75qk7eqm71q1/776053871615762cc2c6488.31501537.jpeg",
+      ],
+      location: {
+        locationName: "Rue Victor Hugo Ashrafieh, Beirut Lebanon",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.847928033165!2d12.469092875085448!3d41.89612746428685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f60458de1f227%3A0xe393531b25d31389!2sOsteria%20da%20Fortunata!5e0!3m2!1sen!2seg!4v1698540955269!5m2!1sen!2seg",
+      },
+      phone: "+39 06 6066 7391",
+      website: "https://www.facebook.com/osteriadafortunatapellegrino/",
+      rating: 4.5,
+      reviews: 13700,
+      id: 61,
+      country_id: 22,
+    },
+    {
+      name: "Osteria da Fortunata - Pellegrino",
+      images: [
+        "https://tonnarello.it/wp-content/uploads/2015/06/chi-siamo3-1024x867.jpg",
+        "https://itemplaridelgusto.it/images/ARTICOLI/Recensioni/ristoranti/Tonnarello_Roma_Gennaio_2020/Carciofo-alla-Giudia.jpg",
+        "https://itemplaridelgusto.it/media/k2/items/cache/556202461533c16857a46ed5bfb7c21c_XL.jpg",
+        "https://itemplaridelgusto.it/images/ARTICOLI/Recensioni/ristoranti/Tonnarello_Roma_Gennaio_2020/Polpette-cacio-e-pepe.jpg",
+      ],
+      location: {
+        locationName: "Via della Paglia 1/2,3, 00153 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.141116821927!2d12.469345157180449!3d41.88982212238016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f603881103955%3A0x40ce99886a2ccd58!2sTonnarello!5e0!3m2!1sen!2seg!4v1698541804346!5m2!1sen!2seg",
+      },
+      phone: "+39 06 6066 7391",
+      website: "https://tonnarello.it/",
+      rating: 4.5,
+      reviews: 36980,
+      id: 62,
+      country_id: 22,
+    },
+    {
+      name: "Ad Hoc Ristorante (Piazza del Popolo)",
+      images: [
+        "https://www.ristoranteadhoc.com/wp-content/uploads/2023/02/ambiente-c-copia-1024x683.jpg",
+        "https://www.ristoranteadhoc.com/wp-content/uploads/2023/02/ambiente-c-copia-1024x683.jpg",
+        "https://www.ristoranteadhoc.com/wp-content/uploads/2023/02/gnocchi-1024x683.jpg",
+        "https://www.ristoranteadhoc.com/wp-content/uploads/2023/02/polpo-1024x683.jpg",
+      ],
+      location: {
+        locationName: "Via Ripetta 43, 00186 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.291223758803!2d12.473541875086166!3d41.908097863537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6056d610a7bf%3A0x40fae6cbdcc1a134!2sRistorante%20Ad%20Hoc!5e0!3m2!1sen!2seg!4v1698542469006!5m2!1sen!2seg",
+      },
+      phone: "+39 06 323 3040",
+      website: "https://www.ristoranteadhoc.com/",
+      rating: 4.5,
+      reviews: 6681,
+      id: 63,
+      country_id: 22,
+    },
+    {
+      name: "Mimì e Cocò",
+      images: [
+        "https://www.mimiecoco.com/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-07-at-11.29.011.jpeg",
+        "https://www.mimiecoco.com/wp-content/uploads/2019/07/IMG-5600.jpg",
+        "https://www.mimiecoco.com/wp-content/uploads/2019/07/IMG-5602.jpg",
+        "https://www.mimiecoco.com/wp-content/uploads/2019/07/IMG-5596.jpg",
+      ],
+      location: {
+        locationName: "Via Ripetta 43, 00186 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.291223758803!2d12.473541875086166!3d41.908097863537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6056d610a7bf%3A0x40fae6cbdcc1a134!2sRistorante%20Ad%20Hoc!5e0!3m2!1sen!2seg!4v1698542469006!5m2!1sen!2seg",
+      },
+      phone: "+39 06 9357 7886",
+      website: "https://www.mimiecoco.com/en/homepage/",
+      rating: 4.5,
+      reviews: 9996,
+      id: 64,
+      country_id: 22,
+    },
+    {
+      name: "Cantina & Cucina",
+      images: [
+        "https://cantinaecucina.it/wp-content/uploads/2012/08/img_0213.jpg",
+        "https://cantinaecucina.it/wp-content/uploads/2016/09/img_0297.jpg",
+        "https://cantinaecucina.it/wp-content/uploads/2016/09/img_0293.jpg",
+        "https://cantinaecucina.it/wp-content/uploads/2016/09/img_0282.jpg",
+      ],
+      location: {
+        locationName: "Via del Governo Vecchio, 87, 00186 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.7630941602006!2d12.469062875085571!3d41.89795176417252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f604568d4a29f%3A0x536cf83571d46791!2sCantina%20e%20Cucina!5e0!3m2!1sen!2seg!4v1698543876600!5m2!1sen!2seg",
+      },
+      phone: "+39 06 689 2574",
+      website: "https://cantinaecucina.it/",
+      rating: 4.5,
+      reviews: 17434,
+      id: 65,
+      country_id: 22,
+    },
+    {
+      name: "Roscioli",
+      images: [
+        "https://www.salumeriaroscioli.com/wp-content/uploads/2020/12/R-foto-Nabil-e-Alessandro-1.jpg",
+        "https://www.salumeriaroscioli.com/wp-content/uploads/2020/12/Piattoconpomdorini.jpg",
+        "https://www.salumeriaroscioli.com/wp-content/uploads/2020/12/Carbonara.jpg",
+        "https://www.salumeriaroscioli.com/wp-content/uploads/2021/01/cop-Roscioli-scaled.jpg",
+      ],
+      location: {
+        locationName: "Via Dei Giubbonari 21, 00186 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.942684900579!2d12.474855500000002!3d41.894089699999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6048ccbe3ee1%3A0x260f74732f55ad49!2sRoscioli%20Salumeria%20con%20Cucina!5e0!3m2!1sen!2seg!4v1698544658327!5m2!1sen!2seg",
+      },
+      phone: "+39 06 687 5287",
+      website: "https://www.salumeriaroscioli.com/",
+      rating: 4,
+      reviews: 6564,
+      id: 66,
+      country_id: 22,
+    },
+    {
+      name: "Nannarella",
+      images: [
+        "https://scontent.fcai20-4.fna.fbcdn.net/v/t1.6435-9/146037865_1232562840471055_8641416094479349843_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=810d5f&_nc_ohc=Y7hY_VWtxg0AX9NXn9w&_nc_ht=scontent.fcai20-4.fna&oh=00_AfDxzgud-ODG95h7NSE1mxeAh8xyK2yJg8bRw4BcxiHcbg&oe=65653514",
+        "https://scontent.fcai20-4.fna.fbcdn.net/v/t1.6435-9/130308309_1197170207343652_7860191480634587199_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=810d5f&_nc_ohc=H1WNYQogcGAAX9O5azA&_nc_ht=scontent.fcai20-4.fna&oh=00_AfC_Kh02shwI4VD9kZ3g1EufUiY92WzxM-x--ltGjohzBQ&oe=656527AF",
+        "https://scontent.fcai20-4.fna.fbcdn.net/v/t1.6435-9/130922680_1197170210676985_1283245537038783093_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=810d5f&_nc_ohc=x7wtYHy9pgsAX91an2w&_nc_ht=scontent.fcai20-4.fna&oh=00_AfCZNggw1mpWafXUpkV0cIiK1UfFdTeIh4zutAgB48I6WA&oe=65653DA2",
+        "https://scontent.fcai20-4.fna.fbcdn.net/v/t1.6435-9/131449617_1197170214010318_1912914204952394754_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=810d5f&_nc_ohc=pM9vYtRnwv0AX-UwI1D&_nc_ht=scontent.fcai20-4.fna&oh=00_AfASfe472GN95jwGEFk_BxxBCTk1PA6S9IgylaCmMiOE0w&oe=656545BC",
+      ],
+      location: {
+        locationName: "Piazza di San Calisto 7/7A, 00153 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.1829047535534!2d12.468154775085008!3d41.88892336473797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61e8881c2df3%3A0x219e0ff8b9b1ba94!2sOsteria%20Nannarella!5e0!3m2!1sen!2seg!4v1698544973879!5m2!1sen!2seg",
+      },
+      phone: "+39 06 581 5378",
+      website: "https://www.facebook.com/profile.php?id=100064042055340",
+      rating: 4.5,
+      reviews: 3564,
+      id: 67,
+      country_id: 22,
+    },
+    {
+      name: "Er Faciolaro",
+      images: [
+        "https://www.erfaciolaro.it/wp-content/uploads/2019/12/gallery01.jpg",
+        "https://www.erfaciolaro.it/wp-content/uploads/2019/12/gallery02.jpg",
+        "https://www.erfaciolaro.it/wp-content/uploads/2019/12/gallery03.jpg",
+        "https://www.erfaciolaro.it/wp-content/uploads/2019/12/gallery13.jpg",
+      ],
+      location: {
+        locationName:
+          "Via Dei Pastini 122/123 Near the Pantheon, 00186 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.694864020749!2d12.475278975085645!3d41.89941896408062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6051f7070023%3A0x757a239ec9ed85e6!2sEr%20Faciolaro!5e0!3m2!1sen!2seg!4v1698545371752!5m2!1sen!2seg",
+      },
+      phone: "+39 06 678 3896",
+      website: "https://www.erfaciolaro.it/en/restaurant-er-faciolaro/",
+      rating: 4.5,
+      reviews: 2564,
+      id: 68,
+      country_id: 22,
+    },
+    {
+      name: "Ambrosia Rooftop Restaurant & Bar",
+      images: [
+        "https://lh3.googleusercontent.com/p/AF1QipMcvSZV6OGUfP9XN4k2SL7eGOtNNIa-mZIoqfXC=s680-w680-h510",
+        "https://www.hotelartemide.it/images/gallery/restaurant/restaurant-04.jpg",
+        "https://www.hotelartemide.it/images/gallery/restaurant/restaurant-05.jpg",
+        "https://www.hotelartemide.it/images/gallery/restaurant/restaurant-02.jpg",
+      ],
+      location: {
+        locationName:
+          "Via Nazionale 22 Located in Hotel Artemide, 00184 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.6295013295976!2d12.491076675085724!3d41.90082446399254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61af3dbdd04f%3A0xe7185ee292c97e96!2sAmbrosia%20Rooftop%20Restaurant%20%26%20Bar!5e0!3m2!1sen!2seg!4v1698545876274!5m2!1sen!2seg",
+      },
+      phone: "+39 06 4899 1763",
+      website: "https://www.hotelartemide.it/it/ristorante-ambrosia",
+      rating: 4.5,
+      reviews: 1564,
+      id: 69,
+      country_id: 22,
+    },
+    {
+      name: "Il Gabriello",
+      images: [
+        "https://lh3.googleusercontent.com/p/AF1QipOql02fVmBuon6CGMcTuIQSJqmKYA1UWg4gXywM=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipOOkOkUMsiimzavvAD_lUT-qzBmiZfuf3Xb8FDH=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipPm3Lmp_uR3SI_WHaSQhxFQW1iq6fz3_ZuNHVu-=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipMSSfAXEEFvAjoHe--KBd3SPZKjvW3pbyZrywq5=s680-w680-h510",
+      ],
+      location: {
+        locationName: "Via Vittoria 51 Lazio Rm, 00187 Rome Italy",
+        locationAddress:
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.348953946912!2d12.477341675086096!3d41.90685666361462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6055b92dcbcf%3A0x8bdfe470e4662981!2sIl%20Gabriello!5e0!3m2!1sen!2seg!4v1698546219508!5m2!1sen!2seg",
+      },
+      phone: "+39 06 6994 0810",
+      website: "https://www.ristoranteilgabriello.it/",
+      rating: 4,
+      reviews: 1564,
+      id: 70,
+      country_id: 22,
+    },
     {
       name: "Em Sherif Restaurant",
       images: [
@@ -938,10 +1162,10 @@ export function getRestaurant() {
     {
       name: "Kampai",
       images: [
-        'https://media-cdn.tripadvisor.com/media/photo-w/0f/42/5e/40/photo1jpg.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-w/11/e1/f0/8a/kampai.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-w/07/1c/5f/8a/kampai.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-w/11/f6/1b/8e/kampai.jpg'
+        "https://media-cdn.tripadvisor.com/media/photo-w/0f/42/5e/40/photo1jpg.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/11/e1/f0/8a/kampai.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/07/1c/5f/8a/kampai.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/11/f6/1b/8e/kampai.jpg",
       ],
       location: "Minet el Hosn Paladium building, Down Town, Beirut Lebanon",
       phone: "+961 1 999 093",
@@ -1163,10 +1387,10 @@ export function getThingsToDo() {
     {
       name: "One - day tour to Jounieh ( Harissa via the telpherage), Jeita Grotto and Byblos",
       images: [
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/c4/a2/c8.jpg',
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/c4/a2/c8.jpg",
         "https://i.pinimg.com/564x/ef/21/8e/ef218e677c9f8afb9799cfc3c8d40194.jpg",
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/c4/a2/ce.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/c4/a2/cc.jpg'
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/c4/a2/ce.jpg",
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/c4/a2/cc.jpg",
       ],
       tours: "Classic Car Tours",
       about:
@@ -1247,10 +1471,10 @@ export function getThingsToDo() {
     {
       name: "Skiing with LESA",
       images: [
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/39/e7/99.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/39/e7/9b.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/39/e7/9d.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/39/e7/9e.jpg'
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/39/e7/99.jpg",
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/39/e7/9b.jpg",
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/39/e7/9d.jpg",
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/39/e7/9e.jpg",
       ],
       tours: "4WD Tours",
       about:
