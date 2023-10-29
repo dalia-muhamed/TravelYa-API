@@ -775,6 +775,30 @@ export function getHotels() {
       country_id: 44,
       id: 31,
     },
+    {
+      name: "",
+      description:
+        '',
+      images: [
+        '',
+        '',
+        '',
+        ''
+      ],
+      location: {
+        locationName: "",
+        locationAddress:
+        ''
+      },
+      price: "190$",
+      phone: "",
+      website:
+      '',
+      rating: 5,
+      reviews: 5000,
+      country_id: 33,
+      id: 41,
+    },
   ];
 }
 export function getCities() {
