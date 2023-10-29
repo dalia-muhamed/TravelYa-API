@@ -1808,14 +1808,21 @@ export function getRestaurant() {
       country_id: 33,
     },
     {
-      name: '',
-      images: ['', '', '', ''],
+      name: 'Victory Cafe',
+      images: [
+        'https://media-cdn.tripadvisor.com/media/photo-w/17/0e/3f/64/victory-cafe.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-w/13/af/f5/28/photo0jpg.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-w/1a/c8/ef/ef/photo2jpg.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-w/1b/d8/7a/85/img-20200823-152203-850.jpg'
+      ],
       location: {
-        locationName: '',
-        locationAddress: '',
+        locationName: 'Fillelinon 22, Athens 10557 Greece',
+        locationAddress:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.1927172030632!2d23.730893575123314!3d37.97263160073933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd3dffcc2d39%3A0xdffade7d0d5feb1f!2sVictory!5e0!3m2!1sen!2sus!4v1698616200328!5m2!1sen!2sus',
       },
-      phone: '',
-      website: '',
+      phone: '+30 21 0324 8782',
+      website:
+      'https://www.facebook.com/profile.php?id=100054251391359',
       rating: 4.7,
       reviews: 3000,
       id: 98,
@@ -1823,13 +1830,19 @@ export function getRestaurant() {
     },
     {
       name: '',
-      images: ['', '', '', ''],
+      images: [
+        '',
+        '',
+        '',
+        ''
+      ],
       location: {
         locationName: '',
         locationAddress: '',
       },
       phone: '',
-      website: '',
+      website: 
+      '',
       rating: 4.5,
       reviews: 2500,
       id: 99,
@@ -1837,10 +1850,16 @@ export function getRestaurant() {
     },
     {
       name: '',
-      images: ['', '', '', ''],
+      images:  [
+        '',
+        '',
+        '',
+        ''
+      ],
       location: {
         locationName: '',
-        locationAddress: '',
+        locationAddress: 
+        '',
       },
       phone: '',
       website: '',
