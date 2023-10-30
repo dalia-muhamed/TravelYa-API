@@ -1829,20 +1829,21 @@ export function getRestaurant() {
       country_id: 33,
     },
     {
-      name: '',
+      name: 'The Greek Taverna',
       images: [
-        '',
-        '',
-        '',
-        ''
+        'https://media-cdn.tripadvisor.com/media/photo-w/06/75/bd/94/sun-inn-greek-taverna.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-w/06/75/bd/54/sun-inn-greek-taverna.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-w/06/75/bd/54/sun-inn-greek-taverna.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-w/27/fe/2a/b8/chicken-stifado.jpg'
       ],
       location: {
-        locationName: '',
-        locationAddress: '',
+        locationName: '20 Union Street, Wells BA5 2PU England',
+        locationAddress: 
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2499.5287954320193!2d-2.650552524079315!3d51.209333732435184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4872226a5d73ec0f%3A0xa1ce48a00ad056cc!2sThe%20Greek%20Taverna!5e0!3m2!1sen!2sus!4v1698616838524!5m2!1sen!2sus',
       },
-      phone: '',
+      phone: '+44 1749 939533',
       website: 
-      '',
+      'https://www.sungreektaverna.co.uk/',
       rating: 4.5,
       reviews: 2500,
       id: 99,
