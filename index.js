@@ -28,11 +28,17 @@ app.get('/cities/:search', (req, res) => {
         hotel => hotel.country_id === countryId
       );
       return res.json({ hotels });
-    case 'restaurants':
-      const restaurants = getRestaurant().filter(
-        restaurant => restaurant.country_id === countryId
+      case 'thingsToDo':
+      const thingsToDo = getThingToDo().filter(
+        thingsToDo => thingsToDo.country_id === countryId
       );
+      return res.json({ thingsToDo });
+      case 'restaurants':
+        const restaurants = getRestaurant().filter(
+          restaurant => restaurant.country_id === countryId
+        );
       return res.json({ restaurants });
+
   }
 });
 
