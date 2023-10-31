@@ -369,6 +369,7 @@ export function getHotels() {
     },
     {
       name: "Crowne Plaza Rome - St. Peter's, an IHG Hotel",
+      description:"Crowne Plaza Rome - St. Peter's is on the historic Via Aurelia Antica, 5 km from the Vatican and very close to the lush Villa Pamphili Park. Free WiFi is available throughout the property. This Crowne Plaza is surrounded by its private park. Massages and beauty treatments can be booked on site. The spa is free for all guests as well as the 2 tennis courts and the outdoor swimming pool, open during the summer and featuring a pool bar. There is also a free fitness centre open 24 hours a day.",
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c0/94/view-over-the-swimming.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/01/9f/68/lobby--v2084065.jpg?w=1200&h=-1&s=1',

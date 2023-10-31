@@ -29,7 +29,7 @@ app.get("/cities/:search", (req, res) => {
       );
       return res.json({ hotels });
     case "thingsToDo":
-      const thingsToDo = getThingToDo().filter(
+      const thingsToDo = getThingsToDo().filter(
         (thingsToDo) => thingsToDo.country_id === countryId
       );
       return res.json({ thingsToDo });
