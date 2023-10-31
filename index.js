@@ -15,11 +15,11 @@ app.get("/restaurants", (req, res) => {
 app.get("/thingsToDo", (req, res) => {
   res.json({ thingsToDo: getThingsToDo() });
 });
-app.get("/cities/:search", (req, res) => {
+app.get('/cities/:search', (req, res) => {
   const search = req.params.search;
   const cityName = req.query.cityName;
   const country = getCities().find(
-    (city) => city.name.toLocaleLowerCase() === cityName.toLocaleLowerCase()
+    city => city.name.toLocaleLowerCase() === cityName.toLocaleLowerCase()
   );
   const countryId = country.id;
   switch (search) {
@@ -29,14 +29,14 @@ app.get("/cities/:search", (req, res) => {
       );
       return res.json({ hotels });
     case "thingsToDo":
-      const thingsToDo = getThingsToDo().filter(
+      const thingsToDo = getThingToDo().filter(
         (thingsToDo) => thingsToDo.country_id === countryId
       );
       return res.json({ thingsToDo });
-    case "restaurants":
-      const restaurants = getRestaurant().filter(
-        (restaurant) => restaurant.country_id === countryId
-      );
+      case 'restaurants':
+        const restaurants = getRestaurant().filter(
+          restaurant => restaurant.country_id === countryId
+        );
       return res.json({ restaurants });
   }
 });
