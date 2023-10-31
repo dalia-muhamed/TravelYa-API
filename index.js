@@ -1,23 +1,20 @@
-import express from 'express';
-import { getCities, getHotels, getRestaurant, getThingsToDo } from './data.js';
+import express from "express";
+import { getCities, getHotels, getRestaurant, getThingsToDo } from "./data.js";
 const app = express();
-import cors from 'cors';
+import cors from "cors";
 app.use(cors());
-app.get('/hotels', (req, res) => {
+app.get("/hotels", (req, res) => {
   res.json({ hotels: getHotels() });
 });
-app.get('/cities', (req, res) => {
+app.get("/cities", (req, res) => {
   res.json({ cities: getCities() });
 });
-app.get('/restaurants', (req, res) => {
+app.get("/restaurants", (req, res) => {
   res.json({ restaurants: getRestaurant() });
 });
-app.get('/thingsToDo', (req, res) => {
+app.get("/thingsToDo", (req, res) => {
   res.json({ thingsToDo: getThingsToDo() });
 });
-
-// example for URL: localhost:8080/cities/hotels?cityname=cairo
-
 app.get('/cities/:search', (req, res) => {
   const search = req.params.search;
   const cityName = req.query.cityName;
@@ -26,24 +23,21 @@ app.get('/cities/:search', (req, res) => {
   );
   const countryId = country.id;
   switch (search) {
-    case 'hotels':
+    case "hotels":
       const hotels = getHotels().filter(
-        hotel => hotel.country_id === countryId
+        (hotel) => hotel.country_id === countryId
       );
       return res.json({ hotels });
-
       case 'thingsToDo':
-      const thingsToDo = getThingToDo().filter(
-        thingsToDo => thingsToDo.country_id === countryId
+      const thingsToDo = getThingsToDo().filter(
+        (thingsToDo) => thingsToDo.country_id === countryId
       );
       return res.json({ thingsToDo });
-
       case 'restaurants':
         const restaurants = getRestaurant().filter(
           restaurant => restaurant.country_id === countryId
         );
       return res.json({ restaurants });
-
   }
 });
 
