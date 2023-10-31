@@ -1,5 +1,5 @@
 import express from 'express';
-import { getCities, getHotels, getRestaurant } from './data.js';
+import { getCities, getHotels, getRestaurant, getThingsToDo } from './data.js';
 const app = express();
 import cors from 'cors';
 app.use(cors());
@@ -11,6 +11,9 @@ app.get('/cities', (req, res) => {
 });
 app.get('/restaurants', (req, res) => {
   res.json({ restaurants: getRestaurant() });
+});
+app.get('/thingsToDo', (req, res) => {
+  res.json({ thingsToDo: getThingsToDo() });
 });
 app.get('/cities/:search', (req, res) => {
   const search = req.params.search;

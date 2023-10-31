@@ -20,7 +20,7 @@ export function getHotels() {
       phone: '00 248 1 799 999',
       website:
         'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
-      rating: 4.5,
+      rating: 5,
       reviews: 3800,
       country_id: 11,
       id: 1,
@@ -126,6 +126,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.9374844920058!2d31.22783437532024!3d30.03865131884551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840cdb8f441cb%3A0x59cf96cf4cfe8978!2sKempinski%20Nile%20Hotel%20Garden%20City%20Cairo!5e0!3m2!1sen!2seg!4v1698461931751!5m2!1sen!2seg',
       },
+      rating:4.5,
       price: '200$',
       country_id: 11,
       id: 5,
@@ -183,7 +184,7 @@ export function getHotels() {
       phone: '00 648 9 459 001',
       website:
         'https://www.fourseasons.com/cairofr/?ppc=true&utm_source=google&utm_medium=paidsearch&utm_campaign=acronym-caf-hre-low-allglobalbrand-na&utm_content=na-71700000100975741-58700008076301406-0&utm_term=na&gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFN6GYyUgm7r-mcGSVhfkXoyADmXFV__BnjnSJ_6emmH041wxvkMN7BoCNmIQAvD_BwE&gclsrc=aw.ds',
-      rating: 4.8,
+      rating: 4.5,
       reviews: 4900,
       country_id: 11,
       id: 7,
@@ -212,7 +213,7 @@ export function getHotels() {
       phone: '00 101 6 714 270',
       website:
         'https://www.guestreservations.com/hotel-dusit-thani-lakeview-cairo/booking?gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFJRb5LB-XIsmZsjxvpD10lumPmI8MSpmIWHy_HUxMtwAEpWV5ri0fBoCDmsQAvD_BwE',
-      rating: 4.6,
+      rating: 4.5,
       reviews: 1905,
       country_id: 11,
       id: 8,
@@ -240,7 +241,7 @@ export function getHotels() {
       phone: '00 548 2 139 409',
       website:
         'https://all.accor.com/ssr/app/sofitel/hotels/cairo-cairo-governorate-egypt/sof/index.en.shtml?compositions=1&stayplus=false&order_hotels_by=RECOMMENDATION&snu=false&hideWDR=false&accessibleRooms=false&hideHotelDetails=false&utm_term=mar&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOjxf7OXUGUUTUuqiW_74Ekxd0n55eyI1T9i41Sv_nJE-J8SnstU1hoCmAYQAvD_BwE&utm_campaign=ppc-sof-mar-goo-me-en-dom_top-mix-se&utm_medium=cpc&utm_source=google&utm_content=me-en-EG-V4724',
-      rating: 4.4,
+      rating: 4.5,
       reviews: 1060,
       country_id: 11,
       id: 9,
@@ -267,7 +268,7 @@ export function getHotels() {
       phone: '00 248 4 721 900',
       website:
         'https://www.hyatt.com/en-US/hotel/egypt/hyatt-regency-cairo-west/hberc',
-      rating: 4.3,
+      rating: 4.5,
       reviews: 4700,
       country_id: 11,
       id: 10,
