@@ -1338,10 +1338,10 @@ export function getRestaurant() {
     {
       name: 'Lucca Italian Restaurant',
       images: [
-        'https://media-cdn.tripadvisor.com/media/photo-s/1d/a8/e1/b0/chef-giovanni-at-lucca.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-s/28/48/7e/9f/lucca-is-the-place-where.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-f/0b/08/21/78/tuscan-interiors-with.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-f/0b/08/21/7a/daylight-lunch-overlooking.jpg',
+        'https://resizer.otstatic.com/v2/photos/wide-huge/3/49905562.webp',
+        'https://lh3.googleusercontent.com/p/AF1QipNi47IL-hyBX-4yTOhyXUEfC_q8dewvP6L83grV=s680-w680-h510',
+        'https://lh3.googleusercontent.com/p/AF1QipPMu8AN1D65xwS6SQxPiHeAdjovyZWO8zhtUPdq=s680-w680-h510',
+        'https://lh3.googleusercontent.com/p/AF1QipPUSyNuKls5wnxzPlXzeaeVEmGmE3p2bv9Cc0PI=s680-w680-h510',
       ],
       location: {
         locationName:
@@ -1467,8 +1467,8 @@ export function getRestaurant() {
     {
       name: 'Saigon Restaurant & Lounge',
       images: [
+        'https://www.therooftopguide.com/rooftop-news/Bilder/mad-cow-grill-and-wine.jpg',
         'https://www.trulyclassy.com/wp-content/uploads/2019/03/eon51-vietnam.jpg',
-        'https://www.fairmont.com/assets/0/104/2361/2366/4691/4692/7654cba2-79e7-4a69-91e5-a4c228e92c9d.jpg',
         'https://lh3.googleusercontent.com/p/AF1QipOULBJNfO_dCjFjAjWRwXpKsCEa2SmPNkMgJnQz=s680-w680-h510',
         'https://lh3.googleusercontent.com/p/AF1QipOdcYPY9DYNI-dbJnJfiPiqTgENJnmbZZ6csL25=s680-w680-h510',
       ],
