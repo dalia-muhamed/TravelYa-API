@@ -22,7 +22,7 @@ app.get('/cities/:search', (req, res) => {
   const search = req.params.search;
   const cityName = req.query.cityName;
   const country = getCities().find(
-    city => city.name.toLocaleLowerCase() === cityName
+    city => city.name.toLocaleLowerCase() === cityName.toLocaleLowerCase()
   );
   const countryId = country.id;
   switch (search) {
