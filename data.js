@@ -21,7 +21,7 @@ export function getHotels() {
       website:
         'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
       rating: 5,
-      reviews: 3800,
+      reviews: 5800,
       country_id: 11,
       id: 1,
     },
@@ -49,7 +49,7 @@ export function getHotels() {
       website:
         'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
       rating: 4.5,
-      reviews: 3800,
+      reviews: 1200,
       country_id: 11,
       id: 2,
     },
@@ -73,7 +73,7 @@ export function getHotels() {
       phone: '00 248 1 799 999',
       website:
         'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
-      rating: 4.5,
+      rating: 3.5,
       reviews: 3800,
       country_id: 11,
       id: 3,
@@ -101,7 +101,7 @@ export function getHotels() {
       phone: '00 248 1 799 999',
       website:
         'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
-      rating: 4.5,
+      rating: 5,
       reviews: 3800,
       country_id: 11,
       id: 4,
@@ -1284,7 +1284,7 @@ export function getRestaurant() {
       },
       phone: '+20 115 812 2200',
       website: 'https://www.facebook.com/SolisLounge/',
-      rating: 4.2,
+      rating: 4.5,
       reviews: 1400,
       id: 51,
       country_id: 11,
@@ -1307,7 +1307,7 @@ export function getRestaurant() {
 
       phone: '+20 102 557 9192',
       website: 'https://www.facebook.com/Tree.Lounge1/',
-      rating: 4.4,
+      rating: 4.5,
       reviews: 2380,
       id: 52,
       country_id: 11,
