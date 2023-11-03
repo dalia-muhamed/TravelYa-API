@@ -1348,7 +1348,7 @@ export function getRestaurant() {
       ],
       location: {
         locationName:
-          'Royal Maxim Palace Kempinski Cairo, First Settlement, New Cairo First Settlement, New Cairo, Cairo 11477 Egyp',
+          'Royal Maxim Palace Kempinski Cairo, First Settlement, New Cairo First Settlement',
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.1776735628277!2d31.416917074457952!3d30.06044121781459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583d6650eed755%3A0xab33fbd8c8b1458f!2sLucca%20Italian%20Restaurant!5e0!3m2!1sen!2seg!4v1698602284392!5m2!1sen!2seg',
       },
@@ -1483,7 +1483,7 @@ export function getRestaurant() {
       ],
       location: {
         locationName:
-          '2005 B, Corniche El Nil Fairmont Towers Nile City - 2005 B, Corniche El Nil, Ramlet Beaulac, Cairo 2466 Egypt',
+          '2005 B, Corniche El Nil Fairmont Towers Nile City - 2005 B, Corniche El Nil',
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7803069971924!2d31.22510387445854!3d30.071831217274525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840fabd33b959%3A0x3fff03dc350901a3!2sSAIGON%20RESTAURANT%20%26%20LOUNGE!5e0!3m2!1sen!2seg!4v1698601077435!5m2!1sen!2seg',
       },
@@ -2448,7 +2448,7 @@ export function getThingsToDo() {
       tours: 'Boat Tours',
       about:
         'Discover the captivating Pharonic history through an exciting tour that suits your financial conditions. Visit the Great Pyramids and see how great were the ancient Egyptians to build such gigantic pyramids. Heading down to Aswan by Egypt Settingtrain to experience Nile cruise tour between Luxor and Aswan.',
-      package: '$1,000.00',
+      package: '$100',
       duration: '5 Days',
       reviews: 19497790,
       rating: 5,
