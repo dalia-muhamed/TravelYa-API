@@ -1257,30 +1257,6 @@ export function getHotels() {
     },
   ];
 }
-export function getCities() {
-  return [
-    {
-      name: 'Cairo',
-      id: 11,
-    },
-    {
-      name: 'Rome',
-      id: 22,
-    },
-    {
-      name: 'Greece',
-      id: 33,
-    },
-    {
-      name: 'Dubai',
-      id: 44,
-    },
-    {
-      name: 'Lebanon',
-      id: 55,
-    },
-  ];
-}
 
 export function getRestaurant() {
   return [

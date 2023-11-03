@@ -17,7 +17,7 @@ app.get('/restaurants', (req, res) => {
   res.json({ restaurants: getRestaurant() });
 });
 
-app.get('/thingsToDos', (req, res) => {
+app.get('/thingsToDo', (req, res) => {
   res.json({ todos: getThingsToDo() });
 });
 
@@ -93,7 +93,7 @@ app.get('/cities/thingsToDo', (req, res) => {
   });
 
   if (country) {
-    const toDosInCountry = thingsToDos.filter(
+    const toDosInCountry = thingsToDo.filter(
       todo => todo.country_id === country.id
     );
     return res.json({ todos: toDosInCountry });
