@@ -1247,22 +1247,27 @@ export function getCities() {
     {
       name: 'Cairo',
       id: 11,
+      image: "https://www.traveloffpath.com/wp-content/uploads/2023/05/Cairo-Pyramids-Egypt-720x720.jpg.webp"
     },
     {
       name: 'Rome',
       id: 22,
+      image: "https://whc.unesco.org/uploads/thumbs/site_0091_0061-750-750-20140709164150.jpg"
     },
     {
       name: 'Greece',
       id: 33,
+      image: "https://a.storyblok.com/f/51678/1066x1000/6a152d040d/itinerary-hero-desktop-4-grib.jpg"
     },
     {
       name: 'Dubai',
       id: 44,
+      image: "https://travelbird-images.imgix.net/f2/0b/f20bce73731062f021a0c62b7353fa76?auto=compress%2Cformat&crop=faces%2Cedges%2Ccenter&fit=crop&h=1144&w=828"
     },
     {
       name: 'Lebanon',
       id: 55,
+      image: "https://i.pinimg.com/originals/9a/9e/d3/9a9ed37c9fa562d218402c181c14fde1.jpg"
     },
   ];
 }
