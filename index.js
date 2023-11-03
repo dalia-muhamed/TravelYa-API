@@ -18,7 +18,7 @@ app.get('/restaurants', (req, res) => {
 });
 
 app.get('/thingsToDos', (req, res) => {
-  res.json({ thingsToDo: getThingsToDo() });
+  res.json({ todos: getThingsToDo() });
 });
 
 app.get('/cities/hotels', (req, res) => {
@@ -75,14 +75,14 @@ app.get('/cities/restaurants', (req, res) => {
   res.json({ restaurants: filteredRestaurants });
 });
 
-app.get('/cities/thingsToDos', (req, res) => {
-  const thingsToDoName = req.query.thingsToDoName;
+app.get('/cities/thingsToDo', (req, res) => {
+  const todoName = req.query.todoName;
   const cityName = req.query.cityName;
   const cities = getCities();
-  const thingsToDos = getThingsToDo();
+  const thingsToDo = getThingsToDo();
 
-  const filteredToDos = thingsToDos.filter(todo =>
-    todo.name.toLowerCase().includes((thingsToDoName || '').toLowerCase())
+  const filteredToDos = thingsToDo.filter(todo =>
+    todo.name.toLowerCase().includes((todoName || '').toLowerCase())
   );
 
   const country = cities.find(city => {
