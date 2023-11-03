@@ -1,3 +1,28 @@
+export function getCities() {
+  return [
+    {
+      name: 'Cairo',
+      id: 11,
+    },
+    {
+      name: 'Rome',
+      id: 22,
+    },
+    {
+      name: 'Greece',
+      id: 33,
+    },
+    {
+      name: 'Dubai',
+      id: 44,
+    },
+    {
+      name: 'Lebanon',
+      id: 55,
+    },
+  ];
+}
+
 export function getHotels() {
   return [
     {
@@ -126,7 +151,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.9374844920058!2d31.22783437532024!3d30.03865131884551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840cdb8f441cb%3A0x59cf96cf4cfe8978!2sKempinski%20Nile%20Hotel%20Garden%20City%20Cairo!5e0!3m2!1sen!2seg!4v1698461931751!5m2!1sen!2seg',
       },
-      rating:4.5,
+      rating: 4.5,
       price: '200$',
       country_id: 11,
       id: 5,
@@ -369,7 +394,8 @@ export function getHotels() {
     },
     {
       name: "Crowne Plaza Rome - St. Peter's, an IHG Hotel",
-      description:"Crowne Plaza Rome - St. Peter's is on the historic Via Aurelia Antica, 5 km from the Vatican and very close to the lush Villa Pamphili Park. Free WiFi is available throughout the property. This Crowne Plaza is surrounded by its private park. Massages and beauty treatments can be booked on site. The spa is free for all guests as well as the 2 tennis courts and the outdoor swimming pool, open during the summer and featuring a pool bar. There is also a free fitness centre open 24 hours a day.",
+      description:
+        "Crowne Plaza Rome - St. Peter's is on the historic Via Aurelia Antica, 5 km from the Vatican and very close to the lush Villa Pamphili Park. Free WiFi is available throughout the property. This Crowne Plaza is surrounded by its private park. Massages and beauty treatments can be booked on site. The spa is free for all guests as well as the 2 tennis courts and the outdoor swimming pool, open during the summer and featuring a pool bar. There is also a free fitness centre open 24 hours a day.",
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c0/94/view-over-the-swimming.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/01/9f/68/lobby--v2084065.jpg?w=1200&h=-1&s=1',
@@ -757,23 +783,22 @@ export function getHotels() {
     {
       name: 'Atlantis The Palm',
       description:
-          "Atlantis, The Palm is a 1,544-room ocean-themed destination resort. Spectacularly situated on the crescent of Dubai's iconic Palm Island. With views across Dubai’s iconic skyline and Arabian sea, this majestic resort offers unique rooms and unforgettable experiences for everyone. From the moment you arrive, you will be immersed in new experiences that you could have never even imagined. Thrill-seekers can enjoy complimentary access to Aquaventure Waterpark, the world's largest waterpark, during their stay. Also voted as TripAdvisor’s No.1 waterpark with over 105 attractions. Guests can make the most of Dubai's endless sunshine and spend their days by the pool or relaxing on a pristine private beach. Amaze yourself as you gaze at 65,000 incredible marine animals at The Lost Chambers Aquarium which brings the myth of Atlantis to life through a maze of underground tunnels. Foodies can indulge in 32 restaurants and bars; nowhere else in the world will you find so many celebrity chef and award-winning restaurants in one destination. Those looking to relax can pamper themselves at the award-winning ShuiQi Spa, with luxurious treatments and word-class facilities. Visit Dubai’s most iconic resort and experience a world away from your everyday.",
+        "Atlantis, The Palm is a 1,544-room ocean-themed destination resort. Spectacularly situated on the crescent of Dubai's iconic Palm Island. With views across Dubai’s iconic skyline and Arabian sea, this majestic resort offers unique rooms and unforgettable experiences for everyone. From the moment you arrive, you will be immersed in new experiences that you could have never even imagined. Thrill-seekers can enjoy complimentary access to Aquaventure Waterpark, the world's largest waterpark, during their stay. Also voted as TripAdvisor’s No.1 waterpark with over 105 attractions. Guests can make the most of Dubai's endless sunshine and spend their days by the pool or relaxing on a pristine private beach. Amaze yourself as you gaze at 65,000 incredible marine animals at The Lost Chambers Aquarium which brings the myth of Atlantis to life through a maze of underground tunnels. Foodies can indulge in 32 restaurants and bars; nowhere else in the world will you find so many celebrity chef and award-winning restaurants in one destination. Those looking to relax can pamper themselves at the award-winning ShuiQi Spa, with luxurious treatments and word-class facilities. Visit Dubai’s most iconic resort and experience a world away from your everyday.",
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b2/2e/64/atlantis-the-palm.jpg?w=1000&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/6f/61/93/atlantis-the-palm.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e4/46/3c/view-from-guest-room.jpg?w=1100&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/25/f4/e5/atlantis-the-palm.jpg?w=1200&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b2/2e/64/atlantis-the-palm.jpg?w=1000&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/6f/61/93/atlantis-the-palm.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e4/46/3c/view-from-guest-room.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/25/f4/e5/atlantis-the-palm.jpg?w=1200&h=-1&s=1',
       ],
       location: {
-        locationName:
-          'Crescent Road, Dubai United Arab Emirates',
+        locationName: 'Crescent Road, Dubai United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.1550778672154!2d55.114574874256704!3d25.130447434403163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f153e3609c979%3A0x5945a418a804ac5!2sAtlantis%2C%20The%20Palm!5e0!3m2!1sen!2seg!4v1698576498728!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.1550778672154!2d55.114574874256704!3d25.130447434403163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f153e3609c979%3A0x5945a418a804ac5!2sAtlantis%2C%20The%20Palm!5e0!3m2!1sen!2seg!4v1698576498728!5m2!1sen!2seg',
       },
       price: '860$',
       phone: '+971 4 426 0000',
       website:
-          'https://www.atlantis.com/dubai?utm_source=tripadvisor&utm_medium=ba',
+        'https://www.atlantis.com/dubai?utm_source=tripadvisor&utm_medium=ba',
       rating: 4.5,
       reviews: 6168,
       country_id: 44,
@@ -782,23 +807,23 @@ export function getHotels() {
     {
       name: 'JW Marriott Marquis Hotel Dubai',
       description:
-          "Dubai is a city of awe-inspiring ambition and unsurpassed luxury, home to the world's tallest building, the largest shopping mall, the iconic Palm, and JW Marriott Marquis Hotel Dubai - the worlds tallest hotel. It is a place where dreams come true, as is our hotel in Dubai. JW Marriott Marquis Hotel Dubai offers a spectrum of business facilities for the most discerning travelers. We are a hotel in Dubai, United Arab Emirates synonymous with intuitive service and refined taste, and our luxury hotel's title is given only to the finest properties in the Marriott portfolio. Elevated above Dubai's business district, on Sheikh Zayed Road, JW Marriott Marquis Hotel Dubai resides in the Business Bay area and is a top choice for 5-star hotels in Dubai. Spread across 2 iconic towers, our hotel features exceptional event and business facilities, an enticing array of bars and restaurants, and the sublime Saray Spa and Health Club.",
+        "Dubai is a city of awe-inspiring ambition and unsurpassed luxury, home to the world's tallest building, the largest shopping mall, the iconic Palm, and JW Marriott Marquis Hotel Dubai - the worlds tallest hotel. It is a place where dreams come true, as is our hotel in Dubai. JW Marriott Marquis Hotel Dubai offers a spectrum of business facilities for the most discerning travelers. We are a hotel in Dubai, United Arab Emirates synonymous with intuitive service and refined taste, and our luxury hotel's title is given only to the finest properties in the Marriott portfolio. Elevated above Dubai's business district, on Sheikh Zayed Road, JW Marriott Marquis Hotel Dubai resides in the Business Bay area and is a top choice for 5-star hotels in Dubai. Spread across 2 iconic towers, our hotel features exceptional event and business facilities, an enticing array of bars and restaurants, and the sublime Saray Spa and Health Club.",
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/73/outdoor-swimming-pool.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/5e/indian-cuisine.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/28/penthouse-suite-city.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/22/penthouse-suite-living.jpg?w=1200&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/73/outdoor-swimming-pool.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/5e/indian-cuisine.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/28/penthouse-suite-city.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/22/penthouse-suite-living.jpg?w=1200&h=-1&s=1',
       ],
       location: {
-          locationName:
-              "Sheikh Zayed Road Business Bay, Dubai 121000 United Arab Emirates",
-          locationAddress:
-              "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.5281558069914!2d55.255512674258725!3d25.185405332180434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69d9899848e1%3A0x3854c26d172674ac!2sJW%20Marriott%20Marquis%20Hotel%20Dubai!5e0!3m2!1sen!2seg!4v1698576870324!5m2!1sen!2seg",
+        locationName:
+          'Sheikh Zayed Road Business Bay, Dubai 121000 United Arab Emirates',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.5281558069914!2d55.255512674258725!3d25.185405332180434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69d9899848e1%3A0x3854c26d172674ac!2sJW%20Marriott%20Marquis%20Hotel%20Dubai!5e0!3m2!1sen!2seg!4v1698576870324!5m2!1sen!2seg',
       },
       price: '435$',
       phone: '00 1 844-631-0595',
       website:
-          "https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwhfipBhD3t9LclYmU3wsSJADzve54azWZsdzqTrrHYHuH0DNV9kzCbr83xejQaCcdiDGpQfD_BwE",
+        'https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwhfipBhD3t9LclYmU3wsSJADzve54azWZsdzqTrrHYHuH0DNV9kzCbr83xejQaCcdiDGpQfD_BwE',
       rating: 5,
       reviews: 14966,
       country_id: 44,
@@ -807,23 +832,21 @@ export function getHotels() {
     {
       name: 'Nikki Beach Resort & Spa Dubai',
       description:
-          "Luxury lifestyle beachfront resort located on Pearl Jumeira. Spanning over 52,000 sqm on a private beach, the resort comprises 132 keys including 117 rooms and suites and 15 private pool villas. The complex houses 4 food & beverage venues as well as Nikki Spa. Located off Jumeirah Beach Road, this exclusive resort is perfectly placed for accessing Dubai's spectacular shopping malls and tourist attractions, as well as the city's key business districts and Dubai International Airport. Pearl Jumeira's location, just minutes from Dubai's major transport arteries facilitates the exploration of the UAE. Within six miles of Dubai Mall, cultural sites, City Walk, and Dubai International Airport.",
+        "Luxury lifestyle beachfront resort located on Pearl Jumeira. Spanning over 52,000 sqm on a private beach, the resort comprises 132 keys including 117 rooms and suites and 15 private pool villas. The complex houses 4 food & beverage venues as well as Nikki Spa. Located off Jumeirah Beach Road, this exclusive resort is perfectly placed for accessing Dubai's spectacular shopping malls and tourist attractions, as well as the city's key business districts and Dubai International Airport. Pearl Jumeira's location, just minutes from Dubai's major transport arteries facilitates the exploration of the UAE. Within six miles of Dubai Mall, cultural sites, City Walk, and Dubai International Airport.",
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/14/12/b8/view-from-private-pool.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fe/7e/37/nikki-beach-resort-spa.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/58/29/f2/nikki-beach-pool-view.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5a/96/a2/hotel-entrance.jpg?w=1200&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/14/12/b8/view-from-private-pool.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fe/7e/37/nikki-beach-resort-spa.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/58/29/f2/nikki-beach-pool-view.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5a/96/a2/hotel-entrance.jpg?w=1200&h=-1&s=1',
       ],
       location: {
-          locationName:
-              "Pearl Jumeira, Dubai United Arab Emirates",
-          locationAddress:
-              "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.7339323208853!2d55.253568874261035!3d25.24588502972907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43bba06e2d09%3A0x2f3449850fdb13f3!2sNikki%20Beach%20Resort%20%26%20Spa%20Dubai!5e0!3m2!1sen!2seg!4v1698577230957!5m2!1sen!2seg",
+        locationName: 'Pearl Jumeira, Dubai United Arab Emirates',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.7339323208853!2d55.253568874261035!3d25.24588502972907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43bba06e2d09%3A0x2f3449850fdb13f3!2sNikki%20Beach%20Resort%20%26%20Spa%20Dubai!5e0!3m2!1sen!2seg!4v1698577230957!5m2!1sen!2seg',
       },
       price: '649$',
       phone: '+971 4 426 0000',
-      website:
-          'https://dubai.nikkibeach.com/',
+      website: 'https://dubai.nikkibeach.com/',
       rating: 5,
       reviews: 3214,
       country_id: 44,
@@ -832,48 +855,45 @@ export function getHotels() {
     {
       name: 'FIVE Palm Jumeirah Dubai',
       description:
-          "A spectacular destination to ignite the imagination, where visitors can share inspiring moments and create their own epic stories, welcome to FIVE Palm Jumeirah Dubai. Located at the entrance of the iconic island, Palm Jumeirah the hotel perfectly blends incredible, contemporary architectural design with unique, intuitive service to deliver amazing, memorable experiences. The hotel has 470 guestrooms and suites, spread across 16 floors. The impressive resort has an array of stunning facilities, including outstanding dining and nightlife venues hosted by world-class chefs, Vista Ballroom and a modern spa. FIVE is strategically located for convenient access to Dubai’s business districts, as well as the city’s many exciting tourist and entertainment attractions. The resort is also easily accessible from Dubai International Airport (DXB) and Al Maktoum International Airport (DWC), which are both just 30 minutes drive away.",
+        'A spectacular destination to ignite the imagination, where visitors can share inspiring moments and create their own epic stories, welcome to FIVE Palm Jumeirah Dubai. Located at the entrance of the iconic island, Palm Jumeirah the hotel perfectly blends incredible, contemporary architectural design with unique, intuitive service to deliver amazing, memorable experiences. The hotel has 470 guestrooms and suites, spread across 16 floors. The impressive resort has an array of stunning facilities, including outstanding dining and nightlife venues hosted by world-class chefs, Vista Ballroom and a modern spa. FIVE is strategically located for convenient access to Dubai’s business districts, as well as the city’s many exciting tourist and entertainment attractions. The resort is also easily accessible from Dubai International Airport (DXB) and Al Maktoum International Airport (DWC), which are both just 30 minutes drive away.',
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/92/f9/d8/quattro-passi-italian.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/2b/8b/3b/five-palm-jumeirah-dubai.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/07/d5/ae/viceroy-palm-jumeirah.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8e/69/f6/viceroy-palm-jumeirah.jpg?w=1200&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/92/f9/d8/quattro-passi-italian.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/2b/8b/3b/five-palm-jumeirah-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/07/d5/ae/viceroy-palm-jumeirah.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8e/69/f6/viceroy-palm-jumeirah.jpg?w=1200&h=-1&s=1',
       ],
       location: {
-          locationName:
-              "No. 1 Palm, Dubai United Arab Emirates",
-          locationAddress:
-              "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.9269394422117!2d55.1441556716249!3d25.104334386350086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6b376313ecff%3A0x5adbb050ac44b8ae!2sFIVE%20Palm%20Jumeirah%20Hotel!5e0!3m2!1sen!2seg!4v1698577422278!5m2!1sen!2seg",
+        locationName: 'No. 1 Palm, Dubai United Arab Emirates',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.9269394422117!2d55.1441556716249!3d25.104334386350086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6b376313ecff%3A0x5adbb050ac44b8ae!2sFIVE%20Palm%20Jumeirah%20Hotel!5e0!3m2!1sen!2seg!4v1698577422278!5m2!1sen!2seg',
       },
       price: '480$',
       phone: '+971 4 426 0000',
-      website:
-          'https://www.fivehotelsandresorts.com/palmjumeirah',
+      website: 'https://www.fivehotelsandresorts.com/palmjumeirah',
       rating: 5,
-      reviews:11847 ,
+      reviews: 11847,
       country_id: 44,
       id: 34,
     },
     {
       name: 'Hilton Dubai Jumeirah Resort',
       description:
-          "Complete with its own private beach and ten award-winning restaurants, Hilton Dubai Jumeirah Resort is conveniently located within a vibrant promenade area. This stylish retreat in the heart of the Dubai Marina also boasts proximity to the beach mall full of boutiques, restaurants and cinemas. Choose from a selection of rooms and suites overlooking Ain Dubai, the pristine white sands of the Persian Gulf shoreline or the iconic architecture of the Dubai Marina. Bask in the sun at the resort's private beach, enjoy sailing, snorkeling, waterskiing or windsurfing from the water sports center, or take a swim in the refreshing temperature-controlled pool. Awaken your senses and revitalize your spirit at the resort spa, with a full range of body treatments available. Stay fit in the adjacent health club, offering 400 square meters of strength and cardio equipment and separate male and female steam rooms and saunas. An array of restaurants and bars at Hilton Dubai Jumeirah offer exceptional menus, nightly live entertainment and romantic settings. Have a cocktail at the swim-up bar, dine alfresco while looking out at the Gulf, or savour award-winning Italian cuisine. The hotel's proximity to tax-free economic zones and international business and media hubs give it a distinct appeal for business meetings and events. The hotel is a 15-minute, 17-km drive from Expo 2020 Pavilion. With executive meeting rooms, a grand ballroom and lush landscaped gardens for up to 250 guests, the resort offers enticing possibilities for weddings, celebrations and banquets.",
+        "Complete with its own private beach and ten award-winning restaurants, Hilton Dubai Jumeirah Resort is conveniently located within a vibrant promenade area. This stylish retreat in the heart of the Dubai Marina also boasts proximity to the beach mall full of boutiques, restaurants and cinemas. Choose from a selection of rooms and suites overlooking Ain Dubai, the pristine white sands of the Persian Gulf shoreline or the iconic architecture of the Dubai Marina. Bask in the sun at the resort's private beach, enjoy sailing, snorkeling, waterskiing or windsurfing from the water sports center, or take a swim in the refreshing temperature-controlled pool. Awaken your senses and revitalize your spirit at the resort spa, with a full range of body treatments available. Stay fit in the adjacent health club, offering 400 square meters of strength and cardio equipment and separate male and female steam rooms and saunas. An array of restaurants and bars at Hilton Dubai Jumeirah offer exceptional menus, nightly live entertainment and romantic settings. Have a cocktail at the swim-up bar, dine alfresco while looking out at the Gulf, or savour award-winning Italian cuisine. The hotel's proximity to tax-free economic zones and international business and media hubs give it a distinct appeal for business meetings and events. The hotel is a 15-minute, 17-km drive from Expo 2020 Pavilion. With executive meeting rooms, a grand ballroom and lush landscaped gardens for up to 250 guests, the resort offers enticing possibilities for weddings, celebrations and banquets.",
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/5d/cd/barlounge.jpg?w=1100&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/5d/c9/spa.jpg?w=1100&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/5d/be/guest-room.jpg?w=1100&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/5d/b9/guest-room.jpg?w=1100&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/5d/cd/barlounge.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/5d/c9/spa.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/5d/be/guest-room.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/5d/b9/guest-room.jpg?w=1100&h=-1&s=1',
       ],
       location: {
-          locationName:
-              "Jumeirah Beach Road, Dubai United Arab Emirates",
-          locationAddress:
-              "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57819.18318321901!2d55.06253552167968!3d25.078190900000017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f1529d653298b%3A0x8a5495973d036c7b!2sHilton%20Dubai%20Jumeirah!5e0!3m2!1sen!2seg!4v1698577726107!5m2!1sen!2seg",
+        locationName: 'Jumeirah Beach Road, Dubai United Arab Emirates',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57819.18318321901!2d55.06253552167968!3d25.078190900000017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f1529d653298b%3A0x8a5495973d036c7b!2sHilton%20Dubai%20Jumeirah!5e0!3m2!1sen!2seg!4v1698577726107!5m2!1sen!2seg',
       },
       price: '391$',
       phone: '00 1 888-446-6677',
       website:
-          'https://www.hilton.com/en/hotels/dxbjbhi-hilton-dubai-jumeirah/?SEO_id=GMB-EMEA-HI-DXBJBHI',
+        'https://www.hilton.com/en/hotels/dxbjbhi-hilton-dubai-jumeirah/?SEO_id=GMB-EMEA-HI-DXBJBHI',
       rating: 4.5,
       reviews: 8013,
       country_id: 44,
@@ -882,23 +902,22 @@ export function getHotels() {
     {
       name: 'Royal Central Hotel - The Palm',
       description:
-          "Royal Central, located at The Palm, is a beach-side Hotel Resort with 207 rooms that combines luxury and laid-back vibes into one. Whether you’re here to relax on the beach, lounge by the pool, enjoy some mouthwatering food at an array of our outlets, or simply relax in the elegance and comforts your room with Balcony; Royal Central is your escape from the busy city life.",
+        'Royal Central, located at The Palm, is a beach-side Hotel Resort with 207 rooms that combines luxury and laid-back vibes into one. Whether you’re here to relax on the beach, lounge by the pool, enjoy some mouthwatering food at an array of our outlets, or simply relax in the elegance and comforts your room with Balcony; Royal Central is your escape from the busy city life.',
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/af/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/08/4a/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/52/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/fc/royal-central-hotel-the.jpg?w=1200&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/af/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/08/4a/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/52/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/fc/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
       ],
       location: {
-          locationName:
-              "East Crescent, The Palm Jumeirah, Dubai 22369 United Arab Emirates",
-          locationAddress:
-              "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.2895089906224!2d55.14875987162987!3d25.125901285448307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6ad9234e35af%3A0xa4a848b54cc6177d!2sRoyal%20Central%20Hotel%20-%20The%20Palm!5e0!3m2!1sen!2seg!4v1698577997829!5m2!1sen!2seg",
+        locationName:
+          'East Crescent, The Palm Jumeirah, Dubai 22369 United Arab Emirates',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.2895089906224!2d55.14875987162987!3d25.125901285448307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6ad9234e35af%3A0xa4a848b54cc6177d!2sRoyal%20Central%20Hotel%20-%20The%20Palm!5e0!3m2!1sen!2seg!4v1698577997829!5m2!1sen!2seg',
       },
       price: '272$',
       phone: '00 971 4 873 9300',
-      website:
-          'http://www.central-hotels.com/',
+      website: 'http://www.central-hotels.com/',
       rating: 4.5,
       reviews: 2178,
       country_id: 44,
@@ -907,23 +926,23 @@ export function getHotels() {
     {
       name: 'Jumeirah Beach Hotel',
       description:
-          "Experience World-class Service at Jumeirah Beach Hotel This property is 2 minutes walk from the beach. This 5-star luxury Dubai hotel has a private beach and features over 10 restaurant and bars, including 5 swimming pools. Guests staying at any Jumeirah Beach Hotel room can enjoy free unlimited access to Wild Wadi Waterpark™. Jumeirah Beach Hotel’s rooms are spacious and have floor-to-ceiling windows looking out over the Arabian Gulf. Each features a Widescreen Interactive HD LCD TV, evening turndown service and free WiFi access. Jumeirah Beach offers a wide variety of international cuisine. Many restaurants have a children’s menu. Refreshments are offered at the rooftop Lounge. Guests can enjoy refreshments and happy hours at Floor 24 bar overlooking the city skyline. The hotel has recently been renovated and all the rooms, public spaces and few of the restaurants have been upgraded and refurbished. Souk Madinat Jumeirah is a 10-minute stroll from the hotel. Dubai International Airport is 12 mi away.",
+        'Experience World-class Service at Jumeirah Beach Hotel This property is 2 minutes walk from the beach. This 5-star luxury Dubai hotel has a private beach and features over 10 restaurant and bars, including 5 swimming pools. Guests staying at any Jumeirah Beach Hotel room can enjoy free unlimited access to Wild Wadi Waterpark™. Jumeirah Beach Hotel’s rooms are spacious and have floor-to-ceiling windows looking out over the Arabian Gulf. Each features a Widescreen Interactive HD LCD TV, evening turndown service and free WiFi access. Jumeirah Beach offers a wide variety of international cuisine. Many restaurants have a children’s menu. Refreshments are offered at the rooftop Lounge. Guests can enjoy refreshments and happy hours at Floor 24 bar overlooking the city skyline. The hotel has recently been renovated and all the rooms, public spaces and few of the restaurants have been upgraded and refurbished. Souk Madinat Jumeirah is a 10-minute stroll from the hotel. Dubai International Airport is 12 mi away.',
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/68/6c/39/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2d/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2b/burj-al-arab-view.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/09/33/9a/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/68/6c/39/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2d/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2b/burj-al-arab-view.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/09/33/9a/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
       ],
       location: {
-          locationName:
-              "Jumeirah Beach Road Umm Suqeim, Dubai United Arab Emirates",
-          locationAddress:
-              "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3611.825517977405!2d55.18870277425715!3d25.14158913395296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6a540d69b295%3A0x47f78c4e394a2976!2sJumeirah%20Beach%20Hotel!5e0!3m2!1sen!2seg!4v1698578227983!5m2!1sen!2seg",
+        locationName:
+          'Jumeirah Beach Road Umm Suqeim, Dubai United Arab Emirates',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3611.825517977405!2d55.18870277425715!3d25.14158913395296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6a540d69b295%3A0x47f78c4e394a2976!2sJumeirah%20Beach%20Hotel!5e0!3m2!1sen!2seg!4v1698578227983!5m2!1sen!2seg',
       },
       price: '865$',
       phone: '00 971 800 58634724',
       website:
-          'https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel?utm_source=google&utm_medium=google%20places&utm_campaign=hotel',
+        'https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel?utm_source=google&utm_medium=google%20places&utm_campaign=hotel',
       rating: 4.5,
       reviews: 3770,
       country_id: 44,
@@ -932,23 +951,21 @@ export function getHotels() {
     {
       name: 'Shangri-La Dubai',
       description:
-          "Shangri-La Dubai is an ideal starting point from which to discover the city’s dynamic energy. Strategically located on Sheikh Zayed Road, minutes away from The Dubai Mall, Dubai International Financial Centre (DIFC) and City Walk, the hotel offers 302 spacious rooms and suites with stunning views of the Downtown Dubai skyline or the Arabian Sea. Asian-inspired dining options and a pool offering unobstructed views of the Burj Khalifa complete the experience.",
+        'Shangri-La Dubai is an ideal starting point from which to discover the city’s dynamic energy. Strategically located on Sheikh Zayed Road, minutes away from The Dubai Mall, Dubai International Financial Centre (DIFC) and City Walk, the hotel offers 302 spacious rooms and suites with stunning views of the Downtown Dubai skyline or the Arabian Sea. Asian-inspired dining options and a pool offering unobstructed views of the Burj Khalifa complete the experience.',
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f3/cd/76/two-bedroom-presidential.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ec/d3/9f/shangri-la-hotel.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f3/cd/1d/two-bedroom-presidential.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/0e/26/47/ikandy-outdoor-pool.jpg?w=1100&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f3/cd/76/two-bedroom-presidential.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ec/d3/9f/shangri-la-hotel.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f3/cd/1d/two-bedroom-presidential.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/0e/26/47/ikandy-outdoor-pool.jpg?w=1100&h=-1&s=1',
       ],
       location: {
-          locationName:
-              "Sheikh Zayed Road, Dubai 75880 United Arab Emirates",
-          locationAddress:
-              "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115578.28644618584!2d55.108875014862285!3d25.14172658574827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f42884b6b7fad%3A0x1aac8e5c95202fbc!2sShangri-La%20Dubai!5e0!3m2!1sen!2seg!4v1698578427829!5m2!1sen!2seg",
+        locationName: 'Sheikh Zayed Road, Dubai 75880 United Arab Emirates',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115578.28644618584!2d55.108875014862285!3d25.14172658574827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f42884b6b7fad%3A0x1aac8e5c95202fbc!2sShangri-La%20Dubai!5e0!3m2!1sen!2seg!4v1698578427829!5m2!1sen!2seg',
       },
       price: '346$',
       phone: '00 971 4 343 8888',
-      website:
-          'http://www.shangri-la.com/dubai',
+      website: 'http://www.shangri-la.com/dubai',
       rating: 5,
       reviews: 3634,
       country_id: 44,
@@ -957,23 +974,21 @@ export function getHotels() {
     {
       name: 'Legoland Hotel Dubai',
       description:
-          "Say goodbye to boring hotel rooms! Enter a playful world as you embark on The Region’s Only LEGO® Themed Hotel! Bravely enter through our dragon-guarded entrance before taking a disco elevator and dancing your way to your LEGO themed family bedroom that sleeps up to 5 people with a separate area for the kids! The hotel is packed with LEGO awesomeness including daily breakfast at Bricks Family Restaurant, in-room treasure hunts, creative workshops with our LEGO Master Builder and daily LEGO themed entertainment like no other. To complete your ultimate LEGO adventure, you will also have access to LEGOLAND® Dubai Theme Park and/or LEGOLAND Water Park just steps away from the Hotel! Plus the option to upgrade and include other Dubai Parks & Resorts theme parks. Let your imagination run wild and Build Memories together at LEGOLAND® Hotel.",
+        'Say goodbye to boring hotel rooms! Enter a playful world as you embark on The Region’s Only LEGO® Themed Hotel! Bravely enter through our dragon-guarded entrance before taking a disco elevator and dancing your way to your LEGO themed family bedroom that sleeps up to 5 people with a separate area for the kids! The hotel is packed with LEGO awesomeness including daily breakfast at Bricks Family Restaurant, in-room treasure hunts, creative workshops with our LEGO Master Builder and daily LEGO themed entertainment like no other. To complete your ultimate LEGO adventure, you will also have access to LEGOLAND® Dubai Theme Park and/or LEGOLAND Water Park just steps away from the Hotel! Plus the option to upgrade and include other Dubai Parks & Resorts theme parks. Let your imagination run wild and Build Memories together at LEGOLAND® Hotel.',
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/da/6a/34/legoland-hotel-dubai.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/da/6a/b8/legoland-hotel-dubai.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/da/6a/7b/legoland-hotel-dubai.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/15/68/87/pirate-fully-themed-family.jpg?w=1200&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/da/6a/34/legoland-hotel-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/da/6a/b8/legoland-hotel-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/da/6a/7b/legoland-hotel-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/15/68/87/pirate-fully-themed-family.jpg?w=1200&h=-1&s=1',
       ],
       location: {
-          locationName:
-              "Sheikh Zayed Rd, Dubai United Arab Emirates",
-          locationAddress:
-              "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.4089102556472!2d55.00711677424887!3d24.918136142949354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f0faf6319e19b%3A0xbed5f66b1ec7e315!2sLegoland%C2%AE%20Dubai!5e0!3m2!1sen!2seg!4v1698578544035!5m2!1sen!2seg",
+        locationName: 'Sheikh Zayed Rd, Dubai United Arab Emirates',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.4089102556472!2d55.00711677424887!3d24.918136142949354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f0faf6319e19b%3A0xbed5f66b1ec7e315!2sLegoland%C2%AE%20Dubai!5e0!3m2!1sen!2seg!4v1698578544035!5m2!1sen!2seg',
       },
       price: '182$',
       phone: '48251650',
-      website:
-          'https://www.legoland.com/dubai/',
+      website: 'https://www.legoland.com/dubai/',
       rating: 4.5,
       reviews: 411,
       country_id: 44,
@@ -982,23 +997,23 @@ export function getHotels() {
     {
       name: 'Raffles Dubai',
       description:
-          "A stunning landmark hotel in a distinctive pyramid shape merges Asian style with an Egyptian aesthetic. Ideally located in the city center with a shopping adventure lies around the corner as Raffles Dubai adjoins Wafi mall, one of Dubai's most exclusive shopping and leisure destinations, home to hundreds of boutiques offering an extensive selection of international haute couture, jewelries and gifts in addition to nearby authentic souks, including the impressive Khan Murjan, offering traditional crafts by artisans from the region. Featuring 252 luxurious rooms and suites, this award-winning Dubai hotel offers some of the most spacious rooms in the city, each with generously-sized private balconies. Brilliant contemporary interiors, faultless service and 7 superb restaurants and bars offering an extensive array of dining, entertainment and clubbing options, while Raffles Spa beckons with a pampering menu to emerge transformed, like a lotus that journey from bud to the radiance of full bloom.",
+        "A stunning landmark hotel in a distinctive pyramid shape merges Asian style with an Egyptian aesthetic. Ideally located in the city center with a shopping adventure lies around the corner as Raffles Dubai adjoins Wafi mall, one of Dubai's most exclusive shopping and leisure destinations, home to hundreds of boutiques offering an extensive selection of international haute couture, jewelries and gifts in addition to nearby authentic souks, including the impressive Khan Murjan, offering traditional crafts by artisans from the region. Featuring 252 luxurious rooms and suites, this award-winning Dubai hotel offers some of the most spacious rooms in the city, each with generously-sized private balconies. Brilliant contemporary interiors, faultless service and 7 superb restaurants and bars offering an extensive array of dining, entertainment and clubbing options, while Raffles Spa beckons with a pampering menu to emerge transformed, like a lotus that journey from bud to the radiance of full bloom.",
       images: [
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d5/15/70/raffles-dubai.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/45/raffles-dubai.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/02/raffles-dubai.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b9/1d/d7/exterior-view.jpg?w=1100&h=-1&s=1'
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d5/15/70/raffles-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/45/raffles-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/02/raffles-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b9/1d/d7/exterior-view.jpg?w=1100&h=-1&s=1',
       ],
       location: {
-          locationName:
-              "Sheikh Rashid Road Wafi Mall, Dubai United Arab Emirates",
-          locationAddress:
-              "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.267259658214!2d55.31573687165326!3d25.227921781173777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d4a2139ede3%3A0x6d83d44701a241ab!2sRaffles%20Dubai!5e0!3m2!1sen!2seg!4v1698579080072!5m2!1sen!2seg",
+        locationName:
+          'Sheikh Rashid Road Wafi Mall, Dubai United Arab Emirates',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.267259658214!2d55.31573687165326!3d25.227921781173777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d4a2139ede3%3A0x6d83d44701a241ab!2sRaffles%20Dubai!5e0!3m2!1sen!2seg!4v1698579080072!5m2!1sen!2seg',
       },
       price: '408$',
       phone: '+97143248888',
       website:
-          'https://www.raffles.com/dubai/?goto=fiche_hotel&code_hotel=A5D8&merchantid=seo-maps-AE-A5D8&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTIzNjEzNjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D',
+        'https://www.raffles.com/dubai/?goto=fiche_hotel&code_hotel=A5D8&merchantid=seo-maps-AE-A5D8&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTIzNjEzNjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D',
       rating: 5,
       reviews: 6556,
       country_id: 44,
@@ -1242,35 +1257,6 @@ export function getHotels() {
     },
   ];
 }
-export function getCities() {
-  return [
-    {
-      name: 'Cairo',
-      id: 11,
-      image: "https://www.traveloffpath.com/wp-content/uploads/2023/05/Cairo-Pyramids-Egypt-720x720.jpg.webp"
-    },
-    {
-      name: 'Rome',
-      id: 22,
-      image: "https://whc.unesco.org/uploads/thumbs/site_0091_0061-750-750-20140709164150.jpg"
-    },
-    {
-      name: 'Greece',
-      id: 33,
-      image: "https://a.storyblok.com/f/51678/1066x1000/6a152d040d/itinerary-hero-desktop-4-grib.jpg"
-    },
-    {
-      name: 'Dubai',
-      id: 44,
-      image: "https://travelbird-images.imgix.net/f2/0b/f20bce73731062f021a0c62b7353fa76?auto=compress%2Cformat&crop=faces%2Cedges%2Ccenter&fit=crop&h=1144&w=828"
-    },
-    {
-      name: 'Lebanon',
-      id: 55,
-      image: "https://i.pinimg.com/originals/9a/9e/d3/9a9ed37c9fa562d218402c181c14fde1.jpg"
-    },
-  ];
-}
 
 export function getRestaurant() {
   return [
@@ -1293,7 +1279,7 @@ export function getRestaurant() {
       reviews: 1400,
       id: 51,
       country_id: 11,
-      rank:"#9 of 1,586 Restaurants in Cairo",
+      rank: '#9 of 1,586 Restaurants in Cairo',
     },
     {
       name: 'Tree Lounge Maadi',
@@ -1316,7 +1302,7 @@ export function getRestaurant() {
       reviews: 2380,
       id: 52,
       country_id: 11,
-      rank:"#194 of 1,586 Restaurants in Cairo"
+      rank: '#194 of 1,586 Restaurants in Cairo',
     },
     {
       name: 'Al Khal Egyptian Restaurant',
@@ -1341,7 +1327,7 @@ export function getRestaurant() {
       reviews: 1980,
       id: 53,
       country_id: 11,
-      rank:"#8 of 1,586 Restaurants in Cairo"
+      rank: '#8 of 1,586 Restaurants in Cairo',
     },
     {
       name: 'Lucca Italian Restaurant',
@@ -1365,7 +1351,7 @@ export function getRestaurant() {
       reviews: 1080,
       id: 54,
       country_id: 11,
-      rank:"#70 of 1,586 Restaurants in Cairo",
+      rank: '#70 of 1,586 Restaurants in Cairo',
     },
     {
       name: 'Bab El-Sharq',
@@ -1389,7 +1375,7 @@ export function getRestaurant() {
       reviews: 4000,
       id: 55,
       country_id: 11,
-      rank:"#20 of 1,586 Restaurants in Cairo"
+      rank: '#20 of 1,586 Restaurants in Cairo',
     },
     {
       name: '8 Chinese Restaurant',
@@ -1410,7 +1396,7 @@ export function getRestaurant() {
       reviews: 3407,
       id: 56,
       country_id: 11,
-      rank:"#94 of 1,586 Restaurants in Cairo"
+      rank: '#94 of 1,586 Restaurants in Cairo',
     },
     {
       name: 'Vivo - The Nile Ritz-Carlton',
@@ -1433,7 +1419,7 @@ export function getRestaurant() {
       reviews: 1700,
       id: 57,
       country_id: 11,
-      rank:"#19 of 1,586 Restaurants in Cairo"
+      rank: '#19 of 1,586 Restaurants in Cairo',
     },
     {
       name: 'Namaste Indian Restaurant',
@@ -1454,7 +1440,7 @@ export function getRestaurant() {
       reviews: 960,
       id: 58,
       country_id: 11,
-      rank:"#17 of 1,586 Restaurants in Cairo"
+      rank: '#17 of 1,586 Restaurants in Cairo',
     },
     {
       name: 'Koshary Abou Tarek',
@@ -1476,7 +1462,7 @@ export function getRestaurant() {
       reviews: 1460,
       id: 59,
       country_id: 11,
-      rank:"#61 of 1,586 Restaurants in Cairo"
+      rank: '#61 of 1,586 Restaurants in Cairo',
     },
     {
       name: 'Saigon Restaurant & Lounge',
@@ -1499,7 +1485,7 @@ export function getRestaurant() {
       reviews: 1760,
       id: 60,
       country_id: 11,
-      rank:"#6 of 1,586 Restaurants in Cairo"
+      rank: '#6 of 1,586 Restaurants in Cairo',
     },
     {
       name: 'Osteria da Fortunata (Roma Pellegrino)',
@@ -1520,7 +1506,7 @@ export function getRestaurant() {
       reviews: 13700,
       id: 61,
       country_id: 22,
-      rank:"#241 of 9,253 Restaurants in Rome"
+      rank: '#241 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Tonnarello',
@@ -1541,7 +1527,7 @@ export function getRestaurant() {
       reviews: 36980,
       id: 62,
       country_id: 22,
-      rank:"#130 of 9,253 Restaurants in Rome"
+      rank: '#130 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Ad Hoc Ristorante (Piazza del Popolo)',
@@ -1562,7 +1548,7 @@ export function getRestaurant() {
       reviews: 6681,
       id: 63,
       country_id: 22,
-      rank:"#12 of 9,253 Restaurants in Rome"
+      rank: '#12 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Mimì e Cocò',
@@ -1583,7 +1569,7 @@ export function getRestaurant() {
       reviews: 9996,
       id: 64,
       country_id: 22,
-      rank:"#56 of 9,253 Restaurants in Rome"
+      rank: '#56 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Cantina & Cucina',
@@ -1604,7 +1590,7 @@ export function getRestaurant() {
       reviews: 17434,
       id: 65,
       country_id: 22,
-      rank:"#87 of 9,253 Restaurants in Rome"
+      rank: '#87 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Roscioli',
@@ -1625,7 +1611,7 @@ export function getRestaurant() {
       reviews: 6564,
       id: 66,
       country_id: 22,
-      rank:"#1,280 of 9,253 Restaurants in Rome"
+      rank: '#1,280 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Nannarella',
@@ -1646,7 +1632,7 @@ export function getRestaurant() {
       reviews: 3564,
       id: 67,
       country_id: 22,
-      rank:"#133 of 9,253 Restaurants in Rome"
+      rank: '#133 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Er Faciolaro',
@@ -1668,7 +1654,7 @@ export function getRestaurant() {
       reviews: 2564,
       id: 68,
       country_id: 22,
-      rank:"#422 of 9,253 Restaurants in Rome"
+      rank: '#422 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Ambrosia Rooftop Restaurant & Bar',
@@ -1690,7 +1676,7 @@ export function getRestaurant() {
       reviews: 1564,
       id: 69,
       country_id: 22,
-      rank:"#17 of 9,253 Restaurants in Rome"
+      rank: '#17 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Il Gabriello',
@@ -1711,7 +1697,7 @@ export function getRestaurant() {
       reviews: 1564,
       id: 70,
       country_id: 22,
-      rank:"#280 of 9,253 Restaurants in Rome"
+      rank: '#280 of 9,253 Restaurants in Rome',
     },
     {
       name: 'Em Sherif Restaurant',
@@ -1733,7 +1719,7 @@ export function getRestaurant() {
       reviews: 4900,
       id: 71,
       country_id: 55,
-      rank:"#3 of 833 Restaurants in Beirut"
+      rank: '#3 of 833 Restaurants in Beirut',
     },
     {
       name: 'Liza',
@@ -1755,7 +1741,7 @@ export function getRestaurant() {
       reviews: 3900,
       id: 72,
       country_id: 55,
-      rank:"#12 of 833 Restaurants in Beirut"
+      rank: '#12 of 833 Restaurants in Beirut',
     },
     {
       name: 'Mosaic Restaurant - Al Muroor',
@@ -1776,7 +1762,7 @@ export function getRestaurant() {
       reviews: 550,
       id: 73,
       country_id: 55,
-      rank:"#1 of 68 Restaurants in Jammu City"
+      rank: '#1 of 68 Restaurants in Jammu City',
     },
     {
       name: 'Kampai',
@@ -1798,7 +1784,7 @@ export function getRestaurant() {
       reviews: 4500,
       id: 74,
       country_id: 55,
-      rank:"#27 of 833 Restaurants in Beirut"
+      rank: '#27 of 833 Restaurants in Beirut',
     },
     {
       name: 'Amar Seaside',
@@ -1819,7 +1805,7 @@ export function getRestaurant() {
       reviews: 4900,
       id: 75,
       country_id: 55,
-      rank:"#33 of 833 Restaurants in Beirut"
+      rank: '#33 of 833 Restaurants in Beirut',
     },
     {
       name: 'Up on the 31st',
@@ -1842,7 +1828,7 @@ export function getRestaurant() {
       reviews: 5000,
       id: 76,
       country_id: 55,
-      rank:"#38 of 833 Restaurants in Beirut"
+      rank: '#38 of 833 Restaurants in Beirut',
     },
     {
       name: 'Society',
@@ -1864,7 +1850,7 @@ export function getRestaurant() {
       reviews: 4600,
       id: 77,
       country_id: 55,
-      rank:"#40 of 833 Restaurants in Beirut"
+      rank: '#40 of 833 Restaurants in Beirut',
     },
     {
       name: 'Al Sultan Brahim',
@@ -1886,7 +1872,7 @@ export function getRestaurant() {
       reviews: 4400,
       id: 78,
       country_id: 55,
-      rank:"#42 of 833 Restaurants in Beirut"
+      rank: '#42 of 833 Restaurants in Beirut',
     },
     {
       name: 'Centrale',
@@ -1907,7 +1893,7 @@ export function getRestaurant() {
       reviews: 3300,
       id: 79,
       country_id: 55,
-      rank:"#56 of 833 Restaurants in Beirut"
+      rank: '#56 of 833 Restaurants in Beirut',
     },
     {
       name: 'Metropole Brasserie',
@@ -1928,217 +1914,220 @@ export function getRestaurant() {
       reviews: 2500,
       id: 80,
       country_id: 55,
-      rank:"#73 of 833 Restaurants in Beirut"
+      rank: '#73 of 833 Restaurants in Beirut',
     },
     {
       name: 'BLU Skylounge Dubai',
       images: [
-          'https://media-cdn.tripadvisor.com/media/photo-p/28/75/a0/87/blu-skylounge-dubai.jpg',
-          'https://media-cdn.tripadvisor.com/media/photo-w/28/77/85/48/you-can-never-skip-dessert.jpg',
-          'https://clubbable.blob.core.windows.net/medias/BLU-Dubai?timestamp=637715518500114488',
-          'https://www.caterermiddleeast.com/2021/06/f8M3Xrl4-BluSky1.JPG'
+        'https://media-cdn.tripadvisor.com/media/photo-p/28/75/a0/87/blu-skylounge-dubai.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-w/28/77/85/48/you-can-never-skip-dessert.jpg',
+        'https://clubbable.blob.core.windows.net/medias/BLU-Dubai?timestamp=637715518500114488',
+        'https://www.caterermiddleeast.com/2021/06/f8M3Xrl4-BluSky1.JPG',
       ],
       location: {
         locationName:
-          "Al Habtoor City - V Hotel Dubai - Sheikh Zayed Rd 32nd floor, Dubai United Arab Emirates",
+          'Al Habtoor City - V Hotel Dubai - Sheikh Zayed Rd 32nd floor, Dubai United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58089.04092620831!2d54.29925312167968!3d24.500522600000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e66f5811e3eb7%3A0xe530aa1e6f6d6b15!2sBlu%20Sky%20Lounge%20%26%20Grill!5e0!3m2!1sen!2seg!4v1698579885339!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58089.04092620831!2d54.29925312167968!3d24.500522600000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e66f5811e3eb7%3A0xe530aa1e6f6d6b15!2sBlu%20Sky%20Lounge%20%26%20Grill!5e0!3m2!1sen!2seg!4v1698579885339!5m2!1sen!2seg',
       },
       phone: +97128184888,
-      website: "https://www.southernsun.com/southern-sun-abu-dhabi/dining/blu-sky-lounge-and-bar?utm_source=google&utm_medium=businesslisting&utm_campaign=rstrnt_blu-sky-lounge-and-bar",
+      website:
+        'https://www.southernsun.com/southern-sun-abu-dhabi/dining/blu-sky-lounge-and-bar?utm_source=google&utm_medium=businesslisting&utm_campaign=rstrnt_blu-sky-lounge-and-bar',
       rating: 5,
       reviews: 440,
       id: 81,
       country_id: 44,
-      rank:"#1 of 8,509 Restaurants in Dubai"
+      rank: '#1 of 8,509 Restaurants in Dubai',
     },
     {
       name: 'Varq',
       images: [
-          'https://www.travelgossip.co.uk/wp-content/uploads/2022/08/Taj-Exotica-Indian-restaurant.png',
-          'https://www.travelgossip.co.uk/wp-content/uploads/2022/08/Taj-Exotica-rooftop-bar.png',
-          'https://resizer.otstatic.com/v2/photos/wide-xlarge/2/48963446.jpg',
-          'https://wl-img-prd.s3-accelerate.amazonaws.com/75f43d34-4a69-4732-b044-0a0474c5bff9-h.jpeg'
+        'https://www.travelgossip.co.uk/wp-content/uploads/2022/08/Taj-Exotica-Indian-restaurant.png',
+        'https://www.travelgossip.co.uk/wp-content/uploads/2022/08/Taj-Exotica-rooftop-bar.png',
+        'https://resizer.otstatic.com/v2/photos/wide-xlarge/2/48963446.jpg',
+        'https://wl-img-prd.s3-accelerate.amazonaws.com/75f43d34-4a69-4732-b044-0a0474c5bff9-h.jpeg',
       ],
       location: {
         locationName:
-          "Taj Exotica Resort & Spa, The Palm Dubai, Dubai United Arab Emirates",
+          'Taj Exotica Resort & Spa, The Palm Dubai, Dubai United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.344717623356!2d55.15122887425652!3d25.124034034662355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6b3a809a2e8d%3A0x1deee7802aeeb38f!2sVarq!5e0!3m2!1sen!2seg!4v1698581746481!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.344717623356!2d55.15122887425652!3d25.124034034662355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6b3a809a2e8d%3A0x1deee7802aeeb38f!2sVarq!5e0!3m2!1sen!2seg!4v1698581746481!5m2!1sen!2seg',
       },
-      phone: "+971 4 275 4444",
-      website: "https://www.exoticadubai.tajhotels.com/dining/varq/",
+      phone: '+971 4 275 4444',
+      website: 'https://www.exoticadubai.tajhotels.com/dining/varq/',
       rating: 5,
       reviews: 459,
       id: 82,
       country_id: 44,
-      rank:"#3 of 8,509 Restaurants in Dubai"
+      rank: '#3 of 8,509 Restaurants in Dubai',
     },
     {
       name: 'Clay Dubai',
       images: [
-          'https://whatson.ae/wp-content/uploads/2022/01/Clay-Dubai-article-4.jpg',
-          'https://www.foodfundint.com/wp-content/uploads/2022/11/option-1536x1105.jpg',
-          'https://whatson.ae/wp-content/uploads/2022/01/Clay-Dubai-article-8.jpg',
-          'https://whatson.ae/wp-content/uploads/2022/01/Clay-Dubai-article-5.jpg'
+        'https://whatson.ae/wp-content/uploads/2022/01/Clay-Dubai-article-4.jpg',
+        'https://www.foodfundint.com/wp-content/uploads/2022/11/option-1536x1105.jpg',
+        'https://whatson.ae/wp-content/uploads/2022/01/Clay-Dubai-article-8.jpg',
+        'https://whatson.ae/wp-content/uploads/2022/01/Clay-Dubai-article-5.jpg',
       ],
       location: {
         locationName:
-          "Bluewaters Island Bluewaters Island, Dubai United Arab Emirates",
+          'Bluewaters Island Bluewaters Island, Dubai United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.6737856647287!2d55.121028074254845!3d25.079043436478393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f15a6743f5bdb%3A0xaa4e2245f39180e4!2sClay%20Dubai!5e0!3m2!1sen!2seg!4v1698583997550!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.6737856647287!2d55.121028074254845!3d25.079043436478393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f15a6743f5bdb%3A0xaa4e2245f39180e4!2sClay%20Dubai!5e0!3m2!1sen!2seg!4v1698583997550!5m2!1sen!2seg',
       },
-      phone: "+97144225600",
-      website: "https://www.claydubai.com/",
+      phone: '+97144225600',
+      website: 'https://www.claydubai.com/',
       rating: 5,
       reviews: 948,
       id: 83,
       country_id: 44,
-      rank:"#7 of 8,509 Restaurants in Dubai"
+      rank: '#7 of 8,509 Restaurants in Dubai',
     },
     {
       name: 'Ahlan First Class Lounge',
       images: [
-          'https://media.boardinggroup.one/2020/01/IMG_5745-1024x768.jpg',
-          'https://media.boardinggroup.one/2020/01/DE5DC96A-D6DB-4C20-BCE2-1D851DFB1474-1024x768.jpeg',
-          'https://media.boardinggroup.one/2020/01/IMG_5747-1024x768.jpg',
-          'https://www.premium-flights.com/wp-content/uploads/2021/12/20211228_005814-1536x864.jpg',
+        'https://media.boardinggroup.one/2020/01/IMG_5745-1024x768.jpg',
+        'https://media.boardinggroup.one/2020/01/DE5DC96A-D6DB-4C20-BCE2-1D851DFB1474-1024x768.jpeg',
+        'https://media.boardinggroup.one/2020/01/IMG_5747-1024x768.jpg',
+        'https://www.premium-flights.com/wp-content/uploads/2021/12/20211228_005814-1536x864.jpg',
       ],
       location: {
         locationName:
-          "Dubai International Hotel Dubai International Airport, Dubai 35566 United Arab Emirates",
+          'Dubai International Hotel Dubai International Airport, Dubai 35566 United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.3888267904395!2d55.34230217426144!3d25.25750232925751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d05e41699a1%3A0x442de08b390a0cad!2sAhlan%20First%20Class%20Lounge!5e0!3m2!1sen!2seg!4v1698584278469!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.3888267904395!2d55.34230217426144!3d25.25750232925751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d05e41699a1%3A0x442de08b390a0cad!2sAhlan%20First%20Class%20Lounge!5e0!3m2!1sen!2seg!4v1698584278469!5m2!1sen!2seg',
       },
-      phone: "+971 4 505 2899",
-      website: "https://www.dihdxb.ae/",
+      phone: '+971 4 505 2899',
+      website: 'https://www.dihdxb.ae/',
       rating: 5,
       reviews: 4156,
       id: 84,
       country_id: 44,
-      rank:"#4 of 8,509 Restaurants in Dubai"
+      rank: '#4 of 8,509 Restaurants in Dubai',
     },
     {
       name: 'The Shore',
       images: [
-          'https://www.theluxevoyager.com/wp-content/uploads/2019/04/Atlantis-The-Palm-Dubai-The-Shore-1.jpg',
-          'https://b.zmtcdn.com/data/pictures/chains/1/200891/e42c1623f6cebba05c26e2195e2c4aa2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*',
+        'https://www.theluxevoyager.com/wp-content/uploads/2019/04/Atlantis-The-Palm-Dubai-The-Shore-1.jpg',
+        'https://b.zmtcdn.com/data/pictures/chains/1/200891/e42c1623f6cebba05c26e2195e2c4aa2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*',
       ],
       location: {
         locationName:
-          "Crescent Dr Atlantis, The Palm, Dubai United Arab Emirates",
+          'Crescent Dr Atlantis, The Palm, Dubai United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.1536923536555!2d55.11361447163098!3d25.130494285256237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f153e67ff88b1%3A0x52d7e205f640afb6!2sThe%20Shore!5e0!3m2!1sen!2seg!4v1698584587227!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.1536923536555!2d55.11361447163098!3d25.130494285256237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f153e67ff88b1%3A0x52d7e205f640afb6!2sThe%20Shore!5e0!3m2!1sen!2seg!4v1698584587227!5m2!1sen!2seg',
       },
-      phone: "+971 4 426 2626",
-      website: "https://www.atlantis.com/dubai/dining/fast-casual?utm_source=googleplaces&utm_medium=location&utm_campaign=the_shore&utm_content=listing",
+      phone: '+971 4 426 2626',
+      website:
+        'https://www.atlantis.com/dubai/dining/fast-casual?utm_source=googleplaces&utm_medium=location&utm_campaign=the_shore&utm_content=listing',
       rating: 5,
       reviews: 1097,
       id: 85,
       country_id: 44,
-      rank:"#6 of 8,509 Restaurants in Dubai"
+      rank: '#6 of 8,509 Restaurants in Dubai',
     },
     {
       name: 'Village Bistro',
       images: [
-          'https://www.thefirstcollection.ae/wp-content/uploads/2022/11/village-bistro.jpg',
-          'https://offerengine.theentertainerme.com/village-bistro-x23916111/merchant_profile_%22hero%22_image_slide.3_%28retina%292022090101029.jpg',
-          'https://b.zmtcdn.com/data/pictures/6/19898926/74388cb0a22f609e359b0ed876e12298.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*',
+        'https://www.thefirstcollection.ae/wp-content/uploads/2022/11/village-bistro.jpg',
+        'https://offerengine.theentertainerme.com/village-bistro-x23916111/merchant_profile_%22hero%22_image_slide.3_%28retina%292022090101029.jpg',
+        'https://b.zmtcdn.com/data/pictures/6/19898926/74388cb0a22f609e359b0ed876e12298.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*',
       ],
       location: {
         locationName:
-          "Mezzanine Floor, The First Collection Hotel at, قرية جميرا الدائرية, Dubai United Arab Emirates",
+          'Mezzanine Floor, The First Collection Hotel at, قرية جميرا الدائرية, Dubai United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.3739702060766!2d55.20235717425397!3d25.055310937435102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6dc781b29e7f%3A0xdf3ed31d4a332e1f!2sVillage%20Bistro!5e0!3m2!1sen!2seg!4v1698584927951!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.3739702060766!2d55.20235717425397!3d25.055310937435102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6dc781b29e7f%3A0xdf3ed31d4a332e1f!2sVillage%20Bistro!5e0!3m2!1sen!2seg!4v1698584927951!5m2!1sen!2seg',
       },
-      phone: "97142756621",
-      website: "https://www.thefirstcollection.ae/jvc/restaurants/village-bistro-rest/?utm_source=gmb_bistro&utm_medium=organic&utm_content=ws",
+      phone: '97142756621',
+      website:
+        'https://www.thefirstcollection.ae/jvc/restaurants/village-bistro-rest/?utm_source=gmb_bistro&utm_medium=organic&utm_content=ws',
       rating: 5,
       reviews: 725,
       id: 86,
       country_id: 44,
-      rank:"#5 of 8,509 Restaurants in Dubai"
+      rank: '#5 of 8,509 Restaurants in Dubai',
     },
     {
       name: 'Jones The Grocer - Delta Jbr',
       images: [
-          'https://resume-image-upload.s3.ap-southeast-1.amazonaws.com/upload/photos/2022/08/vLz1dCOXHxvqQoNh9PP5_19_904a87d2329a8f1be7faacfe2b7b7399_image.jpg',
-          'https://resume-image-upload.s3.ap-southeast-1.amazonaws.com/upload/photos/2022/08/CnmrSg5DphjJnGRvrdoz_19_67fbdee157407f2660397d1f26d39a8b_image.jpg',
-          'https://www.jonesthegrocer.com/blog/wp-content/uploads/2022/11/View-3-700x394.jpg',
+        'https://resume-image-upload.s3.ap-southeast-1.amazonaws.com/upload/photos/2022/08/vLz1dCOXHxvqQoNh9PP5_19_904a87d2329a8f1be7faacfe2b7b7399_image.jpg',
+        'https://resume-image-upload.s3.ap-southeast-1.amazonaws.com/upload/photos/2022/08/CnmrSg5DphjJnGRvrdoz_19_67fbdee157407f2660397d1f26d39a8b_image.jpg',
+        'https://www.jonesthegrocer.com/blog/wp-content/uploads/2022/11/View-3-700x394.jpg',
       ],
       location: {
         locationName:
-          "Jumeirah Beach Delta Hotels by Marriott, Dubai United Arab Emirates",
+          'Jumeirah Beach Delta Hotels by Marriott, Dubai United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.7106033868363!2d55.13350637425476!3d25.0777960365287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f15f6f6217ef1%3A0xfb6b39802ab29e7a!2sJones%20the%20Grocer%20(Delta%20Hotels%20by%20Marriott%2C%20JBR)!5e0!3m2!1sen!2seg!4v1698585281029!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.7106033868363!2d55.13350637425476!3d25.0777960365287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f15f6f6217ef1%3A0xfb6b39802ab29e7a!2sJones%20the%20Grocer%20(Delta%20Hotels%20by%20Marriott%2C%20JBR)!5e0!3m2!1sen!2seg!4v1698585281029!5m2!1sen!2seg',
       },
-      phone: "+97144398883",
-      website: "https://www.jonesthegrocer.com/",
+      phone: '+97144398883',
+      website: 'https://www.jonesthegrocer.com/',
       rating: 5,
       reviews: 855,
       id: 87,
       country_id: 44,
-      rank:"#8 of 8,509 Restaurants in Dubai"
+      rank: '#8 of 8,509 Restaurants in Dubai',
     },
     {
       name: 'Sette',
       images: [
-          'https://eatapp.co/dubai-restaurants/images/sette-ja-beach-hotel-jafza-restaurant-1.jpg?height=500&width=850',
-          'https://www.timeoutdubai.com/cloud/timeoutdubai/2021/10/13/A2Cm01L2-sette-1200x900.jpg',
+        'https://eatapp.co/dubai-restaurants/images/sette-ja-beach-hotel-jafza-restaurant-1.jpg?height=500&width=850',
+        'https://www.timeoutdubai.com/cloud/timeoutdubai/2021/10/13/A2Cm01L2-sette-1200x900.jpg',
       ],
       location: {
         locationName:
-          "Sheikh Zayed Rd. Exit 13 JA The Resort, Dubai United Arab Emirates",
+          'Sheikh Zayed Rd. Exit 13 JA The Resort, Dubai United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3616.3641764195427!2d55.018558071598434!3d24.987738491214028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f11585c7efff9%3A0xee3c7f0cea1e38d!2sSette!5e0!3m2!1sen!2seg!4v1698585491843!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3616.3641764195427!2d55.018558071598434!3d24.987738491214028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f11585c7efff9%3A0xee3c7f0cea1e38d!2sSette!5e0!3m2!1sen!2seg!4v1698585491843!5m2!1sen!2seg',
       },
-      phone: "+971 4 814 5566",
-      website: "https://www.jaresortshotels.com/dubai/ja-the-resort/restaurants",
+      phone: '+971 4 814 5566',
+      website:
+        'https://www.jaresortshotels.com/dubai/ja-the-resort/restaurants',
       rating: 5,
       reviews: 1644,
       id: 88,
       country_id: 44,
-      rank:"#9 of 8,509 Restaurants in Dubai"
+      rank: '#9 of 8,509 Restaurants in Dubai',
     },
     {
       name: 'Zerofat',
       images: [
-          'https://eatapp.co/abu-dhabi-restaurants/images/zerofat-abu-dhabi-the-view-tower-al-muroor-road-restaurant-1.jpg?height=500&width=850',
-          'https://www.caterermiddleeast.com/2021/05/5vnxAO5f-ZEROFAT-ABU-DHABI-5.jpg',
+        'https://eatapp.co/abu-dhabi-restaurants/images/zerofat-abu-dhabi-the-view-tower-al-muroor-road-restaurant-1.jpg?height=500&width=850',
+        'https://www.caterermiddleeast.com/2021/05/5vnxAO5f-ZEROFAT-ABU-DHABI-5.jpg',
       ],
       location: {
-        locationName:
-          "Al Wasl Road Wasl Vita Mall, Dubai United Arab Emirates",
+        locationName: 'Al Wasl Road Wasl Vita Mall, Dubai United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d925935.2887974835!2d54.047045746874986!3d24.968335499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f739adcd5d833%3A0x9d96cfe3e79a9584!2sZEROFAT!5e0!3m2!1sen!2seg!4v1698585801992!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d925935.2887974835!2d54.047045746874986!3d24.968335499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f739adcd5d833%3A0x9d96cfe3e79a9584!2sZEROFAT!5e0!3m2!1sen!2seg!4v1698585801992!5m2!1sen!2seg',
       },
-      phone: "+971 4 330 0066",
-      website: "http://www.zerofat.ae/",
+      phone: '+971 4 330 0066',
+      website: 'http://www.zerofat.ae/',
       rating: 4.5,
       reviews: 8,
       id: 89,
       country_id: 44,
-      rank:"#3,027 of 8,509 Restaurants in Dubai"
+      rank: '#3,027 of 8,509 Restaurants in Dubai',
     },
     {
       name: 'Yasmina Restaurant',
       images: [
-          'https://cache.marriott.com/content/dam/marriott-renditions/SHJFP/shjfp-yasmina-4468-hor-pano.jpg?downsize=*:666',
-          'https://b.zmtcdn.com/data/pictures/8/18952708/5fd7f41cc2674c8908ebc5e48a51f125.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*',
+        'https://cache.marriott.com/content/dam/marriott-renditions/SHJFP/shjfp-yasmina-4468-hor-pano.jpg?downsize=*:666',
+        'https://b.zmtcdn.com/data/pictures/8/18952708/5fd7f41cc2674c8908ebc5e48a51f125.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*',
       ],
       location: {
         locationName:
-          "King Faisal Street Four Points by Sheraton Sharjah, Sharjah 61387 United Arab Emirates",
+          'King Faisal Street Four Points by Sheraton Sharjah, Sharjah 61387 United Arab Emirates',
         locationAddress:
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3605.8093673995177!2d55.38322137167986!3d25.34417717628509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5b5751f67c2b%3A0xbf0ca4916184eacd!2sYasmina%20Restaurant!5e0!3m2!1sen!2seg!4v1698587081143!5m2!1sen!2seg",
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3605.8093673995177!2d55.38322137167986!3d25.34417717628509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5b5751f67c2b%3A0xbf0ca4916184eacd!2sYasmina%20Restaurant!5e0!3m2!1sen!2seg!4v1698587081143!5m2!1sen!2seg',
       },
-      phone: "+971 6 513 1000",
-      website: "https://www.morecravings.com/venues/yasmina",
+      phone: '+971 6 513 1000',
+      website: 'https://www.morecravings.com/venues/yasmina',
       rating: 5,
       reviews: 772,
       id: 90,
       country_id: 44,
-      rank:"#1 of 656 Restaurants in Sharjah"
+      rank: '#1 of 656 Restaurants in Sharjah',
     },
     {
       name: 'Star of Greece',
@@ -2160,7 +2149,7 @@ export function getRestaurant() {
       reviews: 2500,
       id: 91,
       country_id: 33,
-      rank:"#16 of 2,434 Restaurants in Athens"
+      rank: '#16 of 2,434 Restaurants in Athens',
     },
     {
       name: 'Liondi Traditional Greek Restaurant',
@@ -2181,10 +2170,10 @@ export function getRestaurant() {
       reviews: 3500,
       id: 92,
       country_id: 33,
-      rank:"#16 of 2,434 Restaurants in Athens"
+      rank: '#16 of 2,434 Restaurants in Athens',
     },
     {
-      name: "Taverna Spinalonga",
+      name: 'Taverna Spinalonga',
       images: [
         'https://media-cdn.tripadvisor.com/media/photo-w/0f/ec/8b/74/img-20170716-135011-01.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-w/18/32/9f/23/photo1jpg.jpg',
@@ -2197,12 +2186,13 @@ export function getRestaurant() {
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.218269143279!2d25.724606774711507!3d35.300557650793316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14909cc3d2aeb5bf%3A0x9ee31afe1431dea0!2zzpXPg8-EzrnOsc-Ez4zPgc65zr8gzqPPgM65zr3Osc67zr_Os866zrE!5e0!3m2!1sen!2seg!4v1698800021592!5m2!1sen!2seg',
       },
       phone: '+30 2841 041804',
-      website: 'https://www.tavernaspinalonga.com/spinalonga-en/fish-taverna-in-plaka-elounda.html',
+      website:
+        'https://www.tavernaspinalonga.com/spinalonga-en/fish-taverna-in-plaka-elounda.html',
       rating: 4.5,
       reviews: 4000,
       id: 93,
       country_id: 33,
-      rank:"#1 of 27 Restaurants in Plaka"
+      rank: '#1 of 27 Restaurants in Plaka',
     },
     {
       name: 'Indian Haveli',
@@ -2223,7 +2213,7 @@ export function getRestaurant() {
       reviews: 4500,
       id: 94,
       country_id: 33,
-      rank:"#14 of 2,434 Restaurants in Athens"
+      rank: '#14 of 2,434 Restaurants in Athens',
     },
     {
       name: "The Greco's Project",
@@ -2244,7 +2234,7 @@ export function getRestaurant() {
       reviews: 4000,
       id: 95,
       country_id: 33,
-      rank:"#64 of 2,434 Restaurants in Athens"
+      rank: '#64 of 2,434 Restaurants in Athens',
     },
     {
       name: 'Cinque Wine & Deli Bar',
@@ -2265,7 +2255,7 @@ export function getRestaurant() {
       reviews: 5000,
       id: 96,
       country_id: 33,
-      rank:"#1 of 2,434 Restaurants in Athens"
+      rank: '#1 of 2,434 Restaurants in Athens',
     },
     {
       name: 'Fresh',
@@ -2286,7 +2276,7 @@ export function getRestaurant() {
       reviews: 2800,
       id: 97,
       country_id: 33,
-      rank:"#1 of 1 Dessert in Gouvia"
+      rank: '#1 of 1 Dessert in Gouvia',
     },
     {
       name: 'Victory Cafe',
@@ -2294,21 +2284,20 @@ export function getRestaurant() {
         'https://media-cdn.tripadvisor.com/media/photo-w/17/0e/3f/64/victory-cafe.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-w/13/af/f5/28/photo0jpg.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-w/1a/c8/ef/ef/photo2jpg.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-w/1b/d8/7a/85/img-20200823-152203-850.jpg'
+        'https://media-cdn.tripadvisor.com/media/photo-w/1b/d8/7a/85/img-20200823-152203-850.jpg',
       ],
       location: {
         locationName: 'Fillelinon 22, Athens 10557 Greece',
         locationAddress:
-        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.1927172030632!2d23.730893575123314!3d37.97263160073933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd3dffcc2d39%3A0xdffade7d0d5feb1f!2sVictory!5e0!3m2!1sen!2sus!4v1698616200328!5m2!1sen!2sus',
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.1927172030632!2d23.730893575123314!3d37.97263160073933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd3dffcc2d39%3A0xdffade7d0d5feb1f!2sVictory!5e0!3m2!1sen!2sus!4v1698616200328!5m2!1sen!2sus',
       },
       phone: '+30 21 0324 8782',
-      website:
-      'https://www.facebook.com/profile.php?id=100054251391359',
+      website: 'https://www.facebook.com/profile.php?id=100054251391359',
       rating: 4.7,
       reviews: 3000,
       id: 98,
       country_id: 33,
-      rank:"#3 of 2,434 Restaurants in Athens"
+      rank: '#3 of 2,434 Restaurants in Athens',
     },
     {
       name: 'The Greek Taverna',
@@ -2316,34 +2305,33 @@ export function getRestaurant() {
         'https://media-cdn.tripadvisor.com/media/photo-w/06/75/bd/94/sun-inn-greek-taverna.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-w/06/75/bd/54/sun-inn-greek-taverna.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-w/06/75/bd/54/sun-inn-greek-taverna.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-w/27/fe/2a/b8/chicken-stifado.jpg'
+        'https://media-cdn.tripadvisor.com/media/photo-w/27/fe/2a/b8/chicken-stifado.jpg',
       ],
       location: {
         locationName: 'Myconia Kyma Resort, Mykonos Town Greece',
-        locationAddress: 
-        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2499.5287954320193!2d-2.650552524079315!3d51.209333732435184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4872226a5d73ec0f%3A0xa1ce48a00ad056cc!2sThe%20Greek%20Taverna!5e0!3m2!1sen!2sus!4v1698616838524!5m2!1sen!2sus',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2499.5287954320193!2d-2.650552524079315!3d51.209333732435184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4872226a5d73ec0f%3A0xa1ce48a00ad056cc!2sThe%20Greek%20Taverna!5e0!3m2!1sen!2sus!4v1698616838524!5m2!1sen!2sus',
       },
       phone: '+302289441290',
-      website: 
-      'https://www.noamykonos.com/',
+      website: 'https://www.noamykonos.com/',
       rating: 4.5,
       reviews: 2500,
       id: 99,
       country_id: 33,
-      rank:"#2 of 157 Restaurants in Mykonos Town"
+      rank: '#2 of 157 Restaurants in Mykonos Town',
     },
     {
       name: 'Taste Of Greece',
-      images:  [
+      images: [
         'https://media-cdn.tripadvisor.com/media/photo-w/10/97/73/30/taste-of-greece.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-w/17/1e/6a/2d/great-food-lovely-staff.jpg',
         'https://popmenucloud.com/cdn-cgi/image/width=1920,height=1920,format=auto,fit=scale-down/pvuksijq/11294727-0b8b-4d9a-9007-a5c417497d60',
-        'https://popmenucloud.com/cdn-cgi/image/width=1920,height=1920,format=auto,fit=scale-down/pvuksijq/11294727-0b8b-4d9a-9007-a5c417497d60'
+        'https://popmenucloud.com/cdn-cgi/image/width=1920,height=1920,format=auto,fit=scale-down/pvuksijq/11294727-0b8b-4d9a-9007-a5c417497d60',
       ],
       location: {
         locationName: '7-9 Churchgate, Bolton BL1 1HU England',
-        locationAddress: 
-        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2368.7648427030813!2d-2.4289803239159373!3d53.57981335723002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ba655ca61dc1d%3A0x78b54af0e3871395!2sCafe%20Taste%20Of%20Greece!5e0!3m2!1sen!2sus!4v1698654681642!5m2!1sen!2sus',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2368.7648427030813!2d-2.4289803239159373!3d53.57981335723002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ba655ca61dc1d%3A0x78b54af0e3871395!2sCafe%20Taste%20Of%20Greece!5e0!3m2!1sen!2sus!4v1698654681642!5m2!1sen!2sus',
       },
       phone: '+44 1204 387811',
       website: 'https://www.facebook.com/TasteOfGreeceBolton/',
@@ -2351,7 +2339,7 @@ export function getRestaurant() {
       reviews: 4500,
       id: 100,
       country_id: 33,
-      rank:"#9 of 280 Restaurants in Bolton"
+      rank: '#9 of 280 Restaurants in Bolton',
     },
   ];
 }
@@ -2706,7 +2694,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 90% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 116,
+      id: 117,
       country_id: 22,
     },
     {
@@ -2727,7 +2715,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 85% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 117,
+      id: 118,
       country_id: 22,
     },
     {
@@ -2748,7 +2736,7 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 95% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 118,
+      id: 119,
       country_id: 22,
     },
     {
@@ -2766,27 +2754,6 @@ export function getThingsToDo() {
       package: '$56',
       duration: '10h',
       reviews: 1336,
-      rating: 4.5,
-      reccommendation: 'Recommended by 90% of Travellers',
-      cancellation: 'Free Cancellation',
-      id: 119,
-      country_id: 22,
-    },
-    {
-      name: 'Piazza Venezia',
-      images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/df/b6/f3/largo-dei-calcarari.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/df/b6/f2/piramide.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7b/96/81/caption.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b2/4a/08/italia-germania-2-2.jpg?w=1200&h=-1&s=1',
-      ],
-      tours: 'Free Bike Tours Rome',
-      about:
-        'Book your tour directly by visiting our website linked also on this page. Private tours have priority. Genuine and unforgettable ride through the authentic Rome! Every tour is different and customized. We ride the bycicle to share our passions, take photos, have fun and get an authentic feeling of the city. We are passionate locals, to get a quick answer contact us via social media or request your tour on our webpage.',
-      location: 'Rome, Lazio, Italy',
-      package: '$40',
-      duration: '10h',
-      reviews: 2336,
       rating: 4.5,
       reccommendation: 'Recommended by 90% of Travellers',
       cancellation: 'Free Cancellation',
@@ -2811,7 +2778,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 99% of travelers',
       cancellation: 'Free Cancellation',
-      id: 121,
+      id: 122,
       country_id: 55,
     },
     {
@@ -2832,7 +2799,7 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 90% of travelers',
       cancellation: 'Free Cancellation',
-      id: 122,
+      id: 123,
       country_id: 55,
     },
     {
@@ -2853,7 +2820,7 @@ export function getThingsToDo() {
       rating: 4,
       reccommendation: 'Recommended by 94% of travelers',
       cancellation: 'Free Cancellation',
-      id: 123,
+      id: 124,
       country_id: 55,
     },
     {
@@ -2874,7 +2841,7 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 97% of travelers',
       cancellation: 'Free Cancellation',
-      id: 124,
+      id: 125,
       country_id: 55,
     },
     {
@@ -2895,7 +2862,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 90% of travelers',
       cancellation: 'Free Cancellation',
-      id: 125,
+      id: 126,
       country_id: 55,
     },
     {
@@ -2916,7 +2883,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 92% of travelers',
       cancellation: 'Free Cancellation',
-      id: 126,
+      id: 127,
       country_id: 55,
     },
     {
@@ -2937,7 +2904,7 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 94% of travelers',
       cancellation: 'Free Cancellation',
-      id: 127,
+      id: 128,
       country_id: 55,
     },
     {
@@ -2958,7 +2925,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 98% of travelers',
       cancellation: 'Free Cancellation',
-      id: 128,
+      id: 129,
       country_id: 55,
     },
     {
@@ -2979,7 +2946,7 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 95% of travelers',
       cancellation: 'Free Cancellation',
-      id: 129,
+      id: 130,
       country_id: 55,
     },
     {
@@ -3000,19 +2967,20 @@ export function getThingsToDo() {
       rating: 4,
       reccommendation: 'Recommended by 91% of travelers',
       cancellation: 'Free Cancellation',
-      id: 130,
+      id: 131,
       country_id: 55,
     },
     {
       name: 'The Dubai Fountain',
-      images:[
-          'https://www.viewdubai.net/wp-content/uploads/2021/08/Dubai-Fountain.jpg',
-          'https://www.visitdubai.com/-/media/gathercontent/poi/t/the-dubai-fountain/fallback-image/the-dubai-fountain-3-getty.jpg',
-          'https://images.squarespace-cdn.com/content/v1/63b42d68124e4755513cecb9/e8bfd88d-cb77-4cd8-ae50-2c3f6290a56a/dubai-fountain-at-night.jpg',
-          'https://media.cntraveler.com/photos/5a847e0f1eb1e03b9678c1e1/16:9/w_2560,c_limit/Dubai-Fountain_2018_GettyImages-625721620.jpg'
+      images: [
+        'https://www.viewdubai.net/wp-content/uploads/2021/08/Dubai-Fountain.jpg',
+        'https://www.visitdubai.com/-/media/gathercontent/poi/t/the-dubai-fountain/fallback-image/the-dubai-fountain-3-getty.jpg',
+        'https://images.squarespace-cdn.com/content/v1/63b42d68124e4755513cecb9/e8bfd88d-cb77-4cd8-ae50-2c3f6290a56a/dubai-fountain-at-night.jpg',
+        'https://media.cntraveler.com/photos/5a847e0f1eb1e03b9678c1e1/16:9/w_2560,c_limit/Dubai-Fountain_2018_GettyImages-625721620.jpg',
       ],
       tours: 'Fountains tour',
-      about: 'Choreographed to music, the Dubai Fountain shoots water as high as 500 feet –that’s as high as a50-story building. Designed by creators of the Fountains of Bellagio in Vegas, Dubai Fountain Performances occur daily on the 30-acre Burj Khalifa Lake',
+      about:
+        'Choreographed to music, the Dubai Fountain shoots water as high as 500 feet –that’s as high as a50-story building. Designed by creators of the Fountains of Bellagio in Vegas, Dubai Fountain Performances occur daily on the 30-acre Burj Khalifa Lake',
       location: 'Bur Dubai',
       package: '$50',
       duration: '12h',
@@ -3020,19 +2988,20 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 95% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 131,
+      id: 132,
       country_id: 44,
     },
     {
       name: 'Burj Khalifa',
-      images:[
-          'https://www.visitdubai.com/-/media/gathercontent/poi/b/burj-khalifa/fallback-image/poi-burj-khalifa-3-dtcm-jun-2023.jpg',
-          'https://img.veenaworld.com/wp-content/uploads/2021/11/Burj-Khalifa.jpg',
-          'https://www.visitdubai.com/-/media/gathercontent/poi/t/the-lounge-burj-khalifa/fallback-image/the-lounge-burj-khalifa-03.jpg',
-          'https://cdn-imgix.headout.com/media/images/0ae909386e5b7ba7b805016cf311fd40-3022-dubai-entry-tickets-to-burj-khalifa-at-the-top--level-124---125-02.jpg?auto=format&w=814.9333333333333&h=458.4&q=90&fit=crop&ar=16%3A9'
+      images: [
+        'https://www.visitdubai.com/-/media/gathercontent/poi/b/burj-khalifa/fallback-image/poi-burj-khalifa-3-dtcm-jun-2023.jpg',
+        'https://img.veenaworld.com/wp-content/uploads/2021/11/Burj-Khalifa.jpg',
+        'https://www.visitdubai.com/-/media/gathercontent/poi/t/the-lounge-burj-khalifa/fallback-image/the-lounge-burj-khalifa-03.jpg',
+        'https://cdn-imgix.headout.com/media/images/0ae909386e5b7ba7b805016cf311fd40-3022-dubai-entry-tickets-to-burj-khalifa-at-the-top--level-124---125-02.jpg?auto=format&w=814.9333333333333&h=458.4&q=90&fit=crop&ar=16%3A9',
       ],
       tours: 'Cultural tour',
-      about: 'Standing over 2,700 feet and 163 floors high, this record-breaking skyscraper in downtown Dubai is the tallest structure in the world. Burj Khalifa has several open-air viewing decks and swanky lounges which offer splendid views of the UAE and the Persian Gulf. The highest lounge is located at level 154, and there is even a hotel at levels 38 and 39. Designed by Skidmore, Owings & Merrill architects, this mixed-used development atop Dubai Mall is inspired by the Great Mosque of Samarra in Iraq.You might want to buy skip-the-line tickets or join a tour to avoid snaking queues at this popular attraction in Dubai. ',
+      about:
+        'Standing over 2,700 feet and 163 floors high, this record-breaking skyscraper in downtown Dubai is the tallest structure in the world. Burj Khalifa has several open-air viewing decks and swanky lounges which offer splendid views of the UAE and the Persian Gulf. The highest lounge is located at level 154, and there is even a hotel at levels 38 and 39. Designed by Skidmore, Owings & Merrill architects, this mixed-used development atop Dubai Mall is inspired by the Great Mosque of Samarra in Iraq.You might want to buy skip-the-line tickets or join a tour to avoid snaking queues at this popular attraction in Dubai. ',
       location: 'Downtown Dubai',
       package: '$54',
       duration: '12h',
@@ -3040,19 +3009,20 @@ export function getThingsToDo() {
       rating: 4.8,
       reccommendation: 'Recommended by 90% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 132,
+      id: 133,
       country_id: 44,
     },
     {
       name: 'The Dubai Mall',
-      images:[
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8c/0c/1a/taken-5-years-ago-it.jpg?w=1200&h=-1&s=1',
-          'https://media.cntravellerme.com/photos/64adaa3b8065f76731bd4b67/16:9/w_1600,c_limit/Hero-Dubai-Mall-Fashion-Avenue-Dubai-Alamy-R9FRB7.jpg',
-          'https://images.ctfassets.net/wdjnw2prxlw8/4kZjac0MOm8yI3jFg4jOCK/721abfa90557c1169d42c5fd3081df99/the_dubai_mall_interior.jpg',
-          'https://www.tripsavvy.com/thmb/tpCj99f5SJU6Mrj_shHkRcOErrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-538737347-5b3fa502c9e77c00547605ea.jpg'
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8c/0c/1a/taken-5-years-ago-it.jpg?w=1200&h=-1&s=1',
+        'https://media.cntravellerme.com/photos/64adaa3b8065f76731bd4b67/16:9/w_1600,c_limit/Hero-Dubai-Mall-Fashion-Avenue-Dubai-Alamy-R9FRB7.jpg',
+        'https://images.ctfassets.net/wdjnw2prxlw8/4kZjac0MOm8yI3jFg4jOCK/721abfa90557c1169d42c5fd3081df99/the_dubai_mall_interior.jpg',
+        'https://www.tripsavvy.com/thmb/tpCj99f5SJU6Mrj_shHkRcOErrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-538737347-5b3fa502c9e77c00547605ea.jpg',
       ],
       tours: 'Shopping tour',
-      about: 'This downtown mall is known for luxury stores like Cartier and Harry Winston. It also has an aquarium, ice rink, and 360-degree views of the city from the world’s tallest building, The Burj Khalifa.',
+      about:
+        'This downtown mall is known for luxury stores like Cartier and Harry Winston. It also has an aquarium, ice rink, and 360-degree views of the city from the world’s tallest building, The Burj Khalifa.',
       location: 'Downtown Dubai',
       package: '$156',
       duration: '12h',
@@ -3060,19 +3030,20 @@ export function getThingsToDo() {
       rating: 4.3,
       reccommendation: 'Recommended by 92% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 133,
+      id: 134,
       country_id: 44,
     },
     {
       name: 'Atlantis Aquaventure Waterpark',
-      images:[
-          'https://i.ytimg.com/vi/vDR6ObwuUFM/maxresdefault.jpg',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f9/7d/58/photo0jpg.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1e/e4/e9/aquaventure-waterpark.jpg?w=1200&h=-1&s=1',
-          'https://assets.kerzner.com/api/public/content/dd625dd7d0e144b99b41f5b9ef6f3952?v=ed324f90&t=w2880'
+      images: [
+        'https://i.ytimg.com/vi/vDR6ObwuUFM/maxresdefault.jpg',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f9/7d/58/photo0jpg.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1e/e4/e9/aquaventure-waterpark.jpg?w=1200&h=-1&s=1',
+        'https://assets.kerzner.com/api/public/content/dd625dd7d0e144b99b41f5b9ef6f3952?v=ed324f90&t=w2880',
       ],
       tours: 'Adventure tour',
-      about: 'As the world’s largest waterpark, Atlantis Aquaventure Waterpark is great for all ages. Take on the Odyssey of Terror, the world’s tallest waterslide; experience weightlessness on the Zoomerango’s vertical wall; and zoom through a tube that goes through a shark-filled underwater lagoon on Shark Attack. Bust your moves at the surf area, cliff-jump at Immortal Falls, and let the little ones loose at the Splashers Kids’ Play Area.',
+      about:
+        'As the world’s largest waterpark, Atlantis Aquaventure Waterpark is great for all ages. Take on the Odyssey of Terror, the world’s tallest waterslide; experience weightlessness on the Zoomerango’s vertical wall; and zoom through a tube that goes through a shark-filled underwater lagoon on Shark Attack. Bust your moves at the surf area, cliff-jump at Immortal Falls, and let the little ones loose at the Splashers Kids’ Play Area.',
       location: 'Palm Jumeirah',
       package: '$95',
       duration: '15h',
@@ -3080,19 +3051,20 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 82% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 134,
+      id: 135,
       country_id: 44,
     },
     {
       name: 'AURA SKYPOOL',
-      images:[
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/e3/6a/e4/aura-skypool-ain-marina.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/b9/1c/fe/caption.jpg?w=1200&h=-1&s=1',
-          'https://dscvr.ae/wp-content/uploads/2021/10/Aura-Skypool-001.jpg',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/b9/1e/b8/caption.jpg?w=1200&h=-1&s=1'
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/e3/6a/e4/aura-skypool-ain-marina.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/b9/1c/fe/caption.jpg?w=1200&h=-1&s=1',
+        'https://dscvr.ae/wp-content/uploads/2021/10/Aura-Skypool-001.jpg',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/b9/1e/b8/caption.jpg?w=1200&h=-1&s=1',
       ],
       tours: 'Adventure tour',
-      about: 'Suspended 200 metres in the air, AURA SKYPOOL is the world’s highest 360-degree infinity pool offering incredible views of the iconic Dubai skyline, Palm Jumeirah and the glistening horizon of the Arabian Gulf. AURA is a one-of-a-kind experience triggering all the senses, and a truly unmissable spot to capture the essence Dubai at new heights.',
+      about:
+        'Suspended 200 metres in the air, AURA SKYPOOL is the world’s highest 360-degree infinity pool offering incredible views of the iconic Dubai skyline, Palm Jumeirah and the glistening horizon of the Arabian Gulf. AURA is a one-of-a-kind experience triggering all the senses, and a truly unmissable spot to capture the essence Dubai at new heights.',
       location: 'Palm Jumeirah',
       package: '$30',
       duration: '9h',
@@ -3100,19 +3072,20 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 89% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 135,
+      id: 136,
       country_id: 44,
     },
     {
       name: 'Burj Al Arab',
-      images:[
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/49/c0/02/20180310-101831-largejpg.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/19/5a/49/20180212-161446-largejpg.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/0b/01/02/the-sky-view-bar.jpg?w=1200&h=-1&s=1',
-          'https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/hotels/dubai/burj-al-arab-jumeirah/hero/burj-al-arab-profile-exterior_6-4_landscape.jpg?h=800&w=1200'
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/49/c0/02/20180310-101831-largejpg.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/19/5a/49/20180212-161446-largejpg.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/0b/01/02/the-sky-view-bar.jpg?w=1200&h=-1&s=1',
+        'https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/hotels/dubai/burj-al-arab-jumeirah/hero/burj-al-arab-profile-exterior_6-4_landscape.jpg?h=800&w=1200',
       ],
       tours: 'Cultural tour',
-      about: 'One of the tallest hotels in the world, the unique white sail shape of this luxury hotel on Jumeirah Beach is iconic to Dubai skyline.',
+      about:
+        'One of the tallest hotels in the world, the unique white sail shape of this luxury hotel on Jumeirah Beach is iconic to Dubai skyline.',
       location: 'Umm Suqeim 3',
       package: '$25',
       duration: '12h',
@@ -3120,19 +3093,20 @@ export function getThingsToDo() {
       rating: 4.6,
       reccommendation: 'Recommended by 99% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 136,
+      id: 137,
       country_id: 44,
     },
     {
       name: 'Dubai Miracle Garden',
-      images:[
-          'https://cdn-imgix.headout.com/media/images/be4dcb43a3fb96386a8337be12e05c35-dubai%20miracle%20garden.jpg',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/97/c5/6a/miracle-garden.jpg?w=1200&h=-1&s=1',
-          'https://www.dubaimiraclegarden.com/wp-content/uploads/slider/cache/1bbd5f5cab3b0f22aa139b2e825ab62b/FLORAL-CLOCK.jpg',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/19/64/6b/miracle-garden.jpg?w=1200&h=-1&s=1'
+      images: [
+        'https://cdn-imgix.headout.com/media/images/be4dcb43a3fb96386a8337be12e05c35-dubai%20miracle%20garden.jpg',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/97/c5/6a/miracle-garden.jpg?w=1200&h=-1&s=1',
+        'https://www.dubaimiraclegarden.com/wp-content/uploads/slider/cache/1bbd5f5cab3b0f22aa139b2e825ab62b/FLORAL-CLOCK.jpg',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/19/64/6b/miracle-garden.jpg?w=1200&h=-1&s=1',
       ],
       tours: 'Nature tour',
-      about: 'Miracle Garden is one of a kind in the region and in the world for such a unique display and extravagant outdoor recreational destination. Miracle Garden in its first phase is providing state-of-the-art services and facilities including open parking, VIP parking, sitting areas, prayer room, toilet blocks, ablution facility, security room, first aid room, carts for handicapped visitors, retails and commercial kiosk and all other related services available to facilitate visitors.',
+      about:
+        'Miracle Garden is one of a kind in the region and in the world for such a unique display and extravagant outdoor recreational destination. Miracle Garden in its first phase is providing state-of-the-art services and facilities including open parking, VIP parking, sitting areas, prayer room, toilet blocks, ablution facility, security room, first aid room, carts for handicapped visitors, retails and commercial kiosk and all other related services available to facilitate visitors.',
       location: 'Al Barsha',
       package: '$27',
       duration: '12h',
@@ -3140,19 +3114,20 @@ export function getThingsToDo() {
       rating: 4.9,
       reccommendation: 'Recommended by 95% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 137,
+      id: 138,
       country_id: 44,
     },
     {
       name: 'Mall of the Emirates',
-      images:[
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f5/9b/9c/mall-of-the-emirates.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/9a/4f/0e/mall-of-the-emirates.jpg?w=1200&h=-1&s=1',
-          'https://www.arabianbusiness.com/cloud/2023/09/08/Mall-of-the-Emirates.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mall_of_the_Emirates_%283679338750%29.jpg/800px-Mall_of_the_Emirates_%283679338750%29.jpg'
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f5/9b/9c/mall-of-the-emirates.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/9a/4f/0e/mall-of-the-emirates.jpg?w=1200&h=-1&s=1',
+        'https://www.arabianbusiness.com/cloud/2023/09/08/Mall-of-the-Emirates.jpg',
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mall_of_the_Emirates_%283679338750%29.jpg/800px-Mall_of_the_Emirates_%283679338750%29.jpg',
       ],
       tours: 'Shopping tour',
-      about: 'This massive mall has a mix of luxury labels like Christian Louboutin and midscale brands like DKNY. It’s also home to hotels, restaurants, theaters, and the indoor ski resort Ski Dubai.',
+      about:
+        'This massive mall has a mix of luxury labels like Christian Louboutin and midscale brands like DKNY. It’s also home to hotels, restaurants, theaters, and the indoor ski resort Ski Dubai.',
       location: 'Al Barsha',
       package: '$52',
       duration: '14h',
@@ -3160,19 +3135,20 @@ export function getThingsToDo() {
       rating: 4,
       reccommendation: 'Recommended by 94% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 138,
+      id: 139,
       country_id: 44,
     },
     {
       name: 'Dubai Creek',
-      images:[
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c6/f2/9c/20200115-140413-largejpg.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2f/c8/48/dubai-creek.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/4a/62/d7/dubai-creek.jpg?w=1200&h=-1&s=1',
-          'https://d33om22pidobo4.cloudfront.net/areaguides/thumbnailimages/dubai-creek-harbour1x-1png-87405877-b6ca-472e-8e74-dc41a0a0c32e.png?d=1000x666&f=webp'
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c6/f2/9c/20200115-140413-largejpg.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2f/c8/48/dubai-creek.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/4a/62/d7/dubai-creek.jpg?w=1200&h=-1&s=1',
+        'https://d33om22pidobo4.cloudfront.net/areaguides/thumbnailimages/dubai-creek-harbour1x-1png-87405877-b6ca-472e-8e74-dc41a0a0c32e.png?d=1000x666&f=webp',
       ],
       tours: 'Cruising tour',
-      about: 'Separating Deira and Bur Dubai, the creek is the citys historic commercial hub. Explore and cross the canal on a traditional abra boat ride.',
+      about:
+        'Separating Deira and Bur Dubai, the creek is the citys historic commercial hub. Explore and cross the canal on a traditional abra boat ride.',
       location: 'Al Fahidi',
       package: '$105',
       duration: '12h',
@@ -3180,19 +3156,20 @@ export function getThingsToDo() {
       rating: 4.3,
       reccommendation: 'Recommended by 91% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 139,
+      id: 140,
       country_id: 44,
     },
     {
       name: 'Global Village',
-      images:[
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/95/d1/77/global-village.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e9/8b/0e/global-village.jpg?w=1200&h=-1&s=1',
-          'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f8/41/0b/photo1jpg.jpg?w=1200&h=-1&s=1',
-          'https://www.visitdubai.com/-/media/migration/images/events/g/global-village-season-25-eventorganiser-oct-2020.jpg'
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/95/d1/77/global-village.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e9/8b/0e/global-village.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f8/41/0b/photo1jpg.jpg?w=1200&h=-1&s=1',
+        'https://www.visitdubai.com/-/media/migration/images/events/g/global-village-season-25-eventorganiser-oct-2020.jpg',
       ],
       tours: 'Cultural tour',
-      about: 'The sprawling Global Village complex is a great spot for culture, entertainment, and shopping in Dubai. Get a closer look at over 90 cultures, all in the same place. At the themed pavilions, you’ll find a variety of beautiful handicrafts and delicious food representative of each country. You will also get to watch cultural performances as well as international music acts each night. Do not miss out on all the carnival rides within the park too.Global Village is open from October through April and entry tickets are needed. The best time to visit is during early evening hours when crowds are thinner. ',
+      about:
+        'The sprawling Global Village complex is a great spot for culture, entertainment, and shopping in Dubai. Get a closer look at over 90 cultures, all in the same place. At the themed pavilions, you’ll find a variety of beautiful handicrafts and delicious food representative of each country. You will also get to watch cultural performances as well as international music acts each night. Do not miss out on all the carnival rides within the park too.Global Village is open from October through April and entry tickets are needed. The best time to visit is during early evening hours when crowds are thinner. ',
       location: 'Theme park in Dubai',
       package: '$16',
       duration: '12h',
@@ -3200,7 +3177,7 @@ export function getThingsToDo() {
       rating: 4.7,
       reccommendation: 'Recommended by 87% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 140,
+      id: 141,
       country_id: 44,
     },
     {
@@ -3209,7 +3186,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/07/36/49.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/07/30/84.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/07/30/87.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/07/36/62.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/07/36/62.jpg',
       ],
       tours: 'Bus Tours',
       about:
@@ -3221,7 +3198,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 90% of travelers',
       cancellation: 'Free Cancellation',
-      id: 141,
+      id: 142,
       country_id: 33,
     },
     {
@@ -3230,7 +3207,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/06/78/e0.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/06/78/c6.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/06/78/bd.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/06/79/1d.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0c/06/79/1d.jpg',
       ],
       tours: 'Bus Tours',
       about:
@@ -3242,7 +3219,7 @@ export function getThingsToDo() {
       rating: 4,
       reccommendation: 'Recommended by 95% of travelers',
       cancellation: 'Free Cancellation',
-      id: 142,
+      id: 143,
       country_id: 33,
     },
     {
@@ -3251,7 +3228,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/84/f0/af.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/84/f0/98.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/fe/e4/ae.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/71/a4/86.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/71/a4/86.jpg',
       ],
       tours: 'Historical Tours',
       about:
@@ -3263,7 +3240,7 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 97% of travelers',
       cancellation: 'Free Cancellation',
-      id: 143,
+      id: 144,
       country_id: 33,
     },
     {
@@ -3272,7 +3249,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/73/3b/93.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/73/f1/ec.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/73/f1/ed.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/73/40/4f.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/73/40/4f.jpg',
       ],
       tours: 'Historical Tours',
       about:
@@ -3284,7 +3261,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 98% of travelers',
       cancellation: 'Free Cancellation',
-      id: 144,
+      id: 145,
       country_id: 33,
     },
     {
@@ -3293,7 +3270,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0d/14/1c/6d.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/11/d8/01.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/11/d8/0c.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/11/d8/0d.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/11/d8/0d.jpg',
       ],
       tours: 'Historical Tours',
       about:
@@ -3305,7 +3282,7 @@ export function getThingsToDo() {
       rating: 4,
       reccommendation: 'Recommended by 90% of travelers',
       cancellation: 'Free Cancellation',
-      id: 145,
+      id: 146,
       country_id: 33,
     },
     {
@@ -3314,7 +3291,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/06/1e/87.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/06/1e/89.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/06/1e/83.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/74/1f/4a.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/74/1f/4a.jpg',
       ],
       tours: 'Day Trips',
       about:
@@ -3326,7 +3303,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 93% of travelers',
       cancellation: 'Free Cancellation',
-      id: 146,
+      id: 147,
       country_id: 33,
     },
     {
@@ -3335,7 +3312,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/32/15/bd.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/32/15/78.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/32/15/c6.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/a5/86/6f.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/a5/86/6f.jpg',
       ],
       tours: 'Food & Drinks',
       about:
@@ -3347,7 +3324,7 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 99% of travelers',
       cancellation: 'Free Cancellation',
-      id: 147,
+      id: 148,
       country_id: 33,
     },
     {
@@ -3356,7 +3333,7 @@ export function getThingsToDo() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/51/47/f0/sunset-sailing-catamaran.jpg?w=1200&h=-1&s=1',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/06/1e/b6.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/06/1e/b1.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/74/1f/47.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/74/1f/47.jpg',
       ],
       tours: 'Boat Tours',
       about:
@@ -3368,7 +3345,7 @@ export function getThingsToDo() {
       rating: 5,
       reccommendation: 'Recommended by 99% of travelers',
       cancellation: 'Free Cancellation',
-      id: 148,
+      id: 149,
       country_id: 33,
     },
     {
@@ -3377,7 +3354,7 @@ export function getThingsToDo() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/12/b6/2f/half-day-highlights-of.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/23/80/c6/caption.jpg?w=1200&h=-1&s=1',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/c2/bb/43.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/70/23/c6.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/70/23/c6.jpg',
       ],
       tours: 'Bus Tours',
       about:
@@ -3389,7 +3366,7 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 96% of travelers',
       cancellation: 'Free Cancellation',
-      id: 149,
+      id: 150,
       country_id: 33,
     },
     {
@@ -3398,7 +3375,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0e/32/3e/db.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0e/32/3e/aa.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0e/3d/6b/2a.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0e/3d/72/3f.jpg'
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0e/3d/72/3f.jpg',
       ],
       tours: 'Multi-day Tours',
       about:
@@ -3410,7 +3387,7 @@ export function getThingsToDo() {
       rating: 4.5,
       reccommendation: 'Recommended by 91% of travelers',
       cancellation: 'Free Cancellation',
-      id: 150,
+      id: 151,
       country_id: 33,
     },
   ];
