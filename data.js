@@ -140,7 +140,6 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/98/80/hotel-exterior-during.jpg?w=1200&h=-1&s=1',
         'https://www.kayak.com/rimg/himg/48/a1/1d/ice-302919-105502000-870092.jpg?width=720&height=576&crop=true',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/b8/bd/imperial-suite-jacuzzi.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/93/65/chocolate-lounge.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/45/82/65/devarana-spa.jpg?w=1200&h=-1&s=1',
       ],
 
