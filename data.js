@@ -190,7 +190,6 @@ export function getHotels() {
         "Stay in the heart of Cairo, with breathtaking views to enchant you and ancient zoological and botanical gardens just outside your door. At our luxury boutique hotel, enjoy an array of authentic fine dining outlets, lavish spa and opulent meeting spaces, an adjacent designer mall and a casino. Just minutes away from the hotel enjoy the best of the city's arts, culture and shopping areas.",
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ab/99/f7/a-hero-image.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/2e/8f/1a/view-of-the-pyramid-at.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/26/f1/e3/four-seasons-hotel-cairo.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a0/17/bc/aura-restaurant-day-shot.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/68/c0/df/deluxe-twin-room.jpg?w=1100&h=-1&s=1',
