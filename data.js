@@ -926,7 +926,7 @@ export function getHotels() {
       description:
         'Royal Central, located at The Palm, is a beach-side Hotel Resort with 207 rooms that combines luxury and laid-back vibes into one. Whether you’re here to relax on the beach, lounge by the pool, enjoy some mouthwatering food at an array of our outlets, or simply relax in the elegance and comforts your room with Balcony; Royal Central is your escape from the busy city life.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/af/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/08/e1/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/08/4a/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/52/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/fc/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
