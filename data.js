@@ -61,7 +61,7 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/01/29/marriott-mena-house-cairo.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1d/27/92/mena-house-hotel.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/70/18/05/moghul-room-serving-indian.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/15/d7/2d/spend-qauality-time-with.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/99/e8/c1/cairo-marriott-hotel.jpg?w=1200&h=-1&s=1',
       ],
       rank: '#8 of 181 hotels in Giza',
       location: {
@@ -112,7 +112,7 @@ export function getHotels() {
       description:
         "Holiday Inn & Suites Cairo Maadi is your perfect home away from home. The hotel conveniently located on Cairo's famous Maadi Corniche with a breathtaking view of the magical Nile River, the hotel is 31 kilometers from Cairo International Airport and 10 kilometers from downtown, the Egyptian Museum and other remarkable landmarks of Africa's largest city. Whether for business or leisure, our 63 residential apartments are perfectly crafted with state-of-the-art facilities to accommodate your short or long-term staying needs. The units enjoy majestic views of the city or Nile River and fully",
       images: [
-        'https://lh5.googleusercontent.com/p/AF1QipOMZY4KdIi8HuEBTiAGIK-fs7nM1XWxkSVyEwfE=w253-h337-k-no',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/68/c9/3d/take-a-look-at-the-cairo.jpg?w=1200&h=-1&s=1',
         'https://lh5.googleusercontent.com/p/AF1QipNtXdEUAjnwS0sN0HaSuITzUPIFwn0dFkFpP86e=w253-h168-k-no',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/66/dc/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/c5/ef/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
@@ -138,11 +138,8 @@ export function getHotels() {
         'Situated in Cairo’s affluent Garden City district, Kempinski Nile Hotel offers luxurious rooms on the shores of the Nile RiverEach room is fitted with free Wi-Fi, free Minibar, Flat Screen TVs with satellite Channels, Free Movie Library, 24/7 Butler Service, Complimentary Tea and Coffee throughout the day. Kempinski’s full-service spa and wellness center offers Free access to Jacuzzi, steam room, and sauna.. Guests can also enjoy professional massages, or cool off in the outdoor swimming pool on the hotel’s rooftop.The hotel is few minutes walk from luxurious shopping areas, Tahrir square, Egyptian Museum, Opera House.',
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/98/80/hotel-exterior-during.jpg?w=1200&h=-1&s=1',
-        'https://i.pinimg.com/564x/e4/dc/8c/e4dc8c7510ba4e1d201ad16eded671ab.jpg',
         'https://www.kayak.com/rimg/himg/48/a1/1d/ice-302919-105502000-870092.jpg?width=720&height=576&crop=true',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/b7/48/rooftop-pool-during-sunset.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/b8/bd/imperial-suite-jacuzzi.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/c7/86/the-chocolate-lounge.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/93/65/chocolate-lounge.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/45/82/65/devarana-spa.jpg?w=1200&h=-1&s=1',
       ],
@@ -2450,7 +2447,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 99% of Travellers',
       cancellation: 'Free Cancellation',
       id: 102,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: 'Luxury Felucca on the Nile with Lunch',
