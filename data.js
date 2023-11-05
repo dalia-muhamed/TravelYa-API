@@ -162,9 +162,9 @@ export function getHotels() {
       description:
         'A melting pot of history and diversity, the city of Cairo is ideal for both business and leisure. Like the city itself, Fairmont Nile City offers a delightful series of contrasts, combining advanced technology and modern design with local flavors and flair. With sweeping panoramas of the river Nile and the Pyramids in the distance, Cairo’s beauty and history are always in sight from your luxury accommodation. During your stay, embark on culinary adventures at the city’s finest restaurants, enjoy the fresh air at our rooftop poolside restaurant and pamper yourself at Willow Stream Spa. Part of the prestigious Nile City complex, this luxury hotel is the perfect location for business events. The space consists of 845 square meters (9,100 square feet) plus 450 square meters (4,800 square feet) of outdoor space dedicated to meetings and conventions, comprising of 10 meeting rooms including a ballroom. The space also offers spectacular river Nile views.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/1e/eb/b6/fairmont-nile-city-destination.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/82/ab/guest-room.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/83/4d/recreational-facility.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/82/40/exterior-view.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/82/ab/guest-room.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/56/4d/44/pool--v5053901.jpg?w=1200&h=-1&s=1',
       ],
 
