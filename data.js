@@ -1053,9 +1053,9 @@ export function getHotels() {
       description:
         'The quality renowned Atrium Palace Thalasso Spa Resort & Villas is the ideal destination for marvelous vacations and relaxing holidays. This architecturally innovative hotel combines luxury with its delightful blend of Greek Classical styles and ambiance meters from the crystal clear beach. The hotel is situated in the tranquil bay of Kalathos, close to the picturesque village of Lindos, on the Southeast area of Rhodes Island. Its unique beauties of nature and cultural heritage characterize it as the most intriguing region of the island.',
       images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/09/c2/e4/atrium-palace-thalasso.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/81/01/b5/pool-bar.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/08/2f/25/atrium-palace-thalasso.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/09/c2/e4/atrium-palace-thalasso.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/08/2f/22/atrium-palace-thalasso.jpg?w=1200&h=-1&s=1',
       ],
       location: {
