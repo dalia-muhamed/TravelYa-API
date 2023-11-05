@@ -645,10 +645,10 @@ export function getHotels() {
       description:
         'Crowne Plaza Beirut hotel is well located in the heart of the capital of Beirut in Hamra Main Street, a prime destination for business, leisure and shopping.The property consists of 190 rooms ,some overlooking the Mediterranean Sea equipped with free high-speed internet, laptop-sized safe, a minibar and satellite LCD TV. The hotel features an indoor pool, and a full-service on-site Health Club Fitness Zone and an amusement and bowling center.',
       images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c1/f2/swimming-pool.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/cd/lobby--v7085318.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/cb/lobby--v7085483.jpg?w=1200&h=-1&s=1',
-        'https://dynamihttps://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/d0/front-desk--v7085531.jpg?w=1200&h=-1&s=1c-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/97/pool--v7085482.jpg?w=1200&h=-1&s=1',
-        '',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c1/e6/live-station-during-breakfast.jpg?w=1200&h=-1&s=1',
       ],
       location: {
         locationName:
