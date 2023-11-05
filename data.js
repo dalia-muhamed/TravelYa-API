@@ -2396,7 +2396,6 @@ export function getThingsToDo() {
       name: 'Private Tour To Giza Pyramids, Memphis City, Dahshur And Sakkara Pyramids',
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/36/c0/83.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/11/ef/2e/cb.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/7c/4c/c9.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/a8/eb/7d.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/e4/85/c0.jpg',
