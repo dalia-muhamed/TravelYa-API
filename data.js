@@ -2416,7 +2416,6 @@ export function getThingsToDo() {
       name: 'Siwa Oasis all inclusive 3 days Tour from Cairo or Giza  ',
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/f7/1f/68.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/84/e8/c7.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/77/56/1c.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/54/d9/d5.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/11/70/94/0a.jpg',
