@@ -112,12 +112,8 @@ export function getHotels() {
       description:
         "Holiday Inn & Suites Cairo Maadi is your perfect home away from home. The hotel conveniently located on Cairo's famous Maadi Corniche with a breathtaking view of the magical Nile River, the hotel is 31 kilometers from Cairo International Airport and 10 kilometers from downtown, the Egyptian Museum and other remarkable landmarks of Africa's largest city. Whether for business or leisure, our 63 residential apartments are perfectly crafted with state-of-the-art facilities to accommodate your short or long-term staying needs. The units enjoy majestic views of the city or Nile River and fully",
       images: [
-        'https://digital.ihg.com/is/image/ihg/holiday-inn-hotel-and-suites-cairo-8897663006-4x3?wid=750&fit=constrain',
         'https://lh5.googleusercontent.com/p/AF1QipOMZY4KdIi8HuEBTiAGIK-fs7nM1XWxkSVyEwfE=w253-h337-k-no',
         'https://lh5.googleusercontent.com/p/AF1QipNtXdEUAjnwS0sN0HaSuITzUPIFwn0dFkFpP86e=w253-h168-k-no',
-        'https://lh5.googleusercontent.com/p/AF1QipOMZY4KdIi8HuEBTiAGIK-fs7nM1XWxkSVyEwfE=w253-h337-k-no',
-        'https://lh5.googleusercontent.com/p/AF1QipM2G9aT-Sz43L1RRj6ccUPsV4zRZ_PzoGgECWLj=w253-h168-k-no',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/46/2c/2f/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/66/dc/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/c5/ef/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
       ],
