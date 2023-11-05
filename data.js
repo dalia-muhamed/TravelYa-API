@@ -2479,7 +2479,6 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/3d/ce/9c.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/3e/7e/88.jpg',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d3/72/16/caption.jpg?w=1100&h=-1&s=1',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/e4/85/c0.jpg',
       ],
       tours: 'Boat Tours',
       about:
