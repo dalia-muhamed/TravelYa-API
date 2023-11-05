@@ -1230,8 +1230,8 @@ export function getHotels() {
       description:
         "Member of the Leading hotels of the World, preserving the Cycladic architecture, Katikies Chromata 5 star hotel both astounds and enchants visitors on so many different levels; from the hauntingly beautiful interiors within each of its 26 rooms and suites conveying the heavenly lifestyle of the island, to the uniquely captivating infinity pool from where one can literally breathe in the sheer essence of the volcano. Hidden oasis of calm on its back the Katikies Chromata's alfresco Pool Cocktail Lounge and Gourmet Resto offer three types of views: volcanoscape.",
       images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/74/1e/a2/pool-view.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/74/1e/76/katikies-chromata.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/01/c6/fe/katikies-chromata-santorini.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/01/c5/ff/katikies-chromata-santorini.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/01/c5/ee/katikies-chromata-santorini.jpg?w=1200&h=-1&s=1',
       ],
