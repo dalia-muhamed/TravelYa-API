@@ -59,12 +59,9 @@ export function getHotels() {
         'Marriott Mena House, Cairo comprises 331 luxury rooms and suites, many boasting views of the Pyramids, the lavish gardens or the swimming pool, four restaurants and lounges, expansive indoor and outdoor meetings and banquet facilities, a heated swimming pool and a health club. Discover our unparalleled and unique hotel in Cairo, Egypt.',
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/01/29/marriott-mena-house-cairo.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/09/4d/deluxe-pyramid-view.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1d/27/92/mena-house-hotel.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/70/18/05/moghul-room-serving-indian.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/15/d7/2d/spend-qauality-time-with.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/d4/dd/97/marriott-mena-house-swimming.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/b0/c1/fb/enjoy-sunny-days-at-one.jpg?w=900&h=-1&s=1',
       ],
       rank: '#8 of 181 hotels in Giza',
       location: {
