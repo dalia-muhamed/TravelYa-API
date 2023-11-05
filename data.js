@@ -564,33 +564,7 @@ export function getHotels() {
       country_id: 55,
       id: 21,
     },
-    {
-      name: 'The Smallville Hotel',
-      description:
-        'The Smallville Hotel is the only urban design, business and lifestyle hotel offering short and extended stays, located in the midst of the electric residential neighborhood of Badaro. The hotel offers both short and extended stays. Comprising of 117 spacious bedrooms, 37 suites and five day-lit meeting rooms, a SPA, GYM, DESIGN SHOP. HAIRSALON, CONCIERGE SERVICE, POOL, VIP AMENITIES, ROOFTOP, 7 RESTAURANTS, The Smallville offers you all the pleasures of a five-star stay. Not only so, but with its simplicity and elegance, this hotel is your gateway to the cultural and artistic beat of the city.',
-      images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2c/71/70/the-smallville-hotel.jpg?w=1000&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/60/41/97/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/52/b3/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/54/f3/df/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
-      ],
-      location: {
-        locationName:
-          'Damascus Road, Museum District, Badaro National Museum, Beirut 116-5214 Lebanon',
-        locationAddress:
-          'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13249.161608280363!2d35.517263!3d33.882174!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17060925fc67%3A0x20c56cd455ce9973!2sThe%20Smallville%20Hotel!5e0!3m2!1sen!2sus!4v1698495872868!5m2!1sen!2sus',
-      },
-      price: '150$',
-      rank: '#22 of 181 hotels in Rome',
 
-      phone: '00 961 1 619 999',
-      website:
-        'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=the-smallville-SvziLE_Of7dX75erNuMfjwS392665785286%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-338256189805%3Alp9073644%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFEXP_zzbNHR2YW6eGr2MNyzM7_8Z2y1zwmbhumlAGrLsK6Y_RaJiTxoCVT8QAvD_BwE&highlighted_hotels=576544&redirected=1&city=-801546&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
-      rating: 4.5,
-      reviews: 3800,
-      country_id: 55,
-      id: 22,
-    },
     {
       name: 'InterContinental Phoenicia Beirut',
       description:
@@ -722,9 +696,9 @@ export function getHotels() {
       description:
         'The Suite Hotel Chrome has 44 large suites divided into 4 categories - Family Suite, Deluxe Double Room (Annex), Executive Suite and Junior Suite. All suites have lively colours and a joyful mood, they are furnished with comfortable beds, large relaxing couches and all the necessary amenities. They are tastefully decorated in a modern and stylish design. With independent air-conditioning system, with climate control, direct dial telephone, Wi-Fi, satellite TV and 24-hour front desk service. In-room hairdryers, iron & board are available upon request. All suites have large modern bathrooms, kitchenette with work bench and refrigerator.',
       images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/0f/exterior.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3b/27/deluxe-2-bedroom.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/6d/meeting-room.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/0f/exterior.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/61/16/59/suite-hotel-chrome.jpg?w=1200&h=-1&s=1',
       ],
       location: {
@@ -794,6 +768,32 @@ export function getHotels() {
       rank: '#14 of 181 hotels in Lebanon',
       country_id: 55,
       id: 30,
+    },
+    {
+      name: 'The Smallville Hotel',
+      description:
+        'The Smallville Hotel is the only urban design, business and lifestyle hotel offering short and extended stays, located in the midst of the electric residential neighborhood of Badaro. The hotel offers both short and extended stays. Comprising of 117 spacious bedrooms, 37 suites and five day-lit meeting rooms, a SPA, GYM, DESIGN SHOP. HAIRSALON, CONCIERGE SERVICE, POOL, VIP AMENITIES, ROOFTOP, 7 RESTAURANTS, The Smallville offers you all the pleasures of a five-star stay. Not only so, but with its simplicity and elegance, this hotel is your gateway to the cultural and artistic beat of the city.',
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2c/71/70/the-smallville-hotel.jpg?w=1000&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/60/41/97/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/52/b3/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/54/f3/df/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
+      ],
+      location: {
+        locationName:
+          'Damascus Road, Museum District, Badaro National Museum, Beirut 116-5214 Lebanon',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13249.161608280363!2d35.517263!3d33.882174!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17060925fc67%3A0x20c56cd455ce9973!2sThe%20Smallville%20Hotel!5e0!3m2!1sen!2sus!4v1698495872868!5m2!1sen!2sus',
+      },
+      price: '150$',
+      rank: '#22 of 181 hotels in Lebanon',
+      phone: '00 961 1 619 999',
+      website:
+        'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=the-smallville-SvziLE_Of7dX75erNuMfjwS392665785286%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-338256189805%3Alp9073644%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFEXP_zzbNHR2YW6eGr2MNyzM7_8Z2y1zwmbhumlAGrLsK6Y_RaJiTxoCVT8QAvD_BwE&highlighted_hotels=576544&redirected=1&city=-801546&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
+      rating: 4.5,
+      reviews: 3800,
+      country_id: 55,
+      id: 22,
     },
     {
       name: 'Atlantis The Palm',
