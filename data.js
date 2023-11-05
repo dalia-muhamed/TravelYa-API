@@ -263,13 +263,10 @@ export function getHotels() {
     {
       name: 'Hyatt Regency Cairo West',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/55/5d/c0/pool-view.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/f3/36/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/f3/1d/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
+
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/9c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/8b/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/4f/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/5e/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/7c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
       ],
       location: {
