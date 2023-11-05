@@ -43,6 +43,8 @@ export function getHotels() {
       },
       price: '150$',
       phone: '00 248 1 799 999',
+      rank: '#1 of 181 hotels in Cairo',
+
       website:
         'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
       rating: 5,
@@ -71,6 +73,8 @@ export function getHotels() {
       },
       price: '167$',
       phone: '00 729 1 189 209',
+      rank: '#34 of 181 hotels in Cairo',
+
       website:
         'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
       rating: 4.5,
@@ -96,6 +100,8 @@ export function getHotels() {
       },
       price: '187$',
       phone: '00 248 1 799 999',
+      rank: '#7 of 181 hotels in Cairo',
+
       website:
         'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
       rating: 3.5,
@@ -124,6 +130,7 @@ export function getHotels() {
       },
       price: '170$',
       phone: '00 248 1 799 999',
+      rank: '#24 of 181 hotels in Cairo',
       website:
         'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
       rating: 5,
@@ -153,6 +160,8 @@ export function getHotels() {
       },
       phone: '+02 27 980 000',
       rating: 4.5,
+      rank: '#9 of 181 hotels in Cairo',
+
       price: '200$',
       country_id: 11,
       id: 5,
@@ -292,6 +301,8 @@ export function getHotels() {
       },
       price: '167$',
       phone: '00 248 4 721 900',
+      rank: '#8 of 181 hotels in cairo',
+
       website:
         'https://www.hyatt.com/en-US/hotel/egypt/hyatt-regency-cairo-west/hberc',
       rating: 4.5,
@@ -437,6 +448,7 @@ export function getHotels() {
       website:
         'https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_rgxyE2JwBwKGW__CJfIVJsjHZw3zLXI2PPWnbh3o6SfD_BwE',
       rating: 4,
+      rank: '#8 of 181 hotels in Rome',
       reviews: 2010,
       country_id: 22,
       id: 16,
@@ -461,6 +473,7 @@ export function getHotels() {
       website:
         'https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_r8GDHhc29P0lw1j1_woQJ9gwwCLs2x7jN_GPiocl6aPD_BwE',
       rating: 4,
+      rank: '#5 of 181 hotels in Rome',
       reviews: 3150,
       country_id: 22,
       id: 17,
@@ -481,6 +494,8 @@ export function getHotels() {
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.301451759475!2d12.49554427508612!3d41.90787796355072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61084b73fee1%3A0xc48154e7b909a1f3!2sMarcella%20Royal%20Hotel!5e0!3m2!1sen!2seg!4v1698469831930!5m2!1sen!2seg',
       },
       price: '184$',
+      rank: '#1 of 181 hotels in Rome',
+
       phone: '00 39 06 4201 4591',
       website:
         'https://www.marcellaroyalhotel.com/?utm_source=Tripadvisor&utm_medium=Homepage&utm_campaign=Trip23',
@@ -506,6 +521,8 @@ export function getHotels() {
       },
       price: '1241$',
       phone: '00 1 844-631-0595',
+      rank: '#9 of 181 hotels in Rome',
+
       website:
         'https://www.marriott.com/en-us/hotels/romxr-the-st-regis-rome/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0',
       rating: 4.5,
@@ -534,6 +551,8 @@ export function getHotels() {
         'https://www.albergodelsenato.it/?utm_source=Tripadvisor&utm_medium=Home&utm_campaign=Trip23',
       rating: 4.5,
       reviews: 4536,
+      rank: '#3 of 181 hotels in Rome',
+
       country_id: 22,
       id: 20,
     },
@@ -555,6 +574,8 @@ export function getHotels() {
       },
       price: '190$',
       phone: '00 961 1 858 000',
+      rank: '#7 of 181 hotels in Rome',
+
       website:
         'https://www.kempinski.com/en/kempinski-summerland-hotel-resort/overview?utm_source=google&utm_medium=cpc&source=S46992213&gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFNtxCrzhzetPATwbiNdoh8WjqLDq2wM9Yoz3TJxqd4x3xULbsLEaiBoC8fYQAvD_BwE&gclsrc=aw.ds#Offers&utm_campaign=KIBEY2%20-%20Beirut_719077_Brand_Search_EN_ROW&utm_content=kempinski+summerland+hotel+%26+resort+beirut',
       rating: 3.5,
@@ -579,6 +600,8 @@ export function getHotels() {
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13249.161608280363!2d35.517263!3d33.882174!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17060925fc67%3A0x20c56cd455ce9973!2sThe%20Smallville%20Hotel!5e0!3m2!1sen!2sus!4v1698495872868!5m2!1sen!2sus',
       },
       price: '150$',
+      rank: '#22 of 181 hotels in Rome',
+
       phone: '00 961 1 619 999',
       website:
         'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=the-smallville-SvziLE_Of7dX75erNuMfjwS392665785286%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-338256189805%3Alp9073644%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFEXP_zzbNHR2YW6eGr2MNyzM7_8Z2y1zwmbhumlAGrLsK6Y_RaJiTxoCVT8QAvD_BwE&highlighted_hotels=576544&redirected=1&city=-801546&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
@@ -2366,7 +2389,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 100% of Travellers',
       cancellation: 'Free Cancellation',
       id: 101,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: 'Siwa Oasis all inclusive 3 days Tour from Cairo or Giza  ',
@@ -2387,7 +2410,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 99% of Travellers',
       cancellation: 'Free Cancellation',
       id: 102,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: 'Luxury Felucca on the Nile with Lunch',
@@ -2407,7 +2430,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 99% of Travellers',
       cancellation: 'Free Cancellation',
       id: 103,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: '2 Days Tour from Cairo to The White Desert from Cairo',
@@ -2449,7 +2472,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 100% of Travellers',
       cancellation: 'Free Cancellation',
       id: 105,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: '3 Nights 4 Days Sailing Adventure with 5 Star Nile Cruises ',
@@ -2469,7 +2492,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 100% of Travellers',
       cancellation: 'Free Cancellation',
       id: 106,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: '4x4 Desert Safari, Sandsurf, and Camel Ride in Cairo ',
@@ -2489,7 +2512,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 98% of Travellers',
       cancellation: 'Free Cancellation',
       id: 107,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: 'Guided Tour To Alexandria From Cairo      ',
@@ -2509,7 +2532,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 100% of Travellers',
       cancellation: 'Free Cancellation',
       id: 108,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: 'Package Hot Air Balloon and 5 More Attractions ( Luxor Full Day Tour )From Luxor   ',
@@ -2529,7 +2552,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 97% of Travellers',
       cancellation: 'Free Cancellation',
       id: 109,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: 'Cairo City Tour Visiting Egyptian Museum Citadel and Old market of Khan Kkalili',
@@ -2549,7 +2572,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 98% of Travellers',
       cancellation: 'Free Cancellation',
       id: 110,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: 'Colosseum',
@@ -2570,7 +2593,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 90% of Travellers',
       cancellation: 'Free Cancellation',
       id: 111,
-      country_id:22,
+      country_id: 22,
     },
     {
       name: 'Rome in Limo - Tours & Excursions',
@@ -2591,7 +2614,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 94% of Travellers',
       cancellation: 'Free Cancellation',
       id: 112,
-      country_id:22,
+      country_id: 22,
     },
     {
       name: 'Parco Archeologico di Ostia Antica',
@@ -2612,7 +2635,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 88% of Travellers',
       cancellation: 'Free Cancellation',
       id: 113,
-      country_id:22,
+      country_id: 22,
     },
     {
       name: 'Parco Archeologico di Ostia Antica',
@@ -2633,7 +2656,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 85% of Travellers',
       cancellation: 'Free Cancellation',
       id: 114,
-      country_id:22,
+      country_id: 22,
     },
     {
       name: 'Pantheon',
@@ -2654,7 +2677,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 95% of Travellers',
       cancellation: 'Free Cancellation',
       id: 115,
-      country_id:22,
+      country_id: 22,
     },
     {
       name: "Rome's Ultimate Free Walking Tours",
@@ -2969,7 +2992,7 @@ export function getThingsToDo() {
       reccommendation: 'Recommended by 91% of travelers',
       cancellation: 'Free Cancellation',
       id: 131,
-      country_id:44,
+      country_id: 44,
     },
     {
       name: 'The Dubai Fountain',
