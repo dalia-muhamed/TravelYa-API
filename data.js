@@ -215,7 +215,7 @@ export function getHotels() {
         'An oasis of greenery in the heart of New Cairo, Dusit Thani Lake View Cairo brings a taste of gracious Thai hospitality to the center of Egypt. Conveniently situated near Cairo International airport, the hotel enjoys pride of place in New Cairo’s Fifth Settlement in close proximity to the main roads that lead to major attractions, including the Pyramids, Sphinx, Citadel and Egyptian Museum. Guests are welcomed with elegant rooms and suites, three outdoor swimming pools, a fitness center, world-class spa and an array of fine dining options spanning a world of tastes and flavours.',
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/59/c4/07/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/c7/b5/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/66/c2/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/90/f2/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/84/51/ef/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
       ],
