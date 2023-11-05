@@ -240,14 +240,10 @@ export function getHotels() {
       description:
         'On the southern tip of Gezirah Island, the hotel is a corner of paradise in central Cairo, minutes from Cairo’s business districts. Discover a haven of peace during a vacation in Egypt, and a comfortable base to rest after a successful day of business. Relax by the pool, pamper yourself in Sofitel SPA, wine and dine in our international restaurants and bars. Surrender to luxury and come for a day, a weekend, a week…or more. A stroll along the hotel’s lush riverside promenade takes you to a host of acclaimed restaurants and bars. You can take your time, enjoying the cool shade of exotic palms and breathing in the scent of hibiscus. You’ll hear the gentle sound of water lapping as you rest on a Nile-side terrace with a cool drink, and dine on international cuisine. It’s especially beautiful at dusk, when the sun sets over Cairo’s skyline and vibrant nightlife. Escape the city for a day at our secluded Cairo hotel, which feels like an exclusive Egyptian resort set in lush gardens. Take advantage of Sofitel SPA and Sofitel FIT, float in an infinity pool overlooking the Nile, unwind in a bubbling whirlpool bath… whatever you desire. Day membership includes discounts to the restaurants and bars which line the Nile-side promenade, promising refreshment and fun for families, couples and friends.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/09/30/9f/sofitel-cairo-nile-el.jpg?w=1200&h=-1&s=1 ',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/ce/de/40/kebabgy-upper-terrace.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/f2/4c/7f/la-palmeraie-restaurant.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/6b/53/33/sofitel-cairo-el-gezirah.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/09/30/9f/sofitel-cairo-nile-el.jpg?w=1200&h=-1&s=1 ',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/80/6e/4d/pool.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/80/6e/71/restaurant.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/80/6e/60/restaurant.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8d/85/6b/restaurant.jpg?w=1100&h=-1&s=1',
       ],
       location: {
         locationName: '3 El Thawra Council St Zamalek, Cairo Egypt',
