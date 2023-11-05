@@ -216,8 +216,6 @@ export function getHotels() {
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/c7/b5/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/8f/8f/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/59/c1/34/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/66/c2/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/90/f2/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/59/c4/07/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/84/51/ef/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
