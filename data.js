@@ -42,6 +42,7 @@ export function getHotels() {
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7446559541786!2d31.341519675321475!3d30.07285291722463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583e0e114f78e1%3A0x9c8117239bf55428!2sStaybridge%20Suites%20Cairo%20-%20Citystars%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698460221559!5m2!1sen!2seg',
       },
       price: '150$',
+      rank: '#30 of 273 hotels in Cairo',
       phone: '00 248 1 799 999',
       rank: '#1 of 181 hotels in Cairo',
 
@@ -65,7 +66,7 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/d4/dd/97/marriott-mena-house-swimming.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/b0/c1/fb/enjoy-sunny-days-at-one.jpg?w=900&h=-1&s=1',
       ],
-
+      rank: '#8 of 181 hotels in Giza',
       location: {
         locationName: '6 Pyramids Road, Giza 12556 Egypt',
         locationAddress:
@@ -168,6 +169,7 @@ export function getHotels() {
     },
     {
       name: 'Fairmont Nile city Cairo',
+      rank: '#11 of 181 hotels in Cairo',
       description:
         'A melting pot of history and diversity, the city of Cairo is ideal for both business and leisure. Like the city itself, Fairmont Nile City offers a delightful series of contrasts, combining advanced technology and modern design with local flavors and flair. With sweeping panoramas of the river Nile and the Pyramids in the distance, Cairo’s beauty and history are always in sight from your luxury accommodation. During your stay, embark on culinary adventures at the city’s finest restaurants, enjoy the fresh air at our rooftop poolside restaurant and pamper yourself at Willow Stream Spa. Part of the prestigious Nile City complex, this luxury hotel is the perfect location for business events. The space consists of 845 square meters (9,100 square feet) plus 450 square meters (4,800 square feet) of outdoor space dedicated to meetings and conventions, comprising of 10 meeting rooms including a ballroom. The space also offers spectacular river Nile views.',
       images: [
@@ -221,6 +223,7 @@ export function getHotels() {
         'https://www.fourseasons.com/cairofr/?ppc=true&utm_source=google&utm_medium=paidsearch&utm_campaign=acronym-caf-hre-low-allglobalbrand-na&utm_content=na-71700000100975741-58700008076301406-0&utm_term=na&gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFN6GYyUgm7r-mcGSVhfkXoyADmXFV__BnjnSJ_6emmH041wxvkMN7BoCNmIQAvD_BwE&gclsrc=aw.ds',
       rating: 4.5,
       reviews: 4900,
+      rank: '#21 of 181 hotels in Cairo',
       country_id: 11,
       id: 7,
     },
@@ -250,6 +253,7 @@ export function getHotels() {
         'https://www.guestreservations.com/hotel-dusit-thani-lakeview-cairo/booking?gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFJRb5LB-XIsmZsjxvpD10lumPmI8MSpmIWHy_HUxMtwAEpWV5ri0fBoCDmsQAvD_BwE',
       rating: 4.5,
       reviews: 1905,
+      rank: '#16 of 181 hotels in Cairo',
       country_id: 11,
       id: 8,
     },
@@ -278,6 +282,7 @@ export function getHotels() {
         'https://all.accor.com/ssr/app/sofitel/hotels/cairo-cairo-governorate-egypt/sof/index.en.shtml?compositions=1&stayplus=false&order_hotels_by=RECOMMENDATION&snu=false&hideWDR=false&accessibleRooms=false&hideHotelDetails=false&utm_term=mar&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOjxf7OXUGUUTUuqiW_74Ekxd0n55eyI1T9i41Sv_nJE-J8SnstU1hoCmAYQAvD_BwE&utm_campaign=ppc-sof-mar-goo-me-en-dom_top-mix-se&utm_medium=cpc&utm_source=google&utm_content=me-en-EG-V4724',
       rating: 4.5,
       reviews: 1060,
+      rank: '#30 of 181 hotels in Cairo',
       country_id: 11,
       id: 9,
     },
@@ -299,6 +304,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.6466297715324!2d31.070284575552805!3d30.018301474936795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840c6229bc341%3A0xe845cc30383a2652!2sHyatt%20Regency%20Cairo%20West!5e0!3m2!1sen!2seg!4v1698459395336!5m2!1sen!2seg',
       },
+      rank: '#36 of 181 hotels in Cairo',
       price: '167$',
       phone: '00 248 4 721 900',
       rank: '#8 of 181 hotels in cairo',
@@ -355,6 +361,8 @@ export function getHotels() {
         'https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=ROMHI&arrivalDate=2023-10-28&departureDate=2023-10-29&room1NumAdults=2&ta_refid=c14e5840-0418-425f-9276-820ffbaea434&mc_id=zINDA0EMEA1WA2OLX3TA4INTTABA5WB6ROMHIWA7_110561617_8141862&utm_source=tripadvisor&utm_medium=intlmeta&utm_campaign=business_listings&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_rNBs6016hElWhOI-qaIcMzGYug-AtXg0eFhChZaS_9_D_BwE',
       rating: 5,
       reviews: 7426,
+      rank: '#9 of 181 hotels in Rome',
+
       country_id: 22,
       id: 12,
     },
@@ -373,6 +381,7 @@ export function getHotels() {
       },
       price: '339$',
       phone: '00 1 877-859-5095',
+      rank: '#23 of 181 hotels in Rome',
       website:
         'https://www.ihg.com/hotelindigo/hotels/us/en/rome/romsg/hoteldetail?fromRedirect=true&qSrt=sAV&qIta=99618083&icdv=99618083&glat=MEDI_TABA-website_mdpr_TripAdvisorUS_BLwebsiteD_ROMSG_us_en_ba&qSlH=ROMSG&qRms=1&qAdlt=2&qChld=0&qCiD=28&qCiMy=092023&qCoD=29&qCoMy=092023&setPMCookies=true&qSHBrC=IN&qDest=Via%2520Giulia%252062%252C%2520Rome%252C%2520IT&cm_mmc=TABA-website_mdpr_TripAdvisorUS_BLwebsiteD_ROMSG_us_en_ba&srb_u=1',
       rating: 4.5,
@@ -401,6 +410,7 @@ export function getHotels() {
         'https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=ROMAP&arrivalDate=2023-10-28&departureDate=2023-10-29&room1NumAdults=2&ta_refid=12126655-e09e-48dc-829d-aea8bf999387&mc_id=zINDA0EMEA1HI2OLX3TA4INTTABA5WB6ROMAPTW7_110561617_8141862&utm_source=tripadvisor&utm_medium=intlmeta&utm_campaign=business_listings&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_rgROIlpn1PHTN7n0oIuRGqgTDNxHu6xJA7UatueOnRvD_BwE',
       rating: 3.5,
       reviews: 6268,
+      rank: '#5 of 181 hotels in Rome',
       country_id: 22,
       id: 14,
     },
@@ -421,6 +431,7 @@ export function getHotels() {
       },
       price: '148$',
       phone: '00 1 877-859-5095',
+      rank: '#23 of 181 hotels in Rome',
       website:
         'https://www.ihg.com/crowneplaza/hotels/gb/en/rome/romsp/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-IT-_-ROMSP',
       rating: 4,
@@ -495,7 +506,6 @@ export function getHotels() {
       },
       price: '184$',
       rank: '#1 of 181 hotels in Rome',
-
       phone: '00 39 06 4201 4591',
       website:
         'https://www.marcellaroyalhotel.com/?utm_source=Tripadvisor&utm_medium=Homepage&utm_campaign=Trip23',
@@ -626,6 +636,7 @@ export function getHotels() {
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.5695413095796!2d35.49240507492145!3d33.9007384257163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f16dc7dbed627%3A0x4c436908c262b02!2sInterContinental%20Phoenicia%20Beirut%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698496229173!5m2!1sen!2sus',
       },
       price: '250$',
+      rank: '#9 of 181 hotels in Lebanon',
       phone: '00 1 877-859-5095',
       website:
         'https://www.intercontinental.com/hotels/gb/en/beirut/beyha/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=BEYHA&setPMCookies=true&qSHBrC=IC&qDest=Po%20Box%2011%2C%20Beirut%2C%20LB&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFFUElkh881TSscx06hyTCPdQABV_XLhyFiWdMql01Su0hPIVC2kFyhoC3lIQAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-LBN_IC_BRI_EXM_HOTEL-BEYHA&srb_u=1',
@@ -650,6 +661,7 @@ export function getHotels() {
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4683.303700953596!2d35.49348492408628!3d33.9000622027084!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f16dbc7258a29%3A0x3a0a0a6969dccdfc!2sRadisson%20Blu%20Martinez%20Hotel%2C%20Beirut!5e0!3m2!1sen!2sus!4v1698496394086!5m2!1sen!2sus',
       },
       price: '180$',
+      rank: '#21 of 181 hotels in Lebanon',
       phone: '00 961 1 619 999',
       website: 'www.radissonhotels.com',
       rating: 5,
@@ -675,6 +687,7 @@ export function getHotels() {
       },
       price: '195$',
       phone: '00 1 877-859-5095',
+      rank: '#11 of 181 hotels in Lebanon',
       website:
         'https://www.ihg.com/crowneplaza/hotels/us/en/beirut/beyle/hoteldetail',
       rating: 4.5,
@@ -700,6 +713,7 @@ export function getHotels() {
       },
       price: '170$',
       phone: '00 961 1 424 247',
+      rank: '#15 of 181 hotels in Lebanon',
       website:
         'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=the-key-jtf7M2GPBmsVPtvyq6sM3QS266380202590%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-1110454565267%3Akwd-165290160326%3Alp1005386%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YXwxhKG0pUU-mcMVT-JwQpc&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFNob9aAR4jLW3aP2Rch4VcDDqestuoaUlrE6BJTVUQiUqZXyL4WO2xoCLnUQAvD_BwE&highlighted_hotels=1837906&redirected=1&city=-801546&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
       rating: 5,
@@ -725,6 +739,7 @@ export function getHotels() {
       },
       price: '160$',
       phone: '00 961 1 858 000',
+      rank: '#3 of 181 hotels in Lebanon',
       website: 'https://hollywoodinnhotel.com/',
       rating: 4.5,
       reviews: 3500,
@@ -747,6 +762,8 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.302534179846!2d35.586791974921844!3d33.907612425354685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f3e73137d2ffd%3A0x2d1d430ca567b5d!2sSuite%20Hotel%20Chrome!5e0!3m2!1sen!2sus!4v1698497921718!5m2!1sen!2sus',
       },
+      rank: '#55 of 181 hotels in Lebanon',
+
       price: '150$',
       phone: '00 961 1 619 999',
       website:
@@ -778,6 +795,8 @@ export function getHotels() {
       rating: 5,
       reviews: 5000,
       country_id: 55,
+      rank: '#12 of 181 hotels in Lebanon',
+
       id: 29,
     },
     {
@@ -801,6 +820,7 @@ export function getHotels() {
         'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=ahiram-byblos-5cjUNADxRYe86fP%2AfiH5XwS393706681085%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-18285498017%3Alp1005386%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFP1YZIwjDos-Z2uoCJd_tePqlMEWIygpclVouNkLm5zDeyVmD4f0BxoCNoUQAvD_BwE&highlighted_hotels=248303&redirected=1&city=-805162&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
       rating: 4.5,
       reviews: 3850,
+      rank: '#14 of 181 hotels in Lebanon',
       country_id: 55,
       id: 30,
     },
@@ -826,6 +846,8 @@ export function getHotels() {
       rating: 4.5,
       reviews: 6168,
       country_id: 44,
+      rank: '#1 of 181 hotels in Dubai',
+
       id: 31,
     },
     {
@@ -846,6 +868,8 @@ export function getHotels() {
       },
       price: '435$',
       phone: '00 1 844-631-0595',
+      rank: '#11 of 181 hotels in Dubai',
+
       website:
         'https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwhfipBhD3t9LclYmU3wsSJADzve54azWZsdzqTrrHYHuH0DNV9kzCbr83xejQaCcdiDGpQfD_BwE',
       rating: 5,
@@ -874,6 +898,7 @@ export function getHotels() {
       rating: 5,
       reviews: 3214,
       country_id: 44,
+      rank: '#34 of 181 hotels in Dubai',
       id: 33,
     },
     {
@@ -897,6 +922,7 @@ export function getHotels() {
       rating: 5,
       reviews: 11847,
       country_id: 44,
+      rank: '#21 of 181 hotels in Dubai',
       id: 34,
     },
     {
@@ -921,6 +947,7 @@ export function getHotels() {
       rating: 4.5,
       reviews: 8013,
       country_id: 44,
+      rank: '#36 of 181 hotels in Dubai',
       id: 35,
     },
     {
@@ -945,6 +972,8 @@ export function getHotels() {
       rating: 4.5,
       reviews: 2178,
       country_id: 44,
+      rank: '#22 of 181 hotels in Dubai',
+
       id: 36,
     },
     {
@@ -969,6 +998,8 @@ export function getHotels() {
         'https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel?utm_source=google&utm_medium=google%20places&utm_campaign=hotel',
       rating: 4.5,
       reviews: 3770,
+      rank: '#61 of 181 hotels in Dubai',
+
       country_id: 44,
       id: 37,
     },
@@ -992,6 +1023,7 @@ export function getHotels() {
       website: 'http://www.shangri-la.com/dubai',
       rating: 5,
       reviews: 3634,
+      rank: '#24 of 181 hotels in Dubai',
       country_id: 44,
       id: 38,
     },
@@ -1015,6 +1047,7 @@ export function getHotels() {
       website: 'https://www.legoland.com/dubai/',
       rating: 4.5,
       reviews: 411,
+      rank: '#30 of 181 hotels in Dubai',
       country_id: 44,
       id: 39,
     },
@@ -1041,6 +1074,7 @@ export function getHotels() {
       rating: 5,
       reviews: 6556,
       country_id: 44,
+      rank: '#08 of 181 hotels in Dubai',
       id: 40,
     },
     {
@@ -1065,6 +1099,7 @@ export function getHotels() {
       rating: 5,
       reviews: 5000,
       country_id: 33,
+      rank: '#1 of 181 hotels in Greece',
       id: 41,
     },
     {
@@ -1089,6 +1124,8 @@ export function getHotels() {
       rating: 4.5,
       reviews: 4000,
       country_id: 33,
+      rank: '#31 of 181 hotels in Greece',
+
       id: 42,
     },
     {
@@ -1108,6 +1145,8 @@ export function getHotels() {
       },
       price: '250$',
       phone: '00 30 2241 044901',
+      rank: '#14 of 181 hotels in Greece',
+
       website: 'https://www.atriumplatinum.gr/',
       rating: 4,
       reviews: 3500,
@@ -1131,6 +1170,7 @@ export function getHotels() {
       },
       price: '180$',
       phone: '00 30 261 118 0305',
+      rank: '#22 of 181 hotels in Greece',
       website:
         'https://palladium.reserve-online.net/?voucher=TripAdvisorSpecialDiscount',
       rating: 4.5,
@@ -1160,6 +1200,8 @@ export function getHotels() {
       rating: 4.55,
       reviews: 3800,
       country_id: 33,
+      rank: '#25 of 181 hotels in Greece',
+
       id: 45,
     },
     {
@@ -1181,6 +1223,8 @@ export function getHotels() {
       phone: '00 30 2286 071831',
       website: 'https://www.artmaisons.gr/',
       rating: 5,
+      rank: '#30 of 181 hotels in Greece',
+
       reviews: 4200,
       country_id: 33,
       id: 46,
@@ -1206,6 +1250,8 @@ export function getHotels() {
       rating: 4,
       reviews: 4700,
       country_id: 33,
+      rank: '#23 of 181 hotels in Greece',
+
       id: 47,
     },
     {
@@ -1230,6 +1276,8 @@ export function getHotels() {
       rating: 5,
       reviews: 2000,
       country_id: 33,
+      rank: '#15 of 181 hotels in Greece',
+
       id: 48,
     },
     {
@@ -1254,6 +1302,8 @@ export function getHotels() {
       rating: 4,
       reviews: 3000,
       country_id: 33,
+      rank: '#42 of 181 hotels in Greece',
+
       id: 49,
     },
     {
@@ -1277,6 +1327,7 @@ export function getHotels() {
       rating: 5,
       reviews: 2900,
       country_id: 33,
+      rank: '#37 of 181 hotels in Greece',
       id: 50,
     },
   ];
