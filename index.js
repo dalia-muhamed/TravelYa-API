@@ -76,8 +76,8 @@ app.get('/cities/restaurants', (req, res) => {
 });
 
 app.get('/cities/thingsToDo', (req, res) => {
-  const todoName = req.query.todoName;
   const cityName = req.query.cityName;
+  const todoName = req.query.todoName;
   const cities = getCities();
   const thingsToDo = getThingsToDo();
 

@@ -33,7 +33,7 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/37/05/19/you-don-t-just-stay-with.jpg?w=1200&h=-1&s=1',
         'https://lh3.googleusercontent.com/p/AF1QipOrWhVsEu3rDh0TW9Septfup65vUmmCcU46hbvV=w287-h192-n-k-rw-no-v1',
         'https://lh3.googleusercontent.com/p/AF1QipPc1b3n6eIuGf2exPzZiysD0Rgs0w9szXXPUuOq=w287-h192-n-k-rw-no-v1',
-        'https://lh3.googleusercontent.com/gps-proxy/AFm_dcRJ2O4GwXAcOoV-K3cdpGE-a-t_TRUXSzGPoVVgrzxoBJ5tL3dSuXaEvkoMwZ2AOJsam-s7aye3rCov1VeivDyXPzJr0nng_zaMZXc2EYkWbV1eD-m0L3DckhgQoiREcaSjsi4pYng645cW8Y-HAcpzGvnAk4zfDMgFAZxt2F-7P2V2O9k_FslE=w287-h192-n-k-rw-no-v1',
+        'https://cf.bstatic.com/xdata/images/hotel/max1024x768/324990384.jpg?k=690e513c9e4a2842d7a2546b53f56d22ee804572ce2d3bb3e908385b2458b615&o=&hp=1',
       ],
       location: {
         locationName:
@@ -2347,7 +2347,7 @@ export function getRestaurant() {
 export function getThingsToDo() {
   return [
     {
-      name: 'Private Tour To Giza Pyramids, Memphis City, Dahshur And Sakkara Pyramids      ',
+      name: 'Private Tour To Giza Pyramids, Memphis City, Dahshur And Sakkara Pyramids',
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/36/c0/83.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/11/ef/2e/cb.jpg',
@@ -2359,12 +2359,12 @@ export function getThingsToDo() {
       about:
         "This trip to the white desert it's epic, we will let you to enjoy the movement through the black and white deserts is one of those experiences one never forgets. The experience of sleeping under the stars and the delicious BBQ dinner at night in desert made so far a beautiful and unique experience. ",
       package: '$120',
-      duration: '7-8h',
-      reviews: 1049779,
+      duration: '7-8 hours',
+      reviews: 19779,
       rating: 5,
       reccommendation: 'Recommended by 100% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 101,
+      id:101,
       country_id:11,
     },
     {
@@ -2381,11 +2381,11 @@ export function getThingsToDo() {
         'The Siwa oasis is one of the Western Desert’s most magical areas, but it’s more than an 8-hour drive from Cairo. Say no to hellish bus journeys and yes to the comfort of your own private vehicle with rest stops, snack breaks, and a guide. Explore the Great Sand Sea by 4WD, with dune bashing, sandboarding, and a desert sunset; see salt lakes, ancient ruins, Fatnis Island, and more.',
       package: '$270',
       duration: '3 Days',
-      reviews: 1649779,
+      reviews: 49779,
       rating: 5,
       reccommendation: 'Recommended by 99% of Travellers',
       cancellation: 'Free Cancellation',
-      id: 102,
+      id:102,
       country_id:11,
     },
     {
