@@ -1154,8 +1154,8 @@ export function getHotels() {
       description:
         "The SENTIDO Port Royal Villas & Spa offers exceptional service, elegant restaurants with delicious dishes, atmospheric bars and an inviting spa area for pure relaxation. The hotel's rooms and suites are comfortable and stylishly decorated, and if you want an active holiday, you can work out in the fitness room or take part in one of the activities arranged by our hosts. The beachfront location and idyllic setting amidst olive trees combined with the hotel's discrete luxury and authentic quality will ensure you have a pleasant and enjoyable holiday in a relaxed atmosphere.",
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/5e/7c/sentido-port-royal-villas.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/5e/66/sentido-port-royal-villas.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/5e/7c/sentido-port-royal-villas.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/5e/59/sentido-port-royal-villas.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d7/52/07/lagoon-pool--v3332956.jpg?w=1200&h=-1&s=1',
       ],
