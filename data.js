@@ -287,30 +287,7 @@ export function getHotels() {
       country_id: 11,
       id: 10,
     },
-    {
-      name: 'Hotel Artemide',
-      description:
-        "Welcome to Hotel Artemide, your 4-star hotel in downtown Rome! Just a stone's throw away from the Trevi Fountain, the Colosseum or the Spanish Steps, Artemide is right in the heart of Via Nazionale, a lively and bright street, with plenty of shops to choose from. Within walking distance of Termini Train Station and with the metro station Repubblica at just 100 metres, the Artemide Hotel is the perfect starting point for discovering the Eternal City. Free mini-bar and wi-fi connection in every room, and a fully-equipped gym are just some of the perks we offer our guests. Also, make sure not to miss the Artemís Spa to dedicate a moment for your well-being and enjoy individual or couples massages. And to complete the experience, don't miss the Ambrosia Rooftop Restaurant & Bar, on the 7th floor of the hotel, with its magnificent view over the Rome' skyline.",
-      images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3a/entrance-hotel-artemide.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/56/spa-relax-area.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/51/ambrosia-restaurant-exterior.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3b/location.jpg?w=1200&h=-1&s=1',
-      ],
-      location: {
-        locationName: 'Via Nazionale 22, 00184 Rome Italy',
-        locationAddress:
-          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.6295896901843!2d12.49107977508567!3d41.900822563992726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61af3c2971f9%3A0x2edb75cb2a49720a!2sHotel%20Artemide!5e0!3m2!1sen!2seg!4v1698468263463!5m2!1sen!2seg',
-      },
-      price: '238$',
-      phone: '00 39 06 489911',
-      website:
-        'https://www.hotelartemide.it/en/?utm_source=TripAdvisor&utm_medium=Link&utm_campaign=TripAdvisorBusinessListing&utm_content=WebsiteLink',
-      rating: 5,
-      reviews: 8890,
-      country_id: 22,
-      id: 11,
-    },
+
     {
       name: 'Rome Cavalieri, A Waldorf Astoria Hotel',
       description:
@@ -537,7 +514,30 @@ export function getHotels() {
       country_id: 22,
       id: 20,
     },
-
+    {
+      name: 'Hotel Artemide',
+      description:
+        "Welcome to Hotel Artemide, your 4-star hotel in downtown Rome! Just a stone's throw away from the Trevi Fountain, the Colosseum or the Spanish Steps, Artemide is right in the heart of Via Nazionale, a lively and bright street, with plenty of shops to choose from. Within walking distance of Termini Train Station and with the metro station Repubblica at just 100 metres, the Artemide Hotel is the perfect starting point for discovering the Eternal City. Free mini-bar and wi-fi connection in every room, and a fully-equipped gym are just some of the perks we offer our guests. Also, make sure not to miss the Artemís Spa to dedicate a moment for your well-being and enjoy individual or couples massages. And to complete the experience, don't miss the Ambrosia Rooftop Restaurant & Bar, on the 7th floor of the hotel, with its magnificent view over the Rome' skyline.",
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3a/entrance-hotel-artemide.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/56/spa-relax-area.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/51/ambrosia-restaurant-exterior.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3b/location.jpg?w=1200&h=-1&s=1',
+      ],
+      location: {
+        locationName: 'Via Nazionale 22, 00184 Rome Italy',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.6295896901843!2d12.49107977508567!3d41.900822563992726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61af3c2971f9%3A0x2edb75cb2a49720a!2sHotel%20Artemide!5e0!3m2!1sen!2seg!4v1698468263463!5m2!1sen!2seg',
+      },
+      price: '238$',
+      phone: '00 39 06 489911',
+      website:
+        'https://www.hotelartemide.it/en/?utm_source=TripAdvisor&utm_medium=Link&utm_campaign=TripAdvisorBusinessListing&utm_content=WebsiteLink',
+      rating: 5,
+      reviews: 8890,
+      country_id: 22,
+      id: 11,
+    },
     {
       name: 'Kempinski Summerland Hotel & Resort Beirut',
       description:
@@ -555,7 +555,7 @@ export function getHotels() {
       },
       price: '190$',
       phone: '00 961 1 858 000',
-      rank: '#7 of 181 hotels in Rome',
+      rank: '#7 of 181 hotels in Lebanon',
 
       website:
         'https://www.kempinski.com/en/kempinski-summerland-hotel-resort/overview?utm_source=google&utm_medium=cpc&source=S46992213&gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFNtxCrzhzetPATwbiNdoh8WjqLDq2wM9Yoz3TJxqd4x3xULbsLEaiBoC8fYQAvD_BwE&gclsrc=aw.ds#Offers&utm_campaign=KIBEY2%20-%20Beirut_719077_Brand_Search_EN_ROW&utm_content=kempinski+summerland+hotel+%26+resort+beirut',
@@ -1027,8 +1027,8 @@ export function getHotels() {
       description:
         "A stunning landmark hotel in a distinctive pyramid shape merges Asian style with an Egyptian aesthetic. Ideally located in the city center with a shopping adventure lies around the corner as Raffles Dubai adjoins Wafi mall, one of Dubai's most exclusive shopping and leisure destinations, home to hundreds of boutiques offering an extensive selection of international haute couture, jewelries and gifts in addition to nearby authentic souks, including the impressive Khan Murjan, offering traditional crafts by artisans from the region. Featuring 252 luxurious rooms and suites, this award-winning Dubai hotel offers some of the most spacious rooms in the city, each with generously-sized private balconies. Brilliant contemporary interiors, faultless service and 7 superb restaurants and bars offering an extensive array of dining, entertainment and clubbing options, while Raffles Spa beckons with a pampering menu to emerge transformed, like a lotus that journey from bud to the radiance of full bloom.",
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4a/5e/81/exterior-view.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/45/raffles-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d5/15/70/raffles-dubai.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/02/raffles-dubai.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b9/1d/d7/exterior-view.jpg?w=1100&h=-1&s=1',
       ],
