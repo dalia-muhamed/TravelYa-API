@@ -2579,9 +2579,9 @@ export function getThingsToDo() {
       name: 'Cairo City Tour Visiting Egyptian Museum Citadel and Old market of Khan Kkalili',
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/7c/86/d2.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/c7/51/60.jpg',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/ca/4a/3b.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/db/b7/5d.jpg',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ee/a9/a4/caption.jpg?w=1100&h=-1&s=1',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/c7/51/ec.jpg',
       ],
       tours: 'Historical Tours',
       about:
