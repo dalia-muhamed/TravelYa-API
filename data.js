@@ -952,7 +952,7 @@ export function getHotels() {
       description:
         'Experience World-class Service at Jumeirah Beach Hotel This property is 2 minutes walk from the beach. This 5-star luxury Dubai hotel has a private beach and features over 10 restaurant and bars, including 5 swimming pools. Guests staying at any Jumeirah Beach Hotel room can enjoy free unlimited access to Wild Wadi Waterpark™. Jumeirah Beach Hotel’s rooms are spacious and have floor-to-ceiling windows looking out over the Arabian Gulf. Each features a Widescreen Interactive HD LCD TV, evening turndown service and free WiFi access. Jumeirah Beach offers a wide variety of international cuisine. Many restaurants have a children’s menu. Refreshments are offered at the rooftop Lounge. Guests can enjoy refreshments and happy hours at Floor 24 bar overlooking the city skyline. The hotel has recently been renovated and all the rooms, public spaces and few of the restaurants have been upgraded and refurbished. Souk Madinat Jumeirah is a 10-minute stroll from the hotel. Dubai International Airport is 12 mi away.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/68/6c/39/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2b/burj-al-arab-view.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2d/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2b/burj-al-arab-view.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/09/33/9a/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
@@ -1027,7 +1027,7 @@ export function getHotels() {
       description:
         "A stunning landmark hotel in a distinctive pyramid shape merges Asian style with an Egyptian aesthetic. Ideally located in the city center with a shopping adventure lies around the corner as Raffles Dubai adjoins Wafi mall, one of Dubai's most exclusive shopping and leisure destinations, home to hundreds of boutiques offering an extensive selection of international haute couture, jewelries and gifts in addition to nearby authentic souks, including the impressive Khan Murjan, offering traditional crafts by artisans from the region. Featuring 252 luxurious rooms and suites, this award-winning Dubai hotel offers some of the most spacious rooms in the city, each with generously-sized private balconies. Brilliant contemporary interiors, faultless service and 7 superb restaurants and bars offering an extensive array of dining, entertainment and clubbing options, while Raffles Spa beckons with a pampering menu to emerge transformed, like a lotus that journey from bud to the radiance of full bloom.",
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d5/15/70/raffles-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4a/5e/81/exterior-view.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/45/raffles-dubai.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/02/raffles-dubai.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b9/1d/d7/exterior-view.jpg?w=1100&h=-1&s=1',
