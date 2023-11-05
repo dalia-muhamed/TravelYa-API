@@ -340,7 +340,7 @@ export function getHotels() {
     {
       name: 'Hotel Indigo Rome - St. George, an IHG Hotel',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a9/9b/fd/caption.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d5/85/ef/view-from-the-roof-terrace.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ab/92/36/i-sofa-bar-restaurant.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7c/7b/bd/dinner-with-a-view-from.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7c/7b/aa/hotel-exterior-vertical.jpg?w=1200&h=-1&s=1',
