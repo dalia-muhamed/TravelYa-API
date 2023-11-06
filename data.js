@@ -2615,7 +2615,7 @@ export function getThingsToDo() {
     {
       name: 'Rome in Limo - Tours & Excursions',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/77/fe/76/rome-segway-tour-02.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/fe/91/d3/caption.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/e1/54/rome-pizza-tours.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/66/b9/ad/rome-pizza-and-food-tour.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/66/b9/99/rome-pizza-and-food-tour.jpg?w=1200&h=-1&s=1',
