@@ -2656,8 +2656,7 @@ export function getThingsToDo() {
     {
       name: 'Parco Archeologico di Ostia Antica',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/43/f8/d1/cartolina.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/96/fa/d9/caption.jpg?w=1200&h=-1&s=1',
+'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/bd/13/77.jpg',        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/96/fa/d9/caption.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/59/9f/21/caption.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/59/9f/20/caption.jpg?w=1200&h=-1&s=1',
       ],
