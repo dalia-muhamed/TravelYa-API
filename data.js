@@ -2816,7 +2816,7 @@ export function getThingsToDo() {
       name: 'Jeita Grotto - Byblos Trip',
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/32/fb/01.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/32/fb/01.jpg',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/32/fc/7b.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/32/fc/7b.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/d7/c8/45.jpg',
       ],
