@@ -2603,7 +2603,6 @@ export function getThingsToDo() {
       tours: 'Historical Tours',
       about:
         'The ancient Flavian Amphitheater was built by the Flavian emperors in 70 C.E. as a gift to the Roman people. As the largest Roman theater ever built, it was designed to house over 50,000 people, and had played host to gladiator games, plays and even public executions. Purchase skip-the-line tickets online to avoid long lines at the door, or join guided tours which allow for special access to restricted areas. While here, you might want to visit the adjacent Palatine Hill and Roman Forum as well.',
-      location: 'Piazza del Colosseo, 00184 Rome Italy',
       package: '$39',
       duration: '10h',
       reviews: 149779,
@@ -2624,7 +2623,6 @@ export function getThingsToDo() {
       tours: 'Day Trips',
       about:
         'Fun and informative Bike Tours, Food Tours, Segway Tours and Monument Tours. Suitable for all ages and fitness levels. Whether this is your first time in Rome or you feel like a local, our tours are insightful and entertaining, and our local guides are fantastic!',
-      location: 'Rome, Lazio, Italy',
       package: '$50',
       duration: '9h',
       reviews: 4779,
@@ -2645,7 +2643,6 @@ export function getThingsToDo() {
       tours: 'Ancient Ruins',
       about:
         'Present day site of sprawling ruins of a densely populated Roman city at the mouth of the river Tiber.',
-      location: 'Trevi Fountain, Piazza di Trevi, 00187 Roma RM, Italy',
       package: '$30',
       duration: '9h',
       reviews: 2279,
@@ -2666,7 +2663,6 @@ export function getThingsToDo() {
       tours: 'Fountains',
       about:
         'Certainly the most famous and photographed fountain in Rome, legend has it that whoever throws a coin into the pond will return to Rome.',
-      location: 'Viale Dei Romagnoli 717, 00119 Ostia Antica Italy',
       package: '$35',
       duration: '9h',
       reviews: 1779,
@@ -2687,7 +2683,6 @@ export function getThingsToDo() {
       tours: 'Churches & Cathedrals',
       about:
         'Dedicated to the seven planetary divinities and featuring an interior of gorgeous marble, the Pantheon is one of the most impressive monuments of Augustan Rome.',
-      location: 'Piazza della Rotonda, 00186 Rome Italy',
       package: '$17',
       duration: '10h',
       reviews: 79436,
@@ -2708,7 +2703,6 @@ export function getThingsToDo() {
       tours: 'Fun Day',
       about:
         "Welcome to Rome's Ultimate Free Walking Tour. For ten years we have been providing unforgettable experiences for you in the form of free guided walking tours through the city and an engaging nightlife. Our guides are experienced, educated, charismatic and enjoy doing one thing above all others, sharing their love for the Eternal City.",
-      location: 'Rome, Lazio, Italy',
       package: '$50',
       duration: '10h',
       reviews: 1436,
@@ -2729,7 +2723,6 @@ export function getThingsToDo() {
       tours: 'Historical Tours',
       about:
         'This section of Rome is filled with a tangle of narrow streets, which offers some of the finest examples of Roman classical and Baroque architecture and style.',
-      location: 'Rome, Lazio, Italy',
       package: '$40',
       duration: '9h',
       reviews: 2436,
@@ -2750,7 +2743,6 @@ export function getThingsToDo() {
       tours: 'Food & Drinks',
       about:
         'Taste the best of Rome with this private food tour of the Eternal City. A local guide leads the way during this culinary stroll through Rome where you enjoy up to 10 tastings including buffalo mozzarella and gelato.',
-      location: 'Rome, Lazio, Italy',
       package: '$106',
       duration: '3h',
       reviews: 436,
@@ -2771,7 +2763,6 @@ export function getThingsToDo() {
       tours: 'Food & Drinks',
       about:
         'Discover one of Rome’s most food-centric historic neighborhoods and sample a number of the city’s specialties under the guidance of a local foodie with this delicious jaunt through Trastevere. Stop to sample sweet and savory treats from traditional cookies to pasta alla carbonara, one of the city’s most iconic pasta dishes. Note eateries to visit again on your own and get insider tips on where to dine from your expert guide.',
-      location: 'Rome, Lazio, Italy',
       package: '$86',
       duration: '3h',
       reviews: 336,
@@ -2792,7 +2783,6 @@ export function getThingsToDo() {
       tours: 'Historic Walking Areas',
       about:
         'Close to many tourist attractions such as the Roman Forum and Capitol Hill, this large sunny square is the true hub of Rome, which features the impressive monument of King Vittorio Emmanuele II.',
-      location: 'Piazza Venezia, 00187 Rome Italy',
       package: '$56',
       duration: '10h',
       reviews: 1336,
@@ -2813,7 +2803,6 @@ export function getThingsToDo() {
       tours: 'Day Tours',
       about:
         'Skip the self-drive dangers and relax with a designated driver at the wheel as you check off two UNESCO World Heritage Sites and one delicious wine tasting on this action-packed tour. Immerse in the Bekaa Valley’s rich history as you explore the Roman ruins of Baalbek and the 8th-century Islamic city of Anjar with local experts. After a restaurant lunch, discover the Chateau Ksara winery and savor Lebanese wines.',
-      location: 'Baalbek, lebanon',
       package: '$75.00',
       duration: '9h',
       reviews: 539,
@@ -2834,7 +2823,6 @@ export function getThingsToDo() {
       tours: 'Historical Tours',
       about:
         'Visit three of Lebanon’s most celebrated attractions during this small-group, full-day tour from Beirut. Take a cable-car ride and boat cruise through stalactite-filled Jeita Grotto, enjoy panoramic views overlooking Jounieh Bay from the hilltop Our Lady of Lebanon statue, and walk through 8,000-year-old ruins in the archaeological site of Byblos. Hotel pickup and drop-off are included; admission tickets are purchased separately.',
-      location: 'Harissa,byblos lebanon',
       package: '$23.00',
       duration: '8h',
       reviews: 789,
@@ -2855,7 +2843,6 @@ export function getThingsToDo() {
       tours: 'Sporting Tours',
       about:
         "On This Day we'll visit three beautiful Lebanon WaterfallsAfqa Waterfall - Baatara Waterfall - Kfahelda Waterfall",
-      location: 'afqa waterfall, lebanon',
       package: '$85.00',
       duration: '8h',
       reviews: 909,
@@ -2876,7 +2863,6 @@ export function getThingsToDo() {
       tours: 'Sporting Tours',
       about:
         'Spare yourself the rigors of Lebanese driving and let a professional take the wheel on this convenient door-to-door tour of Tripoli with Batroun or Byblos. Spend the morning exploring Tripoli’s ancient souks, crusader fortress, and a pastry factory. Then return by way of either historic Byblos, with its Phoenician and Roman ruins, or Batroun, with its charming old town.',
-      location: 'Batroun, Lebanon',
       package: '$90.00',
       duration: '6–7 hours',
       reviews: 789,
@@ -2897,7 +2883,6 @@ export function getThingsToDo() {
       tours: '4WD Tours',
       about:
         'Enjoy a full-day trip from Beirut to the fascinating Lebanese cities of Tyre (a UNESCO World Heritage) and Sidon. With your local expert guide, you’ll visit three of the most beautifully preserved towns in Lebanon and discover many cultural influences. Admire wonderful buildings such as the Crusader Cathedral of Tyre, the Sidon Sea Castle and the soap museum. Immerse yourself in a world of colorful history and spirituality on this full-day trip from Beirut.',
-      location: 'Sid, Lebanon & Tyre ruins',
       package: '$155.00',
       duration: '7h',
       reviews: 1500,
@@ -2918,7 +2903,6 @@ export function getThingsToDo() {
       tours: 'Classic Car Tours',
       about:
         'Many tourists prefer to visit the touristic landscapes and sites of the country by comfortable cars and not by coaches and busses as they feel free to organize their trip itinerary and make it flexible based on their desires and wishes and to be restricted within others’tour itinerary as for time to be spent in the touristic site or as for the food dishes the are to have in certain restaurants reserved in advance . Accordingly , we highly consider the needs of our guests and tourists to make them fully satisfied',
-      location: 'Jounieh, Lebanon',
       package: '$64.11',
       duration: '9h',
       reviews: 945,
@@ -2939,7 +2923,6 @@ export function getThingsToDo() {
       tours: 'Bus Tours',
       about:
         "Escape the bustle of the capital and enjoy a fast-paced adventure along Lebanon's Assi River during this full-day, small-group rafting excursion from Beirut. Embark on a 2.5-mile (four-kilometer) ride along rapids. Indulge in a tasty all-inclusive lunch and partake in an ATV safari, ziplining, and visits to local landmarks like historic Hermel Palace and Marmaron Cave. Expert-led training is provided, making this experience suitable for all levels.",
-      location: 'Beirut, Lebanon',
       package: '$88.69',
       duration: '13h',
       reviews: 1250,
@@ -2960,7 +2943,6 @@ export function getThingsToDo() {
       tours: 'Performance Car Driving',
       about:
         "In our Drift School, we offers a variety of Drift courses & unique drift motor-sports activities, If you're planning a an adrenaline holiday, a group vacation or to fulfill your own dreams. You will start with the Drift Lessons, learn how to drift and become an expert drift driver or take the advanced drift course and drift training for experienced drivers... whatever is on your mind, within this 30 minutes, we can ensure an unforgettable, fun, extreme and Complete Drift Experience.",
-      location: 'Beirut, Lebanon',
       package: '$128.21',
       duration: '30m',
       reviews: 1204,
@@ -2981,7 +2963,6 @@ export function getThingsToDo() {
       tours: 'Adventure Tours',
       about:
         'Polaris Full Day tours gives you the opportunity to cover a full adventurous off-road experience to one of many carefully chosen countryside and off-road trails and spectacular destinations. ',
-      location: 'Polaris, Lebanon',
       package: '$300.00',
       duration: '7h',
       reviews: 854,
@@ -3002,7 +2983,6 @@ export function getThingsToDo() {
       tours: '4WD Tours',
       about:
         'Learn to ski, or take your skills to the next level, in the Middle East’s largest ski resort: Mzaar Kfardebian. Your instructor will start with theory and first principles for beginners, or assess your level on the nursery slopes before proceeding to more advanced areas. Lift passes, ski hire, and gear rental are at your expense: transfers can be arranged from Beirut, Byblos, or in between for an additional fee.',
-      location: 'Mzaar Kfardebian, Lebanon',
       package: '$153.85',
       duration: '6–8 hours',
       reviews: 1009,
@@ -3023,7 +3003,6 @@ export function getThingsToDo() {
       tours: 'Fountains tour',
       about:
         'Choreographed to music, the Dubai Fountain shoots water as high as 500 feet –that’s as high as a50-story building. Designed by creators of the Fountains of Bellagio in Vegas, Dubai Fountain Performances occur daily on the 30-acre Burj Khalifa Lake',
-      location: 'Bur Dubai',
       package: '$50',
       duration: '12h',
       reviews: 75823,
@@ -3044,7 +3023,6 @@ export function getThingsToDo() {
       tours: 'Cultural tour',
       about:
         'Standing over 2,700 feet and 163 floors high, this record-breaking skyscraper in downtown Dubai is the tallest structure in the world. Burj Khalifa has several open-air viewing decks and swanky lounges which offer splendid views of the UAE and the Persian Gulf. The highest lounge is located at level 154, and there is even a hotel at levels 38 and 39. Designed by Skidmore, Owings & Merrill architects, this mixed-used development atop Dubai Mall is inspired by the Great Mosque of Samarra in Iraq.You might want to buy skip-the-line tickets or join a tour to avoid snaking queues at this popular attraction in Dubai. ',
-      location: 'Downtown Dubai',
       package: '$54',
       duration: '12h',
       reviews: 76989,
@@ -3065,7 +3043,6 @@ export function getThingsToDo() {
       tours: 'Shopping tour',
       about:
         'This downtown mall is known for luxury stores like Cartier and Harry Winston. It also has an aquarium, ice rink, and 360-degree views of the city from the world’s tallest building, The Burj Khalifa.',
-      location: 'Downtown Dubai',
       package: '$156',
       duration: '12h',
       reviews: 31367,
@@ -3086,7 +3063,6 @@ export function getThingsToDo() {
       tours: 'Adventure tour',
       about:
         'As the world’s largest waterpark, Atlantis Aquaventure Waterpark is great for all ages. Take on the Odyssey of Terror, the world’s tallest waterslide; experience weightlessness on the Zoomerango’s vertical wall; and zoom through a tube that goes through a shark-filled underwater lagoon on Shark Attack. Bust your moves at the surf area, cliff-jump at Immortal Falls, and let the little ones loose at the Splashers Kids’ Play Area.',
-      location: 'Palm Jumeirah',
       package: '$95',
       duration: '15h',
       reviews: 20179,
@@ -3107,7 +3083,6 @@ export function getThingsToDo() {
       tours: 'Adventure tour',
       about:
         'Suspended 200 metres in the air, AURA SKYPOOL is the world’s highest 360-degree infinity pool offering incredible views of the iconic Dubai skyline, Palm Jumeirah and the glistening horizon of the Arabian Gulf. AURA is a one-of-a-kind experience triggering all the senses, and a truly unmissable spot to capture the essence Dubai at new heights.',
-      location: 'Palm Jumeirah',
       package: '$30',
       duration: '9h',
       reviews: 2933,
@@ -3128,7 +3103,6 @@ export function getThingsToDo() {
       tours: 'Cultural tour',
       about:
         'One of the tallest hotels in the world, the unique white sail shape of this luxury hotel on Jumeirah Beach is iconic to Dubai skyline.',
-      location: 'Umm Suqeim 3',
       package: '$25',
       duration: '12h',
       reviews: 12615,
@@ -3149,7 +3123,7 @@ export function getThingsToDo() {
       tours: 'Nature tour',
       about:
         'Miracle Garden is one of a kind in the region and in the world for such a unique display and extravagant outdoor recreational destination. Miracle Garden in its first phase is providing state-of-the-art services and facilities including open parking, VIP parking, sitting areas, prayer room, toilet blocks, ablution facility, security room, first aid room, carts for handicapped visitors, retails and commercial kiosk and all other related services available to facilitate visitors.',
-      location: 'Al Barsha',
+
       package: '$27',
       duration: '12h',
       reviews: 7883,
@@ -3170,7 +3144,7 @@ export function getThingsToDo() {
       tours: 'Shopping tour',
       about:
         'This massive mall has a mix of luxury labels like Christian Louboutin and midscale brands like DKNY. It’s also home to hotels, restaurants, theaters, and the indoor ski resort Ski Dubai.',
-      location: 'Al Barsha',
+
       package: '$52',
       duration: '14h',
       reviews: 5449,
@@ -3191,7 +3165,7 @@ export function getThingsToDo() {
       tours: 'Cruising tour',
       about:
         'Separating Deira and Bur Dubai, the creek is the citys historic commercial hub. Explore and cross the canal on a traditional abra boat ride.',
-      location: 'Al Fahidi',
+
       package: '$105',
       duration: '12h',
       reviews: 9870,
@@ -3212,7 +3186,6 @@ export function getThingsToDo() {
       tours: 'Cultural tour',
       about:
         'The sprawling Global Village complex is a great spot for culture, entertainment, and shopping in Dubai. Get a closer look at over 90 cultures, all in the same place. At the themed pavilions, you’ll find a variety of beautiful handicrafts and delicious food representative of each country. You will also get to watch cultural performances as well as international music acts each night. Do not miss out on all the carnival rides within the park too.Global Village is open from October through April and entry tickets are needed. The best time to visit is during early evening hours when crowds are thinner. ',
-      location: 'Theme park in Dubai',
       package: '$16',
       duration: '12h',
       reviews: 5417,
@@ -3233,7 +3206,6 @@ export function getThingsToDo() {
       tours: 'Bus Tours',
       about:
         'See more of mainland Greece and take a day trip from Athens on this full-day excursion. With a private guide, visit the Corinth Canal, the ancient archaeological sites of Epidaurus and Mycenae, and the beautiful town of Nafplio. Enjoy guided tours of each location and learn about their histories from your informative tour guide.',
-      location: ' Epidaurus, Nafplio and Mycenae',
       package: '$234.14',
       duration: '8–9 hours',
       reviews: 1500,
@@ -3254,7 +3226,6 @@ export function getThingsToDo() {
       tours: 'Bus Tours',
       about:
         'Follow in the footsteps of St. Paul the Apostle and see where he preached on this full-day tour from Athens. Alongside a private guide, visit key sites such as the Areopagus rock on the Acropolis and the ancient Agora before heading to Corinth. Here, see the Corinth Canal and visit the ancient archaeological site to see where the “Bema” of St. Paul is.',
-      location: 'from Athens to Greece',
       package: '$204.07',
       duration: '7–8 hours',
       reviews: 2000,
@@ -3275,7 +3246,6 @@ export function getThingsToDo() {
       tours: 'Historical Tours',
       about:
         'Avoid the stress of being stuck in entrance crowds by choosing a skip-the-line Acropolis walking tour. Enjoy a guarantee to skip the long lines, and get to the action quicker. The tour includes a licensed archeologist guide who provides commentary and points out the Acropolis’ most impressive monuments along the way, such as the Parthenon and the Temple of Nike.',
-      location: 'Acropolis of Athens',
       package: '$34.37',
       duration: '2h',
       reviews: 2500,
@@ -3296,7 +3266,6 @@ export function getThingsToDo() {
       tours: 'Historical Tours',
       about:
         'Discover Athens architecture though ancient Greek gods and heroes on a tour that blends real-world buildings with the stories that inspired them. Your guide handles navigation and tells you about ancient Greek society as you stroll through the Acropolis, visiting temples dedicated to Zeus and Hephaestus. It’s a great all-ages introduction to ancient Greece and includes many of Athens’ top sites.',
-      location: '',
       package: '$71.96',
       duration: '4h',
       reviews: 3300,
@@ -3317,7 +3286,6 @@ export function getThingsToDo() {
       tours: 'Historical Tours',
       about:
         'Access the World Heritage Site of Meteora without the stress of train tables or bus transfers on this day trip from Thessaloniki. Starting at your choice of central meeting points, you’ll go straight to the remote monasteries in an air-conditioned coach or minivan, enjoying views of the mountains and plains along the way. Tour two of the most impressive sites with a guide for a more in-depth experience than you might get on your own.',
-      location: 'Meteora, Thessaloniki',
       package: '$64.44',
       duration: '11h',
       reviews: 2600,
@@ -3338,7 +3306,6 @@ export function getThingsToDo() {
       tours: 'Day Trips',
       about:
         'Experience Santorini’s colorful beaches, snorkeling, and hot springs on a luxurious sunset cruise aboard a well-appointed catamaran. Your afternoon trip includes unlimited soft drinks, beer, and local wine with a fresh Greek barbecue meal. After an afternoon of sunbathing and swimming, sail to the village of Oia, where you can sip a glass of Santorini wine as the sun sets into the Aegean.',
-      location: 'Santorini, Greece',
       package: '$118.14',
       duration: '5h',
       reviews: 2400,
@@ -3359,7 +3326,6 @@ export function getThingsToDo() {
       tours: 'Food & Drinks',
       about:
         'This catamaran cruise is ideal for travelers looking for a trip of pure relaxation, delicious food, and incredible views of Santorini. Enjoy the perk of having unlimited wine, beer, and soft drinks included, as you take in views of the island’s beautiful beaches, rugged cliffs, and the world-famous sunset in Oia. A highlight of the tour is the delicious Greek barbecue feast, as well as time to relax in local hot springs.',
-      location: 'Catamaran Caldera, Greece',
       package: '$91.29',
       duration: '5h',
       reviews: 4680,
@@ -3380,7 +3346,6 @@ export function getThingsToDo() {
       tours: 'Boat Tours',
       about:
         'Cap off an afternoon exploring the island’s spectacular coast on a catamaran sailboat by watching the sun set into the Aegean Sea. This Santorini sunset cruise includes a barbecue of fresh Greek cuisine served alongside locally produced wine, and navigate past the Akrotiri Lighthouse and the caldera, with swim stops at the hot springs and white- and red-sand beaches.',
-      location: ' Santorini, Greece',
       package: '$107.40',
       duration: '5h',
       reviews: 4500,
@@ -3401,7 +3366,6 @@ export function getThingsToDo() {
       tours: 'Bus Tours',
       about:
         'Discover the best that Mykonos has to offer during this combination walking and driving tour. Along with the group, drive to several island hotspots like Kalafatis Beach and the charming village of Ano Mera. Then, take a walking tour to explore the white-washed buildings of Mykonos Town.',
-      location: 'Mykonos, Venice',
       package: '$106.33',
       duration: ' 3h 30m',
       reviews: 1200,
@@ -3422,7 +3386,6 @@ export function getThingsToDo() {
       tours: 'Multi-day Tours',
       about:
         'See the greatest hits of Greece with this 8-day/7-night trip to Athens, Mykonos and Santorini. Take a guided tour of Athens, seeing all the main sites, including the Acropolis. Then board a ferry for the ride to Mykonos, enjoying the deep blue Aegean Sea along the way. On Mykonos, tour the island, strolling down its marble streets and relaxing on the beach. After a ferry ride to beautiful Santorini, take some time to soak up the iconic views.',
-      location: 'Athens, Mykonos and Santorini',
       package: '$1,695.91',
       duration: '8 days',
       reviews: 3200,
