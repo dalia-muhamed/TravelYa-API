@@ -3358,7 +3358,7 @@ export function getThingsToDo() {
     {
       name: 'Half-Day Highlights of Mykonos Tour',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/12/b6/2f/half-day-highlights-of.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/93/20/6c/photo5jpg.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/23/80/c6/caption.jpg?w=1200&h=-1&s=1',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/c2/bb/43.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/70/23/c6.jpg',
