@@ -2676,8 +2676,8 @@ export function getThingsToDo() {
     {
       name: 'Pantheon',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/68/5f/59/panteon.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d3/d1/03/img-20200206-wa0082-largejpg.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/68/5f/59/panteon.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/64/9f/4c/photo6jpg.jpg?w=1000&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/64/9f/45/photo0jpg.jpg?w=1200&h=-1&s=1',
       ],
