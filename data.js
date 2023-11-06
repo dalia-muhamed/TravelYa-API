@@ -2595,8 +2595,8 @@ export function getThingsToDo() {
     {
       name: 'Colosseum',
       images: [
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/d6/e9/c4.jpg',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f0/6b/18/gita-fuori-porta-avevo.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/eb/91/d1/il-colosseo-di-roma-visto.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e3/16/2f/20181227-141917-largejpg.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/cd/b1/b1/caption.jpg?w=1200&h=-1&s=1',
       ],
@@ -2635,9 +2635,8 @@ export function getThingsToDo() {
     {
       name: 'Parco Archeologico di Ostia Antica',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4d/58/2e/view-from-the-top-of.jpg?w=1200&h=-1&s=1',
-        ,
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4d/58/5b/view-from-the-top-of.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4d/58/2e/view-from-the-top-of.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4d/58/0c/view-from-the-top-of.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4d/57/bd/walking-into-the-park.jpg?w=1200&h=-1&s=1',
       ],
