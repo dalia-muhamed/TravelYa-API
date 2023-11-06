@@ -2776,7 +2776,7 @@ export function getThingsToDo() {
     {
       name: 'Piazza Venezia',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/76/4a/8e/piazza-venezia.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/65/42/00/il-bianco-del-marmo-del.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/76/4a/19/piazza-venezia.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/61/e9/32/nao-visita-lo-seria-como.jpg?w=1000&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/54/03/a6/caption.jpg?w=1200&h=-1&s=1',
