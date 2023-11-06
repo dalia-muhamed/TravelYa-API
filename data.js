@@ -3015,8 +3015,8 @@ export function getThingsToDo() {
     {
       name: 'Burj Khalifa',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5a/f5/61/il-posto-piu-alto-del.jpg?w=1200&h=-1&s=1',
         'https://img.veenaworld.com/wp-content/uploads/2021/11/Burj-Khalifa.jpg',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5a/f5/61/il-posto-piu-alto-del.jpg?w=1200&h=-1&s=1',
         'https://www.visitdubai.com/-/media/gathercontent/poi/t/the-lounge-burj-khalifa/fallback-image/the-lounge-burj-khalifa-03.jpg',
         'https://cdn-imgix.headout.com/media/images/0ae909386e5b7ba7b805016cf311fd40-3022-dubai-entry-tickets-to-burj-khalifa-at-the-top--level-124---125-02.jpg?auto=format&w=814.9333333333333&h=458.4&q=90&fit=crop&ar=16%3A9',
       ],
