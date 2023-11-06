@@ -2455,8 +2455,8 @@ export function getThingsToDo() {
     {
       name: '2 Days Tour from Cairo to The White Desert from Cairo',
       images: [
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/82/b6/ba.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/08/a3/25.jpg',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/82/b6/ba.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/08/a3/82.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/08/a3/77.jpg',
       ],
