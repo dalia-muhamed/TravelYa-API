@@ -61,7 +61,7 @@ export function getHotels() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/01/29/marriott-mena-house-cairo.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1d/27/92/mena-house-hotel.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/70/18/05/moghul-room-serving-indian.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/15/d7/2d/spend-qauality-time-with.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/99/e8/c1/cairo-marriott-hotel.jpg?w=1200&h=-1&s=1',
       ],
       rank: '#8 of 181 hotels in Giza',
       location: {
@@ -112,7 +112,7 @@ export function getHotels() {
       description:
         "Holiday Inn & Suites Cairo Maadi is your perfect home away from home. The hotel conveniently located on Cairo's famous Maadi Corniche with a breathtaking view of the magical Nile River, the hotel is 31 kilometers from Cairo International Airport and 10 kilometers from downtown, the Egyptian Museum and other remarkable landmarks of Africa's largest city. Whether for business or leisure, our 63 residential apartments are perfectly crafted with state-of-the-art facilities to accommodate your short or long-term staying needs. The units enjoy majestic views of the city or Nile River and fully",
       images: [
-        'https://lh5.googleusercontent.com/p/AF1QipOMZY4KdIi8HuEBTiAGIK-fs7nM1XWxkSVyEwfE=w253-h337-k-no',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/68/c9/3d/take-a-look-at-the-cairo.jpg?w=1200&h=-1&s=1',
         'https://lh5.googleusercontent.com/p/AF1QipNtXdEUAjnwS0sN0HaSuITzUPIFwn0dFkFpP86e=w253-h168-k-no',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/66/dc/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/c5/ef/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
@@ -138,12 +138,8 @@ export function getHotels() {
         'Situated in Cairo’s affluent Garden City district, Kempinski Nile Hotel offers luxurious rooms on the shores of the Nile RiverEach room is fitted with free Wi-Fi, free Minibar, Flat Screen TVs with satellite Channels, Free Movie Library, 24/7 Butler Service, Complimentary Tea and Coffee throughout the day. Kempinski’s full-service spa and wellness center offers Free access to Jacuzzi, steam room, and sauna.. Guests can also enjoy professional massages, or cool off in the outdoor swimming pool on the hotel’s rooftop.The hotel is few minutes walk from luxurious shopping areas, Tahrir square, Egyptian Museum, Opera House.',
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/98/80/hotel-exterior-during.jpg?w=1200&h=-1&s=1',
-        'https://i.pinimg.com/564x/e4/dc/8c/e4dc8c7510ba4e1d201ad16eded671ab.jpg',
         'https://www.kayak.com/rimg/himg/48/a1/1d/ice-302919-105502000-870092.jpg?width=720&height=576&crop=true',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/b7/48/rooftop-pool-during-sunset.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/b8/bd/imperial-suite-jacuzzi.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/c7/86/the-chocolate-lounge.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/93/65/chocolate-lounge.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/45/82/65/devarana-spa.jpg?w=1200&h=-1&s=1',
       ],
 
@@ -166,10 +162,10 @@ export function getHotels() {
       description:
         'A melting pot of history and diversity, the city of Cairo is ideal for both business and leisure. Like the city itself, Fairmont Nile City offers a delightful series of contrasts, combining advanced technology and modern design with local flavors and flair. With sweeping panoramas of the river Nile and the Pyramids in the distance, Cairo’s beauty and history are always in sight from your luxury accommodation. During your stay, embark on culinary adventures at the city’s finest restaurants, enjoy the fresh air at our rooftop poolside restaurant and pamper yourself at Willow Stream Spa. Part of the prestigious Nile City complex, this luxury hotel is the perfect location for business events. The space consists of 845 square meters (9,100 square feet) plus 450 square meters (4,800 square feet) of outdoor space dedicated to meetings and conventions, comprising of 10 meeting rooms including a ballroom. The space also offers spectacular river Nile views.',
       images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/56/4d/44/pool--v5053901.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/83/4d/recreational-facility.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/82/40/exterior-view.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/82/ab/guest-room.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5e/83/4d/recreational-facility.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/56/4d/44/pool--v5053901.jpg?w=1200&h=-1&s=1',
       ],
 
       location: {
@@ -194,10 +190,7 @@ export function getHotels() {
         "Stay in the heart of Cairo, with breathtaking views to enchant you and ancient zoological and botanical gardens just outside your door. At our luxury boutique hotel, enjoy an array of authentic fine dining outlets, lavish spa and opulent meeting spaces, an adjacent designer mall and a casino. Just minutes away from the hotel enjoy the best of the city's arts, culture and shopping areas.",
       images: [
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ab/99/f7/a-hero-image.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/2e/8f/1a/view-of-the-pyramid-at.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/26/f1/e3/four-seasons-hotel-cairo.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/2e/8f/1b/spa.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/91/ae/2c/caption.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a0/17/bc/aura-restaurant-day-shot.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/68/c0/df/deluxe-twin-room.jpg?w=1100&h=-1&s=1',
       ],
@@ -221,13 +214,9 @@ export function getHotels() {
       description:
         'An oasis of greenery in the heart of New Cairo, Dusit Thani Lake View Cairo brings a taste of gracious Thai hospitality to the center of Egypt. Conveniently situated near Cairo International airport, the hotel enjoys pride of place in New Cairo’s Fifth Settlement in close proximity to the main roads that lead to major attractions, including the Pyramids, Sphinx, Citadel and Egyptian Museum. Guests are welcomed with elegant rooms and suites, three outdoor swimming pools, a fitness center, world-class spa and an array of fine dining options spanning a world of tastes and flavours.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/8f/8f/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/59/c1/34/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/c6/dc/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/66/c2/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/c7/b5/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/90/f2/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/59/c4/07/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/66/c2/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/90/f2/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/84/51/ef/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
       ],
       location: {
@@ -251,14 +240,10 @@ export function getHotels() {
       description:
         'On the southern tip of Gezirah Island, the hotel is a corner of paradise in central Cairo, minutes from Cairo’s business districts. Discover a haven of peace during a vacation in Egypt, and a comfortable base to rest after a successful day of business. Relax by the pool, pamper yourself in Sofitel SPA, wine and dine in our international restaurants and bars. Surrender to luxury and come for a day, a weekend, a week…or more. A stroll along the hotel’s lush riverside promenade takes you to a host of acclaimed restaurants and bars. You can take your time, enjoying the cool shade of exotic palms and breathing in the scent of hibiscus. You’ll hear the gentle sound of water lapping as you rest on a Nile-side terrace with a cool drink, and dine on international cuisine. It’s especially beautiful at dusk, when the sun sets over Cairo’s skyline and vibrant nightlife. Escape the city for a day at our secluded Cairo hotel, which feels like an exclusive Egyptian resort set in lush gardens. Take advantage of Sofitel SPA and Sofitel FIT, float in an infinity pool overlooking the Nile, unwind in a bubbling whirlpool bath… whatever you desire. Day membership includes discounts to the restaurants and bars which line the Nile-side promenade, promising refreshment and fun for families, couples and friends.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/09/30/9f/sofitel-cairo-nile-el.jpg?w=1200&h=-1&s=1 ',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/ce/de/40/kebabgy-upper-terrace.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/f2/4c/7f/la-palmeraie-restaurant.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/6b/53/33/sofitel-cairo-el-gezirah.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/09/30/9f/sofitel-cairo-nile-el.jpg?w=1200&h=-1&s=1 ',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/80/6e/4d/pool.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/80/6e/71/restaurant.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/80/6e/60/restaurant.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8d/85/6b/restaurant.jpg?w=1100&h=-1&s=1',
       ],
       location: {
         locationName: '3 El Thawra Council St Zamalek, Cairo Egypt',
@@ -278,13 +263,10 @@ export function getHotels() {
     {
       name: 'Hyatt Regency Cairo West',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/55/5d/c0/pool-view.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/f3/36/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/f3/1d/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
+
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/9c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/8b/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/4f/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/5e/hyatt-regency-cairo-west.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/64/98/7c/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1',
       ],
       location: {
@@ -305,30 +287,7 @@ export function getHotels() {
       country_id: 11,
       id: 10,
     },
-    {
-      name: 'Hotel Artemide',
-      description:
-        "Welcome to Hotel Artemide, your 4-star hotel in downtown Rome! Just a stone's throw away from the Trevi Fountain, the Colosseum or the Spanish Steps, Artemide is right in the heart of Via Nazionale, a lively and bright street, with plenty of shops to choose from. Within walking distance of Termini Train Station and with the metro station Repubblica at just 100 metres, the Artemide Hotel is the perfect starting point for discovering the Eternal City. Free mini-bar and wi-fi connection in every room, and a fully-equipped gym are just some of the perks we offer our guests. Also, make sure not to miss the Artemís Spa to dedicate a moment for your well-being and enjoy individual or couples massages. And to complete the experience, don't miss the Ambrosia Rooftop Restaurant & Bar, on the 7th floor of the hotel, with its magnificent view over the Rome' skyline.",
-      images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3a/entrance-hotel-artemide.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/56/spa-relax-area.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/51/ambrosia-restaurant-exterior.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3b/location.jpg?w=1200&h=-1&s=1',
-      ],
-      location: {
-        locationName: 'Via Nazionale 22, 00184 Rome Italy',
-        locationAddress:
-          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.6295896901843!2d12.49107977508567!3d41.900822563992726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61af3c2971f9%3A0x2edb75cb2a49720a!2sHotel%20Artemide!5e0!3m2!1sen!2seg!4v1698468263463!5m2!1sen!2seg',
-      },
-      price: '238$',
-      phone: '00 39 06 489911',
-      website:
-        'https://www.hotelartemide.it/en/?utm_source=TripAdvisor&utm_medium=Link&utm_campaign=TripAdvisorBusinessListing&utm_content=WebsiteLink',
-      rating: 5,
-      reviews: 8890,
-      country_id: 22,
-      id: 11,
-    },
+
     {
       name: 'Rome Cavalieri, A Waldorf Astoria Hotel',
       description:
@@ -358,7 +317,7 @@ export function getHotels() {
     {
       name: 'Hotel Indigo Rome - St. George, an IHG Hotel',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a9/9b/fd/caption.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d5/85/ef/view-from-the-roof-terrace.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ab/92/36/i-sofa-bar-restaurant.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7c/7b/bd/dinner-with-a-view-from.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7c/7b/aa/hotel-exterior-vertical.jpg?w=1200&h=-1&s=1',
@@ -555,7 +514,30 @@ export function getHotels() {
       country_id: 22,
       id: 20,
     },
-
+    {
+      name: 'Hotel Artemide',
+      description:
+        "Welcome to Hotel Artemide, your 4-star hotel in downtown Rome! Just a stone's throw away from the Trevi Fountain, the Colosseum or the Spanish Steps, Artemide is right in the heart of Via Nazionale, a lively and bright street, with plenty of shops to choose from. Within walking distance of Termini Train Station and with the metro station Repubblica at just 100 metres, the Artemide Hotel is the perfect starting point for discovering the Eternal City. Free mini-bar and wi-fi connection in every room, and a fully-equipped gym are just some of the perks we offer our guests. Also, make sure not to miss the Artemís Spa to dedicate a moment for your well-being and enjoy individual or couples massages. And to complete the experience, don't miss the Ambrosia Rooftop Restaurant & Bar, on the 7th floor of the hotel, with its magnificent view over the Rome' skyline.",
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3a/entrance-hotel-artemide.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/56/spa-relax-area.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/51/ambrosia-restaurant-exterior.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0c/e6/3b/location.jpg?w=1200&h=-1&s=1',
+      ],
+      location: {
+        locationName: 'Via Nazionale 22, 00184 Rome Italy',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.6295896901843!2d12.49107977508567!3d41.900822563992726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61af3c2971f9%3A0x2edb75cb2a49720a!2sHotel%20Artemide!5e0!3m2!1sen!2seg!4v1698468263463!5m2!1sen!2seg',
+      },
+      price: '238$',
+      phone: '00 39 06 489911',
+      website:
+        'https://www.hotelartemide.it/en/?utm_source=TripAdvisor&utm_medium=Link&utm_campaign=TripAdvisorBusinessListing&utm_content=WebsiteLink',
+      rating: 5,
+      reviews: 8890,
+      country_id: 22,
+      id: 11,
+    },
     {
       name: 'Kempinski Summerland Hotel & Resort Beirut',
       description:
@@ -573,7 +555,7 @@ export function getHotels() {
       },
       price: '190$',
       phone: '00 961 1 858 000',
-      rank: '#7 of 181 hotels in Rome',
+      rank: '#7 of 181 hotels in Lebanon',
 
       website:
         'https://www.kempinski.com/en/kempinski-summerland-hotel-resort/overview?utm_source=google&utm_medium=cpc&source=S46992213&gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFNtxCrzhzetPATwbiNdoh8WjqLDq2wM9Yoz3TJxqd4x3xULbsLEaiBoC8fYQAvD_BwE&gclsrc=aw.ds#Offers&utm_campaign=KIBEY2%20-%20Beirut_719077_Brand_Search_EN_ROW&utm_content=kempinski+summerland+hotel+%26+resort+beirut',
@@ -582,33 +564,7 @@ export function getHotels() {
       country_id: 55,
       id: 21,
     },
-    {
-      name: 'The Smallville Hotel',
-      description:
-        'The Smallville Hotel is the only urban design, business and lifestyle hotel offering short and extended stays, located in the midst of the electric residential neighborhood of Badaro. The hotel offers both short and extended stays. Comprising of 117 spacious bedrooms, 37 suites and five day-lit meeting rooms, a SPA, GYM, DESIGN SHOP. HAIRSALON, CONCIERGE SERVICE, POOL, VIP AMENITIES, ROOFTOP, 7 RESTAURANTS, The Smallville offers you all the pleasures of a five-star stay. Not only so, but with its simplicity and elegance, this hotel is your gateway to the cultural and artistic beat of the city.',
-      images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2c/71/70/the-smallville-hotel.jpg?w=1000&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/60/41/97/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/52/b3/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/54/f3/df/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
-      ],
-      location: {
-        locationName:
-          'Damascus Road, Museum District, Badaro National Museum, Beirut 116-5214 Lebanon',
-        locationAddress:
-          'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13249.161608280363!2d35.517263!3d33.882174!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17060925fc67%3A0x20c56cd455ce9973!2sThe%20Smallville%20Hotel!5e0!3m2!1sen!2sus!4v1698495872868!5m2!1sen!2sus',
-      },
-      price: '150$',
-      rank: '#22 of 181 hotels in Rome',
 
-      phone: '00 961 1 619 999',
-      website:
-        'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=the-smallville-SvziLE_Of7dX75erNuMfjwS392665785286%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-338256189805%3Alp9073644%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFEXP_zzbNHR2YW6eGr2MNyzM7_8Z2y1zwmbhumlAGrLsK6Y_RaJiTxoCVT8QAvD_BwE&highlighted_hotels=576544&redirected=1&city=-801546&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
-      rating: 4.5,
-      reviews: 3800,
-      country_id: 55,
-      id: 22,
-    },
     {
       name: 'InterContinental Phoenicia Beirut',
       description:
@@ -663,10 +619,10 @@ export function getHotels() {
       description:
         'Crowne Plaza Beirut hotel is well located in the heart of the capital of Beirut in Hamra Main Street, a prime destination for business, leisure and shopping.The property consists of 190 rooms ,some overlooking the Mediterranean Sea equipped with free high-speed internet, laptop-sized safe, a minibar and satellite LCD TV. The hotel features an indoor pool, and a full-service on-site Health Club Fitness Zone and an amusement and bowling center.',
       images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c1/f2/swimming-pool.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/cd/lobby--v7085318.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/cb/lobby--v7085483.jpg?w=1200&h=-1&s=1',
-        'https://dynamihttps://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/d0/front-desk--v7085531.jpg?w=1200&h=-1&s=1c-media-cdn.tripadvisor.com/media/photo-o/08/57/1e/97/pool--v7085482.jpg?w=1200&h=-1&s=1',
-        '',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/73/c1/e6/live-station-during-breakfast.jpg?w=1200&h=-1&s=1',
       ],
       location: {
         locationName:
@@ -740,9 +696,9 @@ export function getHotels() {
       description:
         'The Suite Hotel Chrome has 44 large suites divided into 4 categories - Family Suite, Deluxe Double Room (Annex), Executive Suite and Junior Suite. All suites have lively colours and a joyful mood, they are furnished with comfortable beds, large relaxing couches and all the necessary amenities. They are tastefully decorated in a modern and stylish design. With independent air-conditioning system, with climate control, direct dial telephone, Wi-Fi, satellite TV and 24-hour front desk service. In-room hairdryers, iron & board are available upon request. All suites have large modern bathrooms, kitchenette with work bench and refrigerator.',
       images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/0f/exterior.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/3b/27/deluxe-2-bedroom.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/6d/meeting-room.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/31/0f/exterior.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/61/16/59/suite-hotel-chrome.jpg?w=1200&h=-1&s=1',
       ],
       location: {
@@ -812,6 +768,32 @@ export function getHotels() {
       rank: '#14 of 181 hotels in Lebanon',
       country_id: 55,
       id: 30,
+    },
+    {
+      name: 'The Smallville Hotel',
+      description:
+        'The Smallville Hotel is the only urban design, business and lifestyle hotel offering short and extended stays, located in the midst of the electric residential neighborhood of Badaro. The hotel offers both short and extended stays. Comprising of 117 spacious bedrooms, 37 suites and five day-lit meeting rooms, a SPA, GYM, DESIGN SHOP. HAIRSALON, CONCIERGE SERVICE, POOL, VIP AMENITIES, ROOFTOP, 7 RESTAURANTS, The Smallville offers you all the pleasures of a five-star stay. Not only so, but with its simplicity and elegance, this hotel is your gateway to the cultural and artistic beat of the city.',
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2c/71/70/the-smallville-hotel.jpg?w=1000&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/60/41/97/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/52/b3/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/54/f3/df/the-smallville-hotel.jpg?w=1200&h=-1&s=1',
+      ],
+      location: {
+        locationName:
+          'Damascus Road, Museum District, Badaro National Museum, Beirut 116-5214 Lebanon',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13249.161608280363!2d35.517263!3d33.882174!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17060925fc67%3A0x20c56cd455ce9973!2sThe%20Smallville%20Hotel!5e0!3m2!1sen!2sus!4v1698495872868!5m2!1sen!2sus',
+      },
+      price: '150$',
+      rank: '#22 of 181 hotels in Lebanon',
+      phone: '00 961 1 619 999',
+      website:
+        'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=the-smallville-SvziLE_Of7dX75erNuMfjwS392665785286%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-338256189805%3Alp9073644%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFEXP_zzbNHR2YW6eGr2MNyzM7_8Z2y1zwmbhumlAGrLsK6Y_RaJiTxoCVT8QAvD_BwE&highlighted_hotels=576544&redirected=1&city=-801546&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
+      rating: 4.5,
+      reviews: 3800,
+      country_id: 55,
+      id: 22,
     },
     {
       name: 'Atlantis The Palm',
@@ -944,7 +926,7 @@ export function getHotels() {
       description:
         'Royal Central, located at The Palm, is a beach-side Hotel Resort with 207 rooms that combines luxury and laid-back vibes into one. Whether you’re here to relax on the beach, lounge by the pool, enjoy some mouthwatering food at an array of our outlets, or simply relax in the elegance and comforts your room with Balcony; Royal Central is your escape from the busy city life.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/af/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/08/e1/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/08/4a/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/52/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/07/fc/royal-central-hotel-the.jpg?w=1200&h=-1&s=1',
@@ -970,7 +952,7 @@ export function getHotels() {
       description:
         'Experience World-class Service at Jumeirah Beach Hotel This property is 2 minutes walk from the beach. This 5-star luxury Dubai hotel has a private beach and features over 10 restaurant and bars, including 5 swimming pools. Guests staying at any Jumeirah Beach Hotel room can enjoy free unlimited access to Wild Wadi Waterpark™. Jumeirah Beach Hotel’s rooms are spacious and have floor-to-ceiling windows looking out over the Arabian Gulf. Each features a Widescreen Interactive HD LCD TV, evening turndown service and free WiFi access. Jumeirah Beach offers a wide variety of international cuisine. Many restaurants have a children’s menu. Refreshments are offered at the rooftop Lounge. Guests can enjoy refreshments and happy hours at Floor 24 bar overlooking the city skyline. The hotel has recently been renovated and all the rooms, public spaces and few of the restaurants have been upgraded and refurbished. Souk Madinat Jumeirah is a 10-minute stroll from the hotel. Dubai International Airport is 12 mi away.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/68/6c/39/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2b/burj-al-arab-view.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2d/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/37/26/2b/burj-al-arab-view.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/09/33/9a/jumeirah-beach-hotel.jpg?w=1200&h=-1&s=1',
@@ -1045,8 +1027,8 @@ export function getHotels() {
       description:
         "A stunning landmark hotel in a distinctive pyramid shape merges Asian style with an Egyptian aesthetic. Ideally located in the city center with a shopping adventure lies around the corner as Raffles Dubai adjoins Wafi mall, one of Dubai's most exclusive shopping and leisure destinations, home to hundreds of boutiques offering an extensive selection of international haute couture, jewelries and gifts in addition to nearby authentic souks, including the impressive Khan Murjan, offering traditional crafts by artisans from the region. Featuring 252 luxurious rooms and suites, this award-winning Dubai hotel offers some of the most spacious rooms in the city, each with generously-sized private balconies. Brilliant contemporary interiors, faultless service and 7 superb restaurants and bars offering an extensive array of dining, entertainment and clubbing options, while Raffles Spa beckons with a pampering menu to emerge transformed, like a lotus that journey from bud to the radiance of full bloom.",
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d5/15/70/raffles-dubai.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/45/raffles-dubai.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d5/15/70/raffles-dubai.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f1/89/02/raffles-dubai.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b9/1d/d7/exterior-view.jpg?w=1100&h=-1&s=1',
       ],
@@ -1071,9 +1053,9 @@ export function getHotels() {
       description:
         'The quality renowned Atrium Palace Thalasso Spa Resort & Villas is the ideal destination for marvelous vacations and relaxing holidays. This architecturally innovative hotel combines luxury with its delightful blend of Greek Classical styles and ambiance meters from the crystal clear beach. The hotel is situated in the tranquil bay of Kalathos, close to the picturesque village of Lindos, on the Southeast area of Rhodes Island. Its unique beauties of nature and cultural heritage characterize it as the most intriguing region of the island.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/08/2f/2d/atrium-palace-thalasso.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/08/2f/25/atrium-palace-thalasso.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/09/c2/e4/atrium-palace-thalasso.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/81/01/b5/pool-bar.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/08/2f/25/atrium-palace-thalasso.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/08/2f/22/atrium-palace-thalasso.jpg?w=1200&h=-1&s=1',
       ],
       location: {
@@ -1172,8 +1154,8 @@ export function getHotels() {
       description:
         "The SENTIDO Port Royal Villas & Spa offers exceptional service, elegant restaurants with delicious dishes, atmospheric bars and an inviting spa area for pure relaxation. The hotel's rooms and suites are comfortable and stylishly decorated, and if you want an active holiday, you can work out in the fitness room or take part in one of the activities arranged by our hosts. The beachfront location and idyllic setting amidst olive trees combined with the hotel's discrete luxury and authentic quality will ensure you have a pleasant and enjoyable holiday in a relaxed atmosphere.",
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/5e/7c/sentido-port-royal-villas.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/5e/66/sentido-port-royal-villas.jpg?w=1100&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/5e/7c/sentido-port-royal-villas.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/5e/59/sentido-port-royal-villas.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d7/52/07/lagoon-pool--v3332956.jpg?w=1200&h=-1&s=1',
       ],
@@ -1248,8 +1230,8 @@ export function getHotels() {
       description:
         "Member of the Leading hotels of the World, preserving the Cycladic architecture, Katikies Chromata 5 star hotel both astounds and enchants visitors on so many different levels; from the hauntingly beautiful interiors within each of its 26 rooms and suites conveying the heavenly lifestyle of the island, to the uniquely captivating infinity pool from where one can literally breathe in the sheer essence of the volcano. Hidden oasis of calm on its back the Katikies Chromata's alfresco Pool Cocktail Lounge and Gourmet Resto offer three types of views: volcanoscape.",
       images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/74/1e/a2/pool-view.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/74/1e/76/katikies-chromata.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/01/c6/fe/katikies-chromata-santorini.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/01/c5/ff/katikies-chromata-santorini.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/01/c5/ee/katikies-chromata-santorini.jpg?w=1200&h=-1&s=1',
       ],
@@ -2414,7 +2396,6 @@ export function getThingsToDo() {
       name: 'Private Tour To Giza Pyramids, Memphis City, Dahshur And Sakkara Pyramids',
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/36/c0/83.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/11/ef/2e/cb.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/7c/4c/c9.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/a8/eb/7d.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/e4/85/c0.jpg',
@@ -2435,7 +2416,6 @@ export function getThingsToDo() {
       name: 'Siwa Oasis all inclusive 3 days Tour from Cairo or Giza  ',
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/f7/1f/68.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/84/e8/c7.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/77/56/1c.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/54/d9/d5.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/11/70/94/0a.jpg',
@@ -2450,13 +2430,13 @@ export function getThingsToDo() {
       recommendation: 'Recommended by 99% of Travellers',
       cancellation: 'Free Cancellation',
       id: 102,
-      country_id:11,
+      country_id: 11,
     },
     {
       name: 'Luxury Felucca on the Nile with Lunch',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b1/bd/ca/caption.jpg?w=1100&h=-1&s=1',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ad/d7.jpg',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b1/bd/ca/caption.jpg?w=1100&h=-1&s=1',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ae/70.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ae/72.jpg',
       ],
@@ -2478,7 +2458,6 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/08/a3/25.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/82/b6/ba.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/08/a3/82.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/08/a3/25.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/08/a3/77.jpg',
       ],
       tours: '4WD Tours',
@@ -2498,9 +2477,8 @@ export function getThingsToDo() {
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/72/80/1d.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/3d/ce/9c.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/3e/7e/88.jpg',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/3d/cc/26.jpg',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d3/72/16/caption.jpg?w=1100&h=-1&s=1',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/e4/85/c0.jpg',
       ],
       tours: 'Boat Tours',
       about:
@@ -2598,9 +2576,9 @@ export function getThingsToDo() {
       name: 'Cairo City Tour Visiting Egyptian Museum Citadel and Old market of Khan Kkalili',
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/7c/86/d2.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/c7/51/60.jpg',
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/db/b7/5d.jpg',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ee/a9/a4/caption.jpg?w=1100&h=-1&s=1',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/ca/4a/3b.jpg',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/db/b7/62.jpg',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/db/b7/61.jpg',
       ],
       tours: 'Historical Tours',
       about:
@@ -2617,7 +2595,7 @@ export function getThingsToDo() {
     {
       name: 'Colosseum',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f0/6b/18/gita-fuori-porta-avevo.jpg?w=1100&h=-1&s=1',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/d6/e9/c4.jpg',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/eb/91/d1/il-colosseo-di-roma-visto.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e3/16/2f/20181227-141917-largejpg.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/cd/b1/b1/caption.jpg?w=1200&h=-1&s=1',
@@ -2638,7 +2616,7 @@ export function getThingsToDo() {
     {
       name: 'Rome in Limo - Tours & Excursions',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/77/fe/76/rome-segway-tour-02.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/fe/91/d3/caption.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/e1/54/rome-pizza-tours.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/66/b9/ad/rome-pizza-and-food-tour.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/66/b9/99/rome-pizza-and-food-tour.jpg?w=1200&h=-1&s=1',
@@ -2659,9 +2637,9 @@ export function getThingsToDo() {
     {
       name: 'Parco Archeologico di Ostia Antica',
       images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/96/fa/d5/caption.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/af/13/87/caption.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4d/58/5b/view-from-the-top-of.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4d/58/2e/view-from-the-top-of.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4d/58/0c/view-from-the-top-of.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4d/57/bd/walking-into-the-park.jpg?w=1200&h=-1&s=1',
       ],
       tours: 'Ancient Ruins',
@@ -2678,12 +2656,12 @@ export function getThingsToDo() {
       country_id: 22,
     },
     {
-      name: 'Parco Archeologico di Ostia Antica',
+      name: 'Self Guided Tour Colosseum Skip the Line Ticket      ',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/97/ba/6b/exterieur.jpg?w=1200&h=-1&s=1',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/bd/13/77.jpg',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/96/fa/d9/caption.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/59/9f/21/caption.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/59/9f/20/caption.jpg?w=1200&h=-1&s=1',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/43/f8/d1/cartolina.jpg?w=1200&h=-1&s=1',
       ],
       tours: 'Fountains',
       about:
@@ -2701,7 +2679,7 @@ export function getThingsToDo() {
     {
       name: 'Pantheon',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d3/d1/03/img-20200206-wa0082-largejpg.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a0/23/ac/caption.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/68/5f/59/panteon.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/64/9f/4c/photo6jpg.jpg?w=1000&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/64/9f/45/photo0jpg.jpg?w=1200&h=-1&s=1',
@@ -2806,7 +2784,7 @@ export function getThingsToDo() {
     {
       name: 'Piazza Venezia',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/76/4a/8e/piazza-venezia.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/65/42/00/il-bianco-del-marmo-del.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/76/4a/19/piazza-venezia.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/61/e9/32/nao-visita-lo-seria-como.jpg?w=1000&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/54/03/a6/caption.jpg?w=1200&h=-1&s=1',
@@ -3058,8 +3036,8 @@ export function getThingsToDo() {
     {
       name: 'Burj Khalifa',
       images: [
-        'https://www.visitdubai.com/-/media/gathercontent/poi/b/burj-khalifa/fallback-image/poi-burj-khalifa-3-dtcm-jun-2023.jpg',
         'https://img.veenaworld.com/wp-content/uploads/2021/11/Burj-Khalifa.jpg',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5a/f5/61/il-posto-piu-alto-del.jpg?w=1200&h=-1&s=1',
         'https://www.visitdubai.com/-/media/gathercontent/poi/t/the-lounge-burj-khalifa/fallback-image/the-lounge-burj-khalifa-03.jpg',
         'https://cdn-imgix.headout.com/media/images/0ae909386e5b7ba7b805016cf311fd40-3022-dubai-entry-tickets-to-burj-khalifa-at-the-top--level-124---125-02.jpg?auto=format&w=814.9333333333333&h=458.4&q=90&fit=crop&ar=16%3A9',
       ],
@@ -3184,7 +3162,7 @@ export function getThingsToDo() {
     {
       name: 'Mall of the Emirates',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f5/9b/9c/mall-of-the-emirates.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/0f/ae/3f/photo0jpg.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/9a/4f/0e/mall-of-the-emirates.jpg?w=1200&h=-1&s=1',
         'https://www.arabianbusiness.com/cloud/2023/09/08/Mall-of-the-Emirates.jpg',
         'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mall_of_the_Emirates_%283679338750%29.jpg/800px-Mall_of_the_Emirates_%283679338750%29.jpg',
@@ -3415,7 +3393,7 @@ export function getThingsToDo() {
     {
       name: 'Half-Day Highlights of Mykonos Tour',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/12/b6/2f/half-day-highlights-of.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/93/20/6c/photo5jpg.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/23/80/c6/caption.jpg?w=1200&h=-1&s=1',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/c2/bb/43.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/70/23/c6.jpg',
@@ -3428,7 +3406,7 @@ export function getThingsToDo() {
       duration: ' 3h 30m',
       reviews: 1200,
       rating: 4.5,
-        : 'Recommended by 96% of travelers',
+        recommendation: 'Recommended by 96% of travelers',
       cancellation: 'Free Cancellation',
       id: 150,
       country_id: 33,
