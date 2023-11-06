@@ -3136,7 +3136,7 @@ export function getThingsToDo() {
     {
       name: 'Mall of the Emirates',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f5/9b/9c/mall-of-the-emirates.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/0f/ae/3f/photo0jpg.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/9a/4f/0e/mall-of-the-emirates.jpg?w=1200&h=-1&s=1',
         'https://www.arabianbusiness.com/cloud/2023/09/08/Mall-of-the-Emirates.jpg',
         'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mall_of_the_Emirates_%283679338750%29.jpg/800px-Mall_of_the_Emirates_%283679338750%29.jpg',
