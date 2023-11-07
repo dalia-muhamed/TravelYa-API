@@ -26,34 +26,6 @@ export function getCities() {
 export function getHotels() {
   return [
     {
-      name: 'Staybridge Suites Cairo - Citystars',
-      description:
-        'Offering the comfort and convenience of a home away from home, Staybridge Suites® Cairo Citystars has everything you need for independent living in the exciting commercial hub of Heliopolis. With direct access to the Stars Centre shopping mall, and just a seven-minute drive from Cairo International Airport and the Cairo International Convention and Exhibition Centre, our 140 fully furnished studios and suites place travellers where they need to be. The buzzing streets of downtown Cairo are half an hour away, with the Grand Egyptian Museum and Great Pyramids a little further. Business travellers on extended stays in Cairo can settle into a spacious studio or suite with up to three bedrooms. Full kitchens and living areas let you cook, work and entertain in style, and Wi-Fi is complimentary throughout. A free buffet breakfast sets you up for the day, and an Evening Social invites you to mingle with fellow guests over dinner three nights a week.',
-      images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/37/05/19/you-don-t-just-stay-with.jpg?w=1200&h=-1&s=1',
-        'https://lh3.googleusercontent.com/p/AF1QipOrWhVsEu3rDh0TW9Septfup65vUmmCcU46hbvV=w287-h192-n-k-rw-no-v1',
-        'https://lh3.googleusercontent.com/p/AF1QipPc1b3n6eIuGf2exPzZiysD0Rgs0w9szXXPUuOq=w287-h192-n-k-rw-no-v1',
-        'https://cf.bstatic.com/xdata/images/hotel/max1024x768/324990384.jpg?k=690e513c9e4a2842d7a2546b53f56d22ee804572ce2d3bb3e908385b2458b615&o=&hp=1',
-      ],
-      location: {
-        locationName:
-          'Emtedad Makram Obied Street Heliopolis, Cairo 11737 Egypt',
-        locationAddress:
-          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7446559541786!2d31.341519675321475!3d30.07285291722463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583e0e114f78e1%3A0x9c8117239bf55428!2sStaybridge%20Suites%20Cairo%20-%20Citystars%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698460221559!5m2!1sen!2seg',
-      },
-      price: '150$',
-      rank: '#30 of 273 hotels in Cairo',
-      phone: '00 248 1 799 999',
-      rank: '#1 of 181 hotels in Cairo',
-
-      website:
-        'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
-      rating: 5,
-      reviews: 5800,
-      country_id: 11,
-      id: 1,
-    },
-    {
       name: 'Marriott Mena House, Cairo',
       description:
         'Marriott Mena House, Cairo comprises 331 luxury rooms and suites, many boasting views of the Pyramids, the lavish gardens or the swimming pool, four restaurants and lounges, expansive indoor and outdoor meetings and banquet facilities, a heated swimming pool and a health club. Discover our unparalleled and unique hotel in Cairo, Egypt.',
@@ -234,6 +206,34 @@ export function getHotels() {
       rank: '#16 of 181 hotels in Cairo',
       country_id: 11,
       id: 8,
+    },
+    {
+      name: 'Staybridge Suites Cairo - Citystars',
+      description:
+        'Offering the comfort and convenience of a home away from home, Staybridge Suites® Cairo Citystars has everything you need for independent living in the exciting commercial hub of Heliopolis. With direct access to the Stars Centre shopping mall, and just a seven-minute drive from Cairo International Airport and the Cairo International Convention and Exhibition Centre, our 140 fully furnished studios and suites place travellers where they need to be. The buzzing streets of downtown Cairo are half an hour away, with the Grand Egyptian Museum and Great Pyramids a little further. Business travellers on extended stays in Cairo can settle into a spacious studio or suite with up to three bedrooms. Full kitchens and living areas let you cook, work and entertain in style, and Wi-Fi is complimentary throughout. A free buffet breakfast sets you up for the day, and an Evening Social invites you to mingle with fellow guests over dinner three nights a week.',
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/37/05/19/you-don-t-just-stay-with.jpg?w=1200&h=-1&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipOrWhVsEu3rDh0TW9Septfup65vUmmCcU46hbvV=w287-h192-n-k-rw-no-v1',
+        'https://lh3.googleusercontent.com/p/AF1QipPc1b3n6eIuGf2exPzZiysD0Rgs0w9szXXPUuOq=w287-h192-n-k-rw-no-v1',
+        'https://cf.bstatic.com/xdata/images/hotel/max1024x768/324990384.jpg?k=690e513c9e4a2842d7a2546b53f56d22ee804572ce2d3bb3e908385b2458b615&o=&hp=1',
+      ],
+      location: {
+        locationName:
+          'Emtedad Makram Obied Street Heliopolis, Cairo 11737 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7446559541786!2d31.341519675321475!3d30.07285291722463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583e0e114f78e1%3A0x9c8117239bf55428!2sStaybridge%20Suites%20Cairo%20-%20Citystars%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698460221559!5m2!1sen!2seg',
+      },
+      price: '150$',
+      rank: '#30 of 273 hotels in Cairo',
+      phone: '00 248 1 799 999',
+      rank: '#1 of 181 hotels in Cairo',
+
+      website:
+        'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
+      rating: 5,
+      reviews: 5800,
+      country_id: 11,
+      id: 1,
     },
     {
       name: 'Sofitel Cairo Nile El Gezirah',
