@@ -2401,6 +2401,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/e4/85/c0.jpg',
       ],
       tours: 'Full-day Tours',
+      address: 'Giza,Egypt',
       about:
         "This trip to the white desert it's epic, we will let you to enjoy the movement through the black and white deserts is one of those experiences one never forgets. The experience of sleeping under the stars and the delicious BBQ dinner at night in desert made so far a beautiful and unique experience. ",
       package: '$120',
@@ -2425,6 +2426,8 @@ export function getThingsToDo() {
         'The Siwa oasis is one of the Western Desert’s most magical areas, but it’s more than an 8-hour drive from Cairo. Say no to hellish bus journeys and yes to the comfort of your own private vehicle with rest stops, snack breaks, and a guide. Explore the Great Sand Sea by 4WD, with dune bashing, sandboarding, and a desert sunset; see salt lakes, ancient ruins, Fatnis Island, and more.',
       package: '$270',
       duration: '3 Days',
+      address: 'The Siwa Oasis is an urban oasis in Egypt.',
+
       reviews: 49779,
       rating: 5,
       reccommendation: 'Recommended by 99% of Travellers',
@@ -2441,8 +2444,10 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ae/72.jpg',
       ],
       tours: 'Night Tours',
+      address: 'Kornish El Nile Maadi,Egypt.',
+
       about:
-        'Treat yourself—or that special someone—to the magic of your own personal felucca sailboat, on a stylish craft with attentive crew, elegant furnishings, and delicious food. Your day includes private 2-way transfers from your hotel, breakfast, lunch, or dinner with dessert and soft drinks. Fine details such as balloons, flowers, candles, and celebration cakes can be arranged for an additional charge.',
+        'Treat yourself for that special someone to the magic of your own personal felucca sailboat, on a stylish craft with attentive crew, elegant furnishings, and delicious food. Your day includes private 2-way transfers from your hotel, breakfast, lunch, or dinner with dessert and soft drinks. Fine details such as balloons, flowers, candles, and celebration cakes can be arranged for an additional charge.',
       package: '$50',
       duration: '4h',
       reviews: 149779,
@@ -2464,6 +2469,7 @@ export function getThingsToDo() {
       about:
         "This trip to the white desert it's epic, we will let you to enjoy the movement through the black and white deserts is one of those experiences one never forgets. The experience of sleeping under the stars and the delicious BBQ dinner at night in desert made so far a beautiful and unique experience. ",
       package: '$120',
+      address: 'Around 450 kilometers to the South West of Cairo.',
       duration: '2 Days',
       reviews: 549779,
       rating: 5,
@@ -2481,6 +2487,7 @@ export function getThingsToDo() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d3/72/16/caption.jpg?w=1100&h=-1&s=1',
       ],
       tours: 'Boat Tours',
+      address: '128 st.Kornish El Nile,Downtown cairo.',
       about:
         'Discover the captivating Pharonic history through an exciting tour that suits your financial conditions. Visit the Great Pyramids and see how great were the ancient Egyptians to build such gigantic pyramids. Heading down to Aswan by Egypt Settingtrain to experience Nile cruise tour between Luxor and Aswan.',
       package: '$100',
@@ -2501,6 +2508,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/11/89/62/33.jpg',
       ],
       tours: 'Bus Tours',
+      address: 'Aswan, Egypt.',
       about:
         '3 Nights 4 Days Nile cruises 5 star deluxe Visit Aswan & Luxor Sightseeing start with train riding from Cairo To Luxor City & return back from Aswan to Cairo by train',
       package: '$ $644.00 ',
@@ -2521,6 +2529,7 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0e/30/be/85.jpg',
       ],
       tours: '4WD Tours',
+      address: ' Al-Fayoum Desert Road is next to Third Pyramid..',
       about:
         "Spend an exhilarating day in the desert on this small-group desert safari, which includes round-trip transportation from your hotel in Cairo or Giza. You'll get to try out all sorts of activities, including dune bashing, sandboarding, and camel riding. You'll also pay a visit to the Wadi El Rayan waterfalls and the Mudawara Mountains on your way out to the desert.",
       package: '$131',
@@ -2533,7 +2542,7 @@ export function getThingsToDo() {
       country_id: 11,
     },
     {
-      name: 'Guided Tour To Alexandria From Cairo      ',
+      name: 'Guided Tour To Alexandria From Cairo',
       images: [
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/88/fd/e4.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/d7/bc/db.jpg',
@@ -2541,6 +2550,8 @@ export function getThingsToDo() {
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/99/c6/1e.jpg',
       ],
       tours: 'Historical Tours',
+      address:
+        'Alexandria is located right next to the Capital in Egypt Cairo.',
       about:
         "Explore Alexandria in a single day with a private guide, making the most of your vacation time in Egypt. With a dedicated guide, you can travel at your own pace and focus on the sights that interest you; no waiting for other group members or wasting time on things that don't appeal to you. Stops can include Qaytbay Citadel, Pompy Pillar, the Alexandria library, the Catacomb of Kom El-Shoqafa, and the Roman Theater, among others.",
       package: '$55',
@@ -2561,6 +2572,7 @@ export function getThingsToDo() {
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/27/b5/44/caption.jpg?w=1200&h=-1&s=1',
       ],
       tours: 'Car Tours',
+      address: 'Luxor in Upper Egypt',
       about:
         'Egypt Hot Air Balloon Trip In Luxor. The Hot Air Balloon Trip is an amazing way to see the world’s largest open-air museum. Early pickup from your hotel will take you to the balloon over Luxor in the morning, a light breakfast and tea will be included. start your great day to visit the Valley Of The Kings, the magnificence of the grandeur of architecture which was used for burial, there are many kings buried in this valley. then Queen Hatshepsut temple which was built by Queen Hatshepsut, who ruled Egypt about 20 years during the 18th Dynasty, the only pharaonic woman who reigned ancient Egypt. Then continue your day Tour to The Colossi of Memnon which is remains of the mortuary temple of Amenhotep III. then go to have your lunch (optional) and after lunch tour to visit Karnak Temple, the greatest example of worship in the history, dedicated to the God Amo. Finish your day tour by visiting the Temple Of Luxor, after that will transfer you back to your hotel or Nile Cruise in Luxor.',
       package: '$200',
@@ -2584,6 +2596,7 @@ export function getThingsToDo() {
       about:
         'Experience Cairo’s highlights on a full-day sightseeing tour to the Egyptian Museum, the Citadel of Saladin, Mohamed Ali Mosque and Khan El Khalili Bazaar, and immerse yourself in the city’s rich history and vibrant culture. Discover Pharaohs’ hordes, crumbling mummies and gleaming antiquities as you visit the museum with a local guide, then take in the views from the Citadel’s medieval fortifications. Pause for lunch at a restaurant, see the soaring architecture of an iconic mosques and browse for souvenirs and spices in the colorful stalls of a bustling souk.',
       package: '$33',
+      address: 'El Moaz street Downtown, cairo.',
       duration: '8-10h',
       reviews: 949570,
       rating: 4.9,
