@@ -1356,7 +1356,6 @@ export function getRestaurant() {
         'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-6090070368-16x9',
         'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-6089741642-3x2',
         'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-5296460886-4x3',
-        'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-5304407063-3x2',
         'https://media-cdn.tripadvisor.com/media/photo-f/0e/ae/b1/9a/al-khal-egyptian-dishes.jpg',
       ],
       location: {
