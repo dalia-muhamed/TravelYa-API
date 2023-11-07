@@ -2160,7 +2160,7 @@ export function getRestaurant() {
       images: [
         "https://cache.marriott.com/content/dam/marriott-renditions/SHJFP/shjfp-yasmina-4468-hor-pano.jpg?downsize=*:666",
         "https://b.zmtcdn.com/data/pictures/8/18952708/5fd7f41cc2674c8908ebc5e48a51f125.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
-        "https://lh3.googleusercontent.com/p/AF1QipOL08zznHDqSQuN9C7w6x5Fg8GP3fvbjJPgsTOE=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipOCQEka1hL1zL_MVek1OiL-WY1vdF4Jc_Xwy5ib=s680-w680-h510",
         "https://lh3.googleusercontent.com/p/AF1QipNPHGniWUhK1W2scIPRMWE8T4LHvkUUF5lvKRxW=s680-w680-h510",
       ],
       location: {
