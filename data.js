@@ -1416,7 +1416,7 @@ export function getRestaurant() {
       phone: "+202 257 788 99",
       website:
         "https://www.ritzcarlton.com/en/hotels/cairz-the-nile-ritz-carlton-cairo/dining/",
-      rating: 4.6,
+      rating: 4.5,
       reviews: 4000,
       id: 55,
       country_id: 11,
