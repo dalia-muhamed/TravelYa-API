@@ -1426,9 +1426,9 @@ export function getRestaurant() {
       name: "8 Chinese Restaurant",
       images: [
         "https://www.fourseasons.com/alt/img-opt/~80.930.0,0000-113,0849-2085,0000-1172,8125/publish/content/dam/fourseasons/images/web/MVE/MVE_276_original.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-s/19/37/0d/3e/8-chinese-restaurant.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-f/19/37/0d/48/8-chinese-restaurant.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-f/1b/69/3b/d4/8-chinese-restaurant.jpg",
+        "https://www.fourseasons.com/alt/img-opt/~80.930.0,0000-312,5000-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/CAI/CAI_1269_original.jpg",
+        "https://www.fourseasons.com/alt/img-opt/~80.930.0,0000-110,9444-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/CAI/CAI_623_original.jpg",
+        "https://www.fourseasons.com/alt/img-opt/~80.930.0,0000-0,0000-3840,0000-2160,0000/publish/content/dam/fourseasons/images/web/CAI/CAI_443_3840x2160.jpg",
       ],
       location: {
         locationName: "1089 Corniche El Nil Garden City, Cairo 11519 Egypt",
