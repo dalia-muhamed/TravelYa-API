@@ -1437,7 +1437,7 @@ export function getRestaurant() {
       },
       phone: "+202 27 916 888",
       website: "https://www.fourseasons.com/caironp/dining/restaurants/8/",
-      rating: 4.2,
+      rating: 4.5,
       reviews: 3407,
       id: 56,
       country_id: 11,
