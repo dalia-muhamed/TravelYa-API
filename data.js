@@ -2441,8 +2441,8 @@ export function getThingsToDo() {
     {
       name: 'Luxury Felucca on the Nile with Lunch',
       images: [
-        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ad/d7.jpg',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b1/bd/ca/caption.jpg?w=1100&h=-1&s=1',
+        'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ad/d7.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ae/70.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ae/72.jpg',
       ],
