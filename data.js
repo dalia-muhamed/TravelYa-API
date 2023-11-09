@@ -1879,7 +1879,7 @@ export function getRestaurant() {
     {
       name: 'Society',
       images: [
-        'https://media-cdn.tripadvisor.com/media/photo-p/12/2a/ba/52/img-20180226-122133-814.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/0e/b0/34/ad/quinoa-salad.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-o/11/57/38/9e/society.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-o/11/57/37/e1/society.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-w/0d/a4/fe/02/the-chic-inside.jpg',
