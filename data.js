@@ -2122,6 +2122,8 @@ export function getRestaurant() {
     {
       name: 'Sette',
       images: [
+        'https://media-cdn.tripadvisor.com/media/photo-f/1b/15/24/93/sette-interior.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/1a/ac/c3/c8/getlstd-property-photo.jpg',
         'https://eatapp.co/dubai-restaurants/images/sette-ja-beach-hotel-jafza-restaurant-1.jpg?height=500&width=850',
         'https://www.timeoutdubai.com/cloud/timeoutdubai/2021/10/13/A2Cm01L2-sette-1200x900.jpg',
       ],
