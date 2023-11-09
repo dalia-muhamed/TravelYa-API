@@ -964,7 +964,7 @@ export function getHotels() {
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3611.825517977405!2d55.18870277425715!3d25.14158913395296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6a540d69b295%3A0x47f78c4e394a2976!2sJumeirah%20Beach%20Hotel!5e0!3m2!1sen!2seg!4v1698578227983!5m2!1sen!2seg',
       },
       price: '865$',
-      phone: '00 971 800 58634724',
+      phone: '00 971 800 586',
       website:
         'https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel?utm_source=google&utm_medium=google%20places&utm_campaign=hotel',
       rating: 4.5,
@@ -1356,7 +1356,6 @@ export function getRestaurant() {
         'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-6090070368-16x9',
         'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-6089741642-3x2',
         'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-5296460886-4x3',
-        'https://digital.ihg.com/is/image/ihg/intercontinental-cairo-5304407063-3x2',
         'https://media-cdn.tripadvisor.com/media/photo-f/0e/ae/b1/9a/al-khal-egyptian-dishes.jpg',
       ],
       location: {
@@ -1417,7 +1416,7 @@ export function getRestaurant() {
       phone: '+202 257 788 99',
       website:
         'https://www.ritzcarlton.com/en/hotels/cairz-the-nile-ritz-carlton-cairo/dining/',
-      rating: 4.6,
+      rating: 4.5,
       reviews: 4000,
       id: 55,
       country_id: 11,
@@ -1426,10 +1425,10 @@ export function getRestaurant() {
     {
       name: '8 Chinese Restaurant',
       images: [
-        'https://media-cdn.tripadvisor.com/media/photo-s/1b/69/3c/4c/8-chinese-restaurant.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-s/19/37/0d/3e/8-chinese-restaurant.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-f/19/37/0d/48/8-chinese-restaurant.jpg',
-        'https://media-cdn.tripadvisor.com/media/photo-f/1b/69/3b/d4/8-chinese-restaurant.jpg',
+        'https://www.fourseasons.com/alt/img-opt/~80.930.0,0000-113,0849-2085,0000-1172,8125/publish/content/dam/fourseasons/images/web/MVE/MVE_276_original.jpg',
+        'https://www.fourseasons.com/alt/img-opt/~80.930.0,0000-312,5000-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/CAI/CAI_1269_original.jpg',
+        'https://www.fourseasons.com/alt/img-opt/~80.930.0,0000-110,9444-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/CAI/CAI_623_original.jpg',
+        'https://www.fourseasons.com/alt/img-opt/~80.930.0,0000-0,0000-3840,0000-2160,0000/publish/content/dam/fourseasons/images/web/CAI/CAI_443_3840x2160.jpg',
       ],
       location: {
         locationName: '1089 Corniche El Nil Garden City, Cairo 11519 Egypt',
@@ -1438,7 +1437,7 @@ export function getRestaurant() {
       },
       phone: '+202 27 916 888',
       website: 'https://www.fourseasons.com/caironp/dining/restaurants/8/',
-      rating: 4.2,
+      rating: 4.5,
       reviews: 3407,
       id: 56,
       country_id: 11,
