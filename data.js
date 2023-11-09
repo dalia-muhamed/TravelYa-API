@@ -26,6 +26,34 @@ export function getCities() {
 export function getHotels() {
   return [
     {
+      name: 'Staybridge Suites Cairo - Citystars',
+      description:
+        'Offering the comfort and convenience of a home away from home, Staybridge Suites® Cairo Citystars has everything you need for independent living in the exciting commercial hub of Heliopolis. With direct access to the Stars Centre shopping mall, and just a seven-minute drive from Cairo International Airport and the Cairo International Convention and Exhibition Centre, our 140 fully furnished studios and suites place travellers where they need to be. The buzzing streets of downtown Cairo are half an hour away, with the Grand Egyptian Museum and Great Pyramids a little further. Business travellers on extended stays in Cairo can settle into a spacious studio or suite with up to three bedrooms. Full kitchens and living areas let you cook, work and entertain in style, and Wi-Fi is complimentary throughout. A free buffet breakfast sets you up for the day, and an Evening Social invites you to mingle with fellow guests over dinner three nights a week.',
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/37/05/19/you-don-t-just-stay-with.jpg?w=1200&h=-1&s=1',
+        'https://lh3.googleusercontent.com/p/AF1QipOrWhVsEu3rDh0TW9Septfup65vUmmCcU46hbvV=w287-h192-n-k-rw-no-v1',
+        'https://lh3.googleusercontent.com/p/AF1QipPc1b3n6eIuGf2exPzZiysD0Rgs0w9szXXPUuOq=w287-h192-n-k-rw-no-v1',
+        'https://cf.bstatic.com/xdata/images/hotel/max1024x768/324990384.jpg?k=690e513c9e4a2842d7a2546b53f56d22ee804572ce2d3bb3e908385b2458b615&o=&hp=1',
+      ],
+      location: {
+        locationName:
+          'Emtedad Makram Obied Street Heliopolis, Cairo 11737 Egypt',
+        locationAddress:
+          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7446559541786!2d31.341519675321475!3d30.07285291722463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583e0e114f78e1%3A0x9c8117239bf55428!2sStaybridge%20Suites%20Cairo%20-%20Citystars%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698460221559!5m2!1sen!2seg',
+      },
+      money: '150$',
+      rank: '#30 of 273 hotels in Cairo',
+      phone: '00 248 1 799 999',
+      rank: '#1 of 181 hotels in Cairo',
+
+      website:
+        'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
+      rating: 5,
+      reviews: 5800,
+      country_id: 11,
+      id: 1,
+    },
+    {
       name: 'Marriott Mena House, Cairo',
       description:
         'Marriott Mena House, Cairo comprises 331 luxury rooms and suites, many boasting views of the Pyramids, the lavish gardens or the swimming pool, four restaurants and lounges, expansive indoor and outdoor meetings and banquet facilities, a heated swimming pool and a health club. Discover our unparalleled and unique hotel in Cairo, Egypt.',
@@ -41,7 +69,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3455.793340670234!2d31.130497075318324!3d29.985368621367773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14584585ab0b3725%3A0x5c4989c1e098ceb2!2sMarriott%20Mena%20House%2C%20Cairo!5e0!3m2!1sen!2seg!4v1698460319432!5m2!1sen!2seg',
       },
-      price: '167$',
+      money: '167$',
       phone: '00 729 1 189 209',
       rank: '#34 of 181 hotels in Cairo',
 
@@ -68,7 +96,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.531828756496!2d31.229475475320765!3d30.05028651829444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840c381a29537%3A0xf1d5b3a64a0e4de1!2sRamses%20Hilton!5e0!3m2!1sen!2seg!4v1698461596494!5m2!1sen!2seg',
       },
-      price: '187$',
+      money: '187$',
       phone: '00 248 1 799 999',
       rank: '#7 of 181 hotels in Cairo',
 
@@ -94,7 +122,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.6504287823777!2d31.24531067531733!3d29.960732122532537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145841dfaf29305d%3A0xaa67399c83ab1e1b!2sHoliday%20Inn%20%26%20Suites%20Cairo%20Maadi%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698461809081!5m2!1sen!2seg',
       },
-      price: '170$',
+      money: '170$',
       phone: '00 248 1 799 999',
       rank: '#24 of 181 hotels in Cairo',
       website:
@@ -124,7 +152,7 @@ export function getHotels() {
       rating: 4.5,
       rank: '#9 of 181 hotels in Cairo',
 
-      price: '200$',
+      money: '200$',
       country_id: 11,
       id: 5,
     },
@@ -146,7 +174,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7793230055063!2d31.2251524753213!3d30.071859417271636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840fa057818c7%3A0x3f7e03a153cbeafc!2sFairmont%20Nile%20City%20Hotel!5e0!3m2!1sen!2seg!4v1698460009624!5m2!1sen!2seg',
       },
-      price: '300$',
+      money: '300$',
       phone: '00 134 9 139 809',
       website:
         'https://all.accor.com/ssr/app/accor/hotels/cairo-cairo-governorate-egypt/fai/index.en.shtml?compositions=1&stayplus=false&order_hotels_by=RECOMMENDATION&snu=false&hideWDR=false&accessibleRooms=false&hideHotelDetails=false&utm_term=mafm&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFIHNA69OpNTMo6oQwMO9H-oCrEAwLzrOXszpRpWie1mF86apur5mgRoCYr8QAvD_BwE&utm_campaign=ppc-ach-mafm-goo-me-en-dom_top-mix-s&utm_medium=cpc&utm_source=google&utm_content=me-en-EG-V4724',
@@ -171,7 +199,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.437900899548!2d31.214212075319708!3d30.02429251952571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145841aed9f9d687%3A0x37dd6f74867cf818!2sFour%20Seasons%20Hotel%20Cairo%20at%20The%20First%20Residence!5e0!3m2!1sen!2seg!4v1698459850712!5m2!1sen!2seg',
       },
-      price: '122$',
+      money: '122$',
       phone: '00 648 9 459 001',
       website:
         'https://www.fourseasons.com/cairofr/?ppc=true&utm_source=google&utm_medium=paidsearch&utm_campaign=acronym-caf-hre-low-allglobalbrand-na&utm_content=na-71700000100975741-58700008076301406-0&utm_term=na&gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFN6GYyUgm7r-mcGSVhfkXoyADmXFV__BnjnSJ_6emmH041wxvkMN7BoCNmIQAvD_BwE&gclsrc=aw.ds',
@@ -186,7 +214,7 @@ export function getHotels() {
       description:
         'An oasis of greenery in the heart of New Cairo, Dusit Thani Lake View Cairo brings a taste of gracious Thai hospitality to the center of Egypt. Conveniently situated near Cairo International airport, the hotel enjoys pride of place in New Cairo’s Fifth Settlement in close proximity to the main roads that lead to major attractions, including the Pyramids, Sphinx, Citadel and Egyptian Museum. Guests are welcomed with elegant rooms and suites, three outdoor swimming pools, a fitness center, world-class spa and an array of fine dining options spanning a world of tastes and flavours.',
       images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/59/c4/07/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
+        'https://cf.bstatic.com/xdata/images/hotel/max1024x768/336597051.jpg?k=15cb6c677df1ac093ca0ff0445e615affc5ab602128969dde5ac5f6b650e5efc&o=&hp=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/05/66/c2/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/80/90/f2/dusit-thani-lakeview.jpg?w=1100&h=-1&s=1',
         'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/84/51/ef/dusit-thani-lakeview.jpg?w=1200&h=-1&s=1',
@@ -197,7 +225,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.3938546468357!2d31.4527062753197!3d30.02555661946581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145817082c16d32f%3A0xdd32554012caf391!2sDusit%20Thani%20Lakeview%20Cairo!5e0!3m2!1sen!2seg!4v1698459749308!5m2!1sen!2seg',
       },
-      price: '147$',
+      money: '147$',
       phone: '00 101 6 714 270',
       website:
         'https://www.guestreservations.com/hotel-dusit-thani-lakeview-cairo/booking?gad_source=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFJRb5LB-XIsmZsjxvpD10lumPmI8MSpmIWHy_HUxMtwAEpWV5ri0fBoCDmsQAvD_BwE',
@@ -207,34 +235,7 @@ export function getHotels() {
       country_id: 11,
       id: 8,
     },
-    {
-      name: 'Staybridge Suites Cairo - Citystars',
-      description:
-        'Offering the comfort and convenience of a home away from home, Staybridge Suites® Cairo Citystars has everything you need for independent living in the exciting commercial hub of Heliopolis. With direct access to the Stars Centre shopping mall, and just a seven-minute drive from Cairo International Airport and the Cairo International Convention and Exhibition Centre, our 140 fully furnished studios and suites place travellers where they need to be. The buzzing streets of downtown Cairo are half an hour away, with the Grand Egyptian Museum and Great Pyramids a little further. Business travellers on extended stays in Cairo can settle into a spacious studio or suite with up to three bedrooms. Full kitchens and living areas let you cook, work and entertain in style, and Wi-Fi is complimentary throughout. A free buffet breakfast sets you up for the day, and an Evening Social invites you to mingle with fellow guests over dinner three nights a week.',
-      images: [
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/37/05/19/you-don-t-just-stay-with.jpg?w=1200&h=-1&s=1',
-        'https://lh3.googleusercontent.com/p/AF1QipOrWhVsEu3rDh0TW9Septfup65vUmmCcU46hbvV=w287-h192-n-k-rw-no-v1',
-        'https://lh3.googleusercontent.com/p/AF1QipPc1b3n6eIuGf2exPzZiysD0Rgs0w9szXXPUuOq=w287-h192-n-k-rw-no-v1',
-        'https://cf.bstatic.com/xdata/images/hotel/max1024x768/324990384.jpg?k=690e513c9e4a2842d7a2546b53f56d22ee804572ce2d3bb3e908385b2458b615&o=&hp=1',
-      ],
-      location: {
-        locationName:
-          'Emtedad Makram Obied Street Heliopolis, Cairo 11737 Egypt',
-        locationAddress:
-          'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.7446559541786!2d31.341519675321475!3d30.07285291722463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583e0e114f78e1%3A0x9c8117239bf55428!2sStaybridge%20Suites%20Cairo%20-%20Citystars%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698460221559!5m2!1sen!2seg',
-      },
-      price: '150$',
-      rank: '#30 of 273 hotels in Cairo',
-      phone: '00 248 1 799 999',
-      rank: '#1 of 181 hotels in Cairo',
 
-      website:
-        'https://www.staybridge.com/hotels/gb/en/cairo/croci/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99612192&icdv=99612192&qSlH=CROCI&setPMCookies=true&qSHBrC=SB&qDest=Emtedad%20Makram%20Obied%20Street%2C%20Cairo%2C%20EG&dp=true&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOULW_3LBby5DFvD00Jmg6y_joxYjEvQGEUEZlPEq40F-jJN-WpeiBoCpV8QAvD_BwE&cm_mmc=PDSEA-_-G_F-IMEA_FS-MEA_H-IMEA_HS-EGY_SB_BRI_EXM_HOTEL-CROCI&srb_u=1',
-      rating: 5,
-      reviews: 5800,
-      country_id: 11,
-      id: 1,
-    },
     {
       name: 'Sofitel Cairo Nile El Gezirah',
       description:
@@ -250,7 +251,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.935410415009!2d31.222026175320188!3d30.038710818842738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840d30a49a737%3A0xf9ff57d9857cd389!2sSofitel%20Cairo%20Nile%20El%20Gezirah!5e0!3m2!1sen!2seg!4v1698459516090!5m2!1sen!2seg',
       },
-      price: '192$',
+      money: '192$',
       phone: '00 548 2 139 409',
       website:
         'https://all.accor.com/ssr/app/sofitel/hotels/cairo-cairo-governorate-egypt/sof/index.en.shtml?compositions=1&stayplus=false&order_hotels_by=RECOMMENDATION&snu=false&hideWDR=false&accessibleRooms=false&hideHotelDetails=false&utm_term=mar&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFOjxf7OXUGUUTUuqiW_74Ekxd0n55eyI1T9i41Sv_nJE-J8SnstU1hoCmAYQAvD_BwE&utm_campaign=ppc-sof-mar-goo-me-en-dom_top-mix-se&utm_medium=cpc&utm_source=google&utm_content=me-en-EG-V4724',
@@ -276,7 +277,7 @@ export function getHotels() {
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.6466297715324!2d31.070284575552805!3d30.018301474936795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145840c6229bc341%3A0xe845cc30383a2652!2sHyatt%20Regency%20Cairo%20West!5e0!3m2!1sen!2seg!4v1698459395336!5m2!1sen!2seg',
       },
       rank: '#36 of 181 hotels in Cairo',
-      price: '167$',
+      money: '167$',
       phone: '00 248 4 721 900',
       rank: '#8 of 181 hotels in cairo',
 
@@ -303,7 +304,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.7924265919164!2d12.44404287508678!3d41.91882076286513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f608452400f1f%3A0xe4256ff233fd34e6!2sRome%20Cavalieri%2C%20A%20Waldorf%20Astoria%20Hotel!5e0!3m2!1sen!2seg!4v1698468676470!5m2!1sen!2seg',
       },
-      price: '426$',
+      money: '426$',
       phone: '00 1 888-446-6677',
       website:
         'https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=ROMHI&arrivalDate=2023-10-28&departureDate=2023-10-29&room1NumAdults=2&ta_refid=c14e5840-0418-425f-9276-820ffbaea434&mc_id=zINDA0EMEA1WA2OLX3TA4INTTABA5WB6ROMHIWA7_110561617_8141862&utm_source=tripadvisor&utm_medium=intlmeta&utm_campaign=business_listings&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_rNBs6016hElWhOI-qaIcMzGYug-AtXg0eFhChZaS_9_D_BwE',
@@ -327,7 +328,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.7516078976378!2d12.463630475085559!3d41.89819876415707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f60437b4d4847%3A0x2fbee6f09fbdd0b8!2sHotel%20Indigo%20Rome%20-%20St.%20George%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2seg!4v1698469025233!5m2!1sen!2seg',
       },
-      price: '339$',
+      money: '339$',
       phone: '00 1 877-859-5095',
       rank: '#23 of 181 hotels in Rome',
       website:
@@ -352,7 +353,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.697849570237!2d12.252955875079032!3d41.79172497081927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1325f09e26a242e7%3A0x8f107daa05815605!2sHilton%20Rome%20Airport!5e0!3m2!1sen!2seg!4v1698469250544!5m2!1sen!2seg',
       },
-      price: '339$',
+      money: '339$',
       phone: '00 1 877-859-5095',
       website:
         'https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=ROMAP&arrivalDate=2023-10-28&departureDate=2023-10-29&room1NumAdults=2&ta_refid=12126655-e09e-48dc-829d-aea8bf999387&mc_id=zINDA0EMEA1HI2OLX3TA4INTTABA5WB6ROMAPTW7_110561617_8141862&utm_source=tripadvisor&utm_medium=intlmeta&utm_campaign=business_listings&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_rgROIlpn1PHTN7n0oIuRGqgTDNxHu6xJA7UatueOnRvD_BwE',
@@ -377,7 +378,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.186768468939!2d12.42349867508495!3d41.888840264743095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f5fe8b4bf70cd%3A0x586cc964285c08da!2sCrowne%20Plaza%20Rome%20-%20St.%20Peter&#39;s%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698465249908!5m2!1sen!2sus',
       },
-      price: '148$',
+      money: '148$',
       phone: '00 1 877-859-5095',
       rank: '#23 of 181 hotels in Rome',
       website:
@@ -402,7 +403,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.244543706119!2d12.486416075086192!3d41.909101463474066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6100c4481bff%3A0xac87579417893429!2sRome%20Marriott%20Grand%20Hotel%20Flora!5e0!3m2!1sen!2sus!4v1698465651934!5m2!1sen!2sus',
       },
-      price: '439$',
+      money: '439$',
       phone: '00 1 844-631-0595',
       website:
         'https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_rgxyE2JwBwKGW__CJfIVJsjHZw3zLXI2PPWnbh3o6SfD_BwE',
@@ -427,7 +428,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.3101773862227!2d12.487500175086149!3d41.90769036356257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6107544fb047%3A0x79f6a0a46f732437!2sThe%20Westin%20Excelsior%2C%20Rome!5e0!3m2!1sen!2sus!4v1698465974499!5m2!1sen!2sus',
       },
-      price: '585$',
+      money: '585$',
       phone: '00 1 844-631-0595',
       website:
         'https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CjgKEAjwv-2pBhDD6rXZotaR33ESJADGAi_r8GDHhc29P0lw1j1_woQJ9gwwCLs2x7jN_GPiocl6aPD_BwE',
@@ -452,7 +453,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.301451759475!2d12.49554427508612!3d41.90787796355072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61084b73fee1%3A0xc48154e7b909a1f3!2sMarcella%20Royal%20Hotel!5e0!3m2!1sen!2seg!4v1698469831930!5m2!1sen!2seg',
       },
-      price: '184$',
+      money: '184$',
       rank: '#1 of 181 hotels in Rome',
       phone: '00 39 06 4201 4591',
       website:
@@ -477,7 +478,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.478297625635!2d12.492297975085915!3d41.90407566378893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13256cb7df8064c7%3A0xffc5e7bf84acf2b!2sThe%20St.%20Regis%20Rome!5e0!3m2!1sen!2seg!4v1698470466010!5m2!1sen!2seg',
       },
-      price: '1241$',
+      money: '1241$',
       phone: '00 1 844-631-0595',
       rank: '#9 of 181 hotels in Rome',
 
@@ -503,7 +504,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.8931070649214!2d12.505108775086693!3d41.91665656300087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f616d40d44e39%3A0x14c885321d2f2c3e!2sPalm%20Gallery%20Hotel!5e0!3m2!1sen!2seg!4v1698470962476!5m2!1sen!2seg',
       },
-      price: '228$',
+      money: '228$',
       phone: '00 39 06 678 4343',
       website:
         'https://www.albergodelsenato.it/?utm_source=Tripadvisor&utm_medium=Home&utm_campaign=Trip23',
@@ -529,7 +530,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.6295896901843!2d12.49107977508567!3d41.900822563992726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61af3c2971f9%3A0x2edb75cb2a49720a!2sHotel%20Artemide!5e0!3m2!1sen!2seg!4v1698468263463!5m2!1sen!2seg',
       },
-      price: '238$',
+      money: '238$',
       phone: '00 39 06 489911',
       website:
         'https://www.hotelartemide.it/en/?utm_source=TripAdvisor&utm_medium=Link&utm_campaign=TripAdvisorBusinessListing&utm_content=WebsiteLink',
@@ -553,7 +554,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26499.96786540798!2d35.48395!3d33.876878!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f1756f85ea317%3A0xe2b82e2bc240dc72!2sKempinski%20Summerland%20Hotel%20%26%20Resort!5e0!3m2!1sen!2sus!4v1698495680131!5m2!1sen!2sus',
       },
-      price: '190$',
+      money: '190$',
       phone: '00 961 1 858 000',
       rank: '#7 of 181 hotels in Lebanon',
 
@@ -580,7 +581,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.5695413095796!2d35.49240507492145!3d33.9007384257163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f16dc7dbed627%3A0x4c436908c262b02!2sInterContinental%20Phoenicia%20Beirut%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698496229173!5m2!1sen!2sus',
       },
-      price: '250$',
+      money: '250$',
       rank: '#9 of 181 hotels in Lebanon',
       phone: '00 1 877-859-5095',
       website:
@@ -605,7 +606,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4683.303700953596!2d35.49348492408628!3d33.9000622027084!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f16dbc7258a29%3A0x3a0a0a6969dccdfc!2sRadisson%20Blu%20Martinez%20Hotel%2C%20Beirut!5e0!3m2!1sen!2sus!4v1698496394086!5m2!1sen!2sus',
       },
-      price: '180$',
+      money: '180$',
       rank: '#21 of 181 hotels in Lebanon',
       phone: '00 961 1 619 999',
       website: 'www.radissonhotels.com',
@@ -630,7 +631,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.763947998064!2d35.477386755259985!3d33.895732725372916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1518b4a8dcf68a7b%3A0xfc73e79351f5227b!2sCrowne%20Plaza%20Beirut%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1698496630018!5m2!1sen!2sus',
       },
-      price: '195$',
+      money: '195$',
       phone: '00 1 877-859-5095',
       rank: '#11 of 181 hotels in Lebanon',
       website:
@@ -656,7 +657,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.4269626743403!2d35.52077097492049!3d33.87865612687765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17a9e976c0cf%3A0x41a71d10352f8b25!2sThe%20Key%20ApartHotel!5e0!3m2!1sen!2sus!4v1698496925206!5m2!1sen!2sus',
       },
-      price: '170$',
+      money: '170$',
       phone: '00 961 1 424 247',
       rank: '#15 of 181 hotels in Lebanon',
       website:
@@ -682,7 +683,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.3898813766373!2d35.64570687492638!3d34.00820192005585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f412df9051915%3A0x355c9bb41d5edf9d!2sHollywood%20Inn%20Boutique%20Hotel!5e0!3m2!1sen!2sus!4v1698497317901!5m2!1sen!2sus',
       },
-      price: '160$',
+      money: '160$',
       phone: '00 961 1 858 000',
       rank: '#3 of 181 hotels in Lebanon',
       website: 'https://hollywoodinnhotel.com/',
@@ -709,10 +710,10 @@ export function getHotels() {
       },
       rank: '#55 of 181 hotels in Lebanon',
 
-      price: '150$',
+      money: '150$',
       phone: '00 961 1 619 999',
       website:
-        'https://www.booking.com/hotel/lb/suite-beirut.en-gb.html?aid=356980&label=gog235jc-1DCAsoggFCDHN1aXRlLWJlaXJ1dEgzWANoQ4gBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gCppHxqQbAAgHSAiQ1NGRlOTg1My01OGEyLTRmMDAtODU5My0wMDBkN2NiM2EyNTXYAgTgAgE&sid=805ea0ac6d4364b24d0e8b331c33ea4b&dist=0&keep_landing=1&sb_price_type=total&type=total&',
+        'https://www.booking.com/hotel/lb/suite-beirut.en-gb.html?aid=356980&label=gog235jc-1DCAsoggFCDHN1aXRlLWJlaXJ1dEgzWANoQ4gBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gCppHxqQbAAgHSAiQ1NGRlOTg1My01OGEyLTRmMDAtODU5My0wMDBkN2NiM2EyNTXYAgTgAgE&sid=805ea0ac6d4364b24d0e8b331c33ea4b&dist=0&keep_landing=1&sb_money_type=total&type=total&',
       rating: 5,
       reviews: 4800,
       country_id: 55,
@@ -733,7 +734,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.9098047302923!2d35.639888074925864!3d33.994850420759946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f40da0baf25c5%3A0xca6b4700284c553f!2sPrincessa%20Hotel!5e0!3m2!1sen!2sus!4v1698513620111!5m2!1sen!2sus',
       },
-      price: '190$',
+      money: '190$',
       phone: '00 961 1 858 000',
       website:
         'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=princesssa-_elLh6LpBgQpqThNRZeOyAS162159747979%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-41818480683%3Alp1005386%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFONxbaJ1SA-njl86sSFkjVIJ2v22WHCIE8f0IGolLoJnL1TZimcHZhoCtE4QAvD_BwE&highlighted_hotels=243394&redirected=1&city=-805225&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
@@ -759,7 +760,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3302.856224929715!2d35.64177237493198!3d34.12443031391652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f5cafb1a38c59%3A0x35e8d568f043e07a!2sAhiram%20Hotel%20Byblos!5e0!3m2!1sen!2sus!4v1698514882576!5m2!1sen!2sus',
       },
-      price: '180$',
+      money: '180$',
       phone: '00 1 877-859-5095',
       website:
         'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=ahiram-byblos-5cjUNADxRYe86fP%2AfiH5XwS393706681085%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-18285498017%3Alp1005386%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFP1YZIwjDos-Z2uoCJd_tePqlMEWIygpclVouNkLm5zDeyVmD4f0BxoCNoUQAvD_BwE&highlighted_hotels=248303&redirected=1&city=-805162&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
@@ -785,7 +786,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13249.161608280363!2d35.517263!3d33.882174!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17060925fc67%3A0x20c56cd455ce9973!2sThe%20Smallville%20Hotel!5e0!3m2!1sen!2sus!4v1698495872868!5m2!1sen!2sus',
       },
-      price: '150$',
+      money: '150$',
       rank: '#22 of 181 hotels in Lebanon',
       phone: '00 961 1 619 999',
       website:
@@ -810,7 +811,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.1550778672154!2d55.114574874256704!3d25.130447434403163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f153e3609c979%3A0x5945a418a804ac5!2sAtlantis%2C%20The%20Palm!5e0!3m2!1sen!2seg!4v1698576498728!5m2!1sen!2seg',
       },
-      price: '860$',
+      money: '860$',
       phone: '+971 4 426 0000',
       website:
         'https://www.atlantis.com/dubai?utm_source=tripadvisor&utm_medium=ba',
@@ -837,7 +838,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.5281558069914!2d55.255512674258725!3d25.185405332180434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69d9899848e1%3A0x3854c26d172674ac!2sJW%20Marriott%20Marquis%20Hotel%20Dubai!5e0!3m2!1sen!2seg!4v1698576870324!5m2!1sen!2seg',
       },
-      price: '435$',
+      money: '435$',
       phone: '00 1 844-631-0595',
       rank: '#11 of 181 hotels in Dubai',
 
@@ -863,7 +864,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.7339323208853!2d55.253568874261035!3d25.24588502972907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43bba06e2d09%3A0x2f3449850fdb13f3!2sNikki%20Beach%20Resort%20%26%20Spa%20Dubai!5e0!3m2!1sen!2seg!4v1698577230957!5m2!1sen!2seg',
       },
-      price: '649$',
+      money: '649$',
       phone: '+971 4 426 0000',
       website: 'https://dubai.nikkibeach.com/',
       rating: 5,
@@ -887,7 +888,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.9269394422117!2d55.1441556716249!3d25.104334386350086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6b376313ecff%3A0x5adbb050ac44b8ae!2sFIVE%20Palm%20Jumeirah%20Hotel!5e0!3m2!1sen!2seg!4v1698577422278!5m2!1sen!2seg',
       },
-      price: '480$',
+      money: '480$',
       phone: '+971 4 426 0000',
       website: 'https://www.fivehotelsandresorts.com/palmjumeirah',
       rating: 5,
@@ -911,7 +912,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57819.18318321901!2d55.06253552167968!3d25.078190900000017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f1529d653298b%3A0x8a5495973d036c7b!2sHilton%20Dubai%20Jumeirah!5e0!3m2!1sen!2seg!4v1698577726107!5m2!1sen!2seg',
       },
-      price: '391$',
+      money: '391$',
       phone: '00 1 888-446-6677',
       website:
         'https://www.hilton.com/en/hotels/dxbjbhi-hilton-dubai-jumeirah/?SEO_id=GMB-EMEA-HI-DXBJBHI',
@@ -937,7 +938,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.2895089906224!2d55.14875987162987!3d25.125901285448307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6ad9234e35af%3A0xa4a848b54cc6177d!2sRoyal%20Central%20Hotel%20-%20The%20Palm!5e0!3m2!1sen!2seg!4v1698577997829!5m2!1sen!2seg',
       },
-      price: '272$',
+      money: '272$',
       phone: '00 971 4 873 9300',
       website: 'http://www.central-hotels.com/',
       rating: 4.5,
@@ -963,7 +964,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3611.825517977405!2d55.18870277425715!3d25.14158913395296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6a540d69b295%3A0x47f78c4e394a2976!2sJumeirah%20Beach%20Hotel!5e0!3m2!1sen!2seg!4v1698578227983!5m2!1sen!2seg',
       },
-      price: '865$',
+      money: '865$',
       phone: '00 971 800 586',
       website:
         'https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel?utm_source=google&utm_medium=google%20places&utm_campaign=hotel',
@@ -989,7 +990,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115578.28644618584!2d55.108875014862285!3d25.14172658574827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f42884b6b7fad%3A0x1aac8e5c95202fbc!2sShangri-La%20Dubai!5e0!3m2!1sen!2seg!4v1698578427829!5m2!1sen!2seg',
       },
-      price: '346$',
+      money: '346$',
       phone: '00 971 4 343 8888',
       website: 'http://www.shangri-la.com/dubai',
       rating: 5,
@@ -1013,7 +1014,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.4089102556472!2d55.00711677424887!3d24.918136142949354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f0faf6319e19b%3A0xbed5f66b1ec7e315!2sLegoland%C2%AE%20Dubai!5e0!3m2!1sen!2seg!4v1698578544035!5m2!1sen!2seg',
       },
-      price: '182$',
+      money: '182$',
       phone: '48251650',
       website: 'https://www.legoland.com/dubai/',
       rating: 4.5,
@@ -1038,7 +1039,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.267259658214!2d55.31573687165326!3d25.227921781173777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d4a2139ede3%3A0x6d83d44701a241ab!2sRaffles%20Dubai!5e0!3m2!1sen!2seg!4v1698579080072!5m2!1sen!2seg',
       },
-      price: '408$',
+      money: '408$',
       phone: '+97143248888',
       website:
         'https://www.raffles.com/dubai/?goto=fiche_hotel&code_hotel=A5D8&merchantid=seo-maps-AE-A5D8&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTIzNjEzNjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D',
@@ -1063,7 +1064,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3832.49436535348!2d28.06447974112958!3d36.124416299225004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14956d7603c462cd%3A0xf6b97ce9109826a5!2sAtrium%20Palace%20Thalasso%20Spa%20Resort%20%26%20Villas!5e0!3m2!1sen!2sus!4v1698606830448!5m2!1sen!2sus',
       },
-      price: '190$',
+      money: '190$',
       phone: '00 30 2244 031601',
       website:
         'https://www.tripadvisor.com/Hotel_Review-g3236241-d253983-Reviews-Atrium_Palace_Thalasso_Spa_Resort_Villas-Kalathos_Rhodes_Dodecanese_South_Aegean.html',
@@ -1088,7 +1089,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3212.963251799715!2d25.39184!3d36.361669!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1499cf39b5eb36dd%3A0xb08a8e02e9600274!2sApanemo!5e0!3m2!1sen!2sus!4v1698607083513!5m2!1sen!2sus',
       },
-      price: '170$',
+      money: '170$',
       phone: '00 30 2286 082831',
       website:
         'https://www.tripadvisor.com/Hotel_Review-g1189834-d581450-Reviews-Apanemo_Hotel_Suites-Akrotiri_Santorini_Cyclades_South_Aegean.html',
@@ -1114,7 +1115,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12840.500883488985!2d28.206955222167974!3d36.43035469597959!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x149561f014e33563%3A0xb4877f1cd4587555!2sAtrium%20Platinum%20Luxury%20Resort%20Hotel%20%26%20Spa!5e0!3m2!1sen!2sus!4v1698607351203!5m2!1sen!2sus',
       },
-      price: '250$',
+      money: '250$',
       phone: '00 30 2241 044901',
       rank: '#14 of 181 hotels in Greece',
 
@@ -1139,7 +1140,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6337.555903853403!2d25.33863481481932!3d37.41872296242065!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a2be929ffe7eed%3A0x390d080ffe1908c9!2sPalladium%20Boutique%20Hotel!5e0!3m2!1sen!2sus!4v1698607574307!5m2!1sen!2sus',
       },
-      price: '180$',
+      money: '180$',
       phone: '00 30 261 118 0305',
       rank: '#22 of 181 hotels in Greece',
       website:
@@ -1164,7 +1165,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6434.8139621412065!2d28.166445138990134!3d36.25389711131234!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14956e8cceb0b265%3A0xae1d94a192e3b7f3!2sSENTIDO%20Port%20Royal%20Villas%20and%20Spa!5e0!3m2!1sen!2sus!4v1698607852972!5m2!1sen!2sus',
       },
-      price: '190$',
+      money: '190$',
       phone: '00 30 2241 044901',
       website:
         'https://www.booking.com/hotel/gr/port-royal-villas-spa.en.html?aid=311984;label=port-royal-villas-spa-IIBJVRPgfD_wkjKFN5yiMgS393917615951:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-45999444559:lp1005386:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo;ws=&gad_source=1&gclid=Cj0KCQjwhfipBhCqARIsAH9msbnTcnb1zH516hFaiF0HM07c1dqPY4gbM3nc4co3o6avQ2UulGbP_DsaAoSHEALw_wcB',
@@ -1190,7 +1191,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d567.2485460664037!2d25.37595029999731!3d36.46136603809499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1499cb7ff0d3288f%3A0x25eec1e01074554f!2sAspaki%20Exclusive%20Hotel%20by%20Art%20Maisons!5e0!3m2!1sen!2sus!4v1698608314751!5m2!1sen!2sus',
       },
-      price: '160$',
+      money: '160$',
       phone: '00 30 2286 071831',
       website: 'https://www.artmaisons.gr/',
       rating: 5,
@@ -1215,7 +1216,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3210.683103968225!2d25.428426574830944!3d36.41686168921623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1499cdd3c2f90593%3A0x3fb5bb6c87cdde97!2sAthina%20Luxury%20Suites!5e0!3m2!1sen!2sus!4v1698609424669!5m2!1sen!2sus',
       },
-      price: '260$',
+      money: '260$',
       phone: '00 30 2286 024910',
       website: 'https://www.athinasuites.com/',
       rating: 4,
@@ -1240,7 +1241,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3210.0767386208645!2d25.421879774831737!3d36.43152708839653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1499cc4a85d2e82d%3A0xdbefb2c63b5f29eb!2sKatikies%20Chromata%20Hotel!5e0!3m2!1sen!2sus!4v1698609674290!5m2!1sen!2sus',
       },
-      price: '200$',
+      money: '200$',
       phone: '00 30 2286 071831',
       website:
         'https://www.booking.com/searchresults.en-gb.html?aid=311984&label=hotel-12215-gr-8bzZbsL07IHvVu_lt1TKyAS258575661990%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-915074712659%3Alp1005386%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&gclid=Cj0KCQjwhfipBhCqARIsAH9msbllozGrUlSkNGkG7e-ePFdh66Iv3IBugODyODmrXk2WGyeC2BxXnEAaAkVFEALw_wcB&highlighted_hotels=12215&redirected=1&city=-818117&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=805ea0ac6d4364b24d0e8b331c33ea4b',
@@ -1266,7 +1267,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1604.4267130129706!2d25.370916638506944!3d36.46109835028325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1499cb8394ef6729%3A0x1c0ff716e513b51f!2sEsperas%20Santorini%20Hotel!5e0!3m2!1sen!2sus!4v1698609900010!5m2!1sen!2sus',
       },
-      price: '170$',
+      money: '170$',
       phone: '00 30 231 118 1291',
       website:
         'https://www.esperas-santorini.com/?utm_source=TripAdvisor&utm_medium=website&utm_campaign=businesslisting',
@@ -1292,7 +1293,7 @@ export function getHotels() {
         locationAddress:
           'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12849.238319199141!2d25.428499!3d36.377499!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1499ceff426cf949%3A0xb51a05a872a06f11!2sGrand%20View%20Hotel!5e0!3m2!1sen!2sus!4v1698610177331!5m2!1sen!2sus',
       },
-      price: '190$',
+      money: '190$',
       phone: '00 30 2286 081003',
       website: 'https://grandview.gr/',
       rating: 5,
@@ -1640,8 +1641,8 @@ export function getRestaurant() {
     {
       name: 'Roscioli',
       images: [
-        'https://www.salumeriaroscioli.com/wp-content/uploads/2020/12/R-foto-Nabil-e-Alessandro-1.jpg',
         'https://www.salumeriaroscioli.com/wp-content/uploads/2020/12/Piattoconpomdorini.jpg',
+        'https://www.salumeriaroscioli.com/wp-content/uploads/2020/12/R-foto-Nabil-e-Alessandro-1.jpg',
         'https://www.salumeriaroscioli.com/wp-content/uploads/2020/12/Carbonara.jpg',
         'https://www.salumeriaroscioli.com/wp-content/uploads/2021/01/cop-Roscioli-scaled.jpg',
       ],
@@ -2100,6 +2101,7 @@ export function getRestaurant() {
       name: 'Jones The Grocer - Delta Jbr',
       images: [
         'https://resume-image-upload.s3.ap-southeast-1.amazonaws.com/upload/photos/2022/08/vLz1dCOXHxvqQoNh9PP5_19_904a87d2329a8f1be7faacfe2b7b7399_image.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/27/5d/18/00/jones-the-grocer.jpg',
         'https://resume-image-upload.s3.ap-southeast-1.amazonaws.com/upload/photos/2022/08/CnmrSg5DphjJnGRvrdoz_19_67fbdee157407f2660397d1f26d39a8b_image.jpg',
         'https://www.jonesthegrocer.com/blog/wp-content/uploads/2022/11/View-3-700x394.jpg',
       ],
@@ -2444,8 +2446,8 @@ export function getThingsToDo() {
     {
       name: 'Luxury Felucca on the Nile with Lunch',
       images: [
+        'https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/11/Intrepid-Travel-Egypt-Felucca-Nile-085.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ad/d7.jpg',
-        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b1/bd/ca/caption.jpg?w=1100&h=-1&s=1',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ae/70.jpg',
         'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/45/ae/72.jpg',
       ],
