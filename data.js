@@ -263,6 +263,8 @@ export function getHotels() {
     },
     {
       name: "Hyatt Regency Cairo West",
+      description:
+        "Situated in 6th Of October, 10 km from Giza Pyramids, Hyatt Regency Cairo West features accommodation with an outdoor swimming pool, private parking, a fitness centre and a garden. With free WiFi, this 5-star hotel offers a kids' club and room service. The hotel provides a terrace and a 24-hour front desk.",
       images: [
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/f3/36/hyatt-regency-cairo-west.jpg?w=1200&h=-1&s=1",
 
