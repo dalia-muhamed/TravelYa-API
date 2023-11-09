@@ -2054,6 +2054,8 @@ export function getRestaurant() {
       name: 'The Shore',
       images: [
         'https://www.theluxevoyager.com/wp-content/uploads/2019/04/Atlantis-The-Palm-Dubai-The-Shore-1.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/1d/7d/4f/37/the-shore.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-s/1d/7d/4f/58/the-shore.jpg',
         'https://b.zmtcdn.com/data/pictures/chains/1/200891/e42c1623f6cebba05c26e2195e2c4aa2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*',
       ],
       location: {
@@ -2075,6 +2077,7 @@ export function getRestaurant() {
       name: 'Village Bistro',
       images: [
         'https://www.thefirstcollection.ae/wp-content/uploads/2022/11/village-bistro.jpg',
+        'https://media-cdn.tripadvisor.com/media/photo-f/28/30/4b/85/food.jpg',
         'https://offerengine.theentertainerme.com/village-bistro-x23916111/merchant_profile_%22hero%22_image_slide.3_%28retina%292022090101029.jpg',
         'https://b.zmtcdn.com/data/pictures/6/19898926/74388cb0a22f609e359b0ed876e12298.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*',
       ],
