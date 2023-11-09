@@ -2138,8 +2138,9 @@ export function getRestaurant() {
     {
       name: 'Zerofat',
       images: [
-        'https://eatapp.co/abu-dhabi-restaurants/images/zerofat-abu-dhabi-the-view-tower-al-muroor-road-restaurant-1.jpg?height=500&width=850',
         'https://media-cdn.tripadvisor.com/media/photo-s/1a/a2/2e/fd/protein-packed-shroom.jpg',
+
+        'https://eatapp.co/abu-dhabi-restaurants/images/zerofat-abu-dhabi-the-view-tower-al-muroor-road-restaurant-1.jpg?height=500&width=850',
         'https://www.caterermiddleeast.com/2021/05/5vnxAO5f-ZEROFAT-ABU-DHABI-5.jpg',
         'https://media-cdn.tripadvisor.com/media/photo-s/1c/9f/c5/ec/14-we-got-you-covered.jpg',
       ],
