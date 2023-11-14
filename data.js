@@ -262,7 +262,7 @@ export function getHotels() {
       id: 9,
     },
     {
-      name: "Hyatt Regency Cairo West",
+      name: 'Hyatt Regency Cairo West',
       description:
         "Situated in 6th Of October, 10 km from Giza Pyramids, Hyatt Regency Cairo West features accommodation with an outdoor swimming pool, private parking, a fitness centre and a garden. With free WiFi, this 5-star hotel offers a kids' club and room service. The hotel provides a terrace and a 24-hour front desk.",
       images: [
@@ -3014,6 +3014,27 @@ export function getThingsToDo() {
       recommendation: 'Recommended by 95% of travelers',
       cancellation: 'Free Cancellation',
       id: 130,
+      country_id: 55,
+    },
+    {
+      name: 'Zingy Ride',
+      images: [
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9b/42/99/mousa-castle.jpg?w=900&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/2e/e6/88/baalbek.jpg?w=1200&h=-1&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/1d/24/34/cable-car-to-harissa.jpg?w=1200&h=900&s=1',
+        'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9b/45/91/baatara-waterfall.jpg?w=700&h=500&s=1',
+      ],
+      tours: 'Multi-day Tours',
+      about:
+        'we offer full day trips from Beirut to all the tourist attractions in Lebanon. Zingy Tours guarantees you a fascinating, efficient, remarkable and unforgettable trip. Daily private or small groups tours to Jeita Grotto, Byblos, Harissa, Baatara Gorge waterfall, Mleeta, Cedars, Anjar, Ksara, , Sidon,Tyre Baalbek ,Tripoli, Chekka, Batroun,Chouf and much more. we also offer airport transfers(pick up or drop-off), hiking & walking tours, camping & picnic events. Zingy Ride offers specialized packages, which are already pre-planned, and additionally customize it according to the customers need. We always ensure our esteemed clients get the most accurate and efficient services. For any inquiry, our team is ready to provide you quick answers 24 hours a day and 7 days a week. ',
+      address: 'Beirut, Lebanon',
+      money: '$900.00',
+      duration: '7h',
+      reviews: 912,
+      rating: 3.7,
+      recommendation: 'Recommended by 97% of travelers',
+      cancellation: 'Free Cancellation',
+      id: 121,
       country_id: 55,
     },
     {
