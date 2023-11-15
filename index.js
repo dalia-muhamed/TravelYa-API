@@ -4,7 +4,6 @@ import { getCities, getHotels, getRestaurant, getThingsToDo } from './data.js';
 const app = express();
 import cors from 'cors';
 app.use(cors());
-
 app.get('/hotels', (req, res) => {
   res.json({ hotels: getHotels() });
 });
@@ -100,6 +99,42 @@ app.get('/cities/thingsToDo', (req, res) => {
   }
 
   res.json({ todos: filteredToDos });
+});
+
+app.get('/get/:category', (req, res) => {
+  const category = req.params.category;
+  const queryName = req.query.queryName;
+  const cities = getCities();
+  const city = cities.find(city =>
+    city.name.toLocaleLowerCase().includes(queryName.toLowerCase())
+  );
+  let data;
+  switch (category) {
+    case 'Hotels':
+      data = city
+        ? getHotels().filter(hotel => hotel.country_id === city.id)
+        : getHotels().filter(hotel =>
+            hotel.name.toLowerCase().includes(queryName.toLowerCase())
+          );
+      break;
+    case 'Restaurants':
+      data = city
+        ? getRestaurant().filter(
+            restaurant => restaurant.country_id === city.id
+          )
+        : getRestaurant().filter(restaurant =>
+            restaurant.name.toLowerCase().includes(queryName.toLowerCase())
+          );
+      break;
+    case 'ThingsToDo':
+      data = city
+        ? getThingsToDo().filter(todo => todo.country_id === city.id)
+        : getThingsToDo().filter(todo =>
+            todo.name.toLowerCase().includes(queryName.toLowerCase())
+          );
+      break;
+  }
+  res.json({ data });
 });
 
 app.listen(8080);
