@@ -8,42 +8,42 @@ app.get('/hotels', (req, res) => {
   res.json({ hotels: getHotels() });
 });
 
-function getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2) {
+function getDistanceFromLatLonInKm(lat1, lon1, city) {
+  const { latitude, longitude } = city;
   const R = 6371;
-  const dLat = deg2rad(lat2 - lat1);
-  const dLon = deg2rad(lon2 - lon1);
+  const dLat = deg2rad(latitude - lat1);
+  const dLon = deg2rad(longitude - lon1);
   const a =
     Math.sin(dLat / 2) * Math.sin(dLat / 2) +
     Math.cos(deg2rad(lat1)) *
-      Math.cos(deg2rad(lat2)) *
+      Math.cos(deg2rad(latitude)) *
       Math.sin(dLon / 2) *
       Math.sin(dLon / 2);
   const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-  const distance = R * c;
-
-  // if (distance < minDistance) {
-  //   minDistance = distance;
-  //   nearestCity = city;
-  // }
-  return true;
+  return Number(R * c);
 }
 
 function deg2rad(deg) {
   return deg * (Math.PI / 180);
 }
-
+const getNearestCity = (lat, long, cities) => {
+  const distances = {};
+  for (const city of cities) {
+    distances[getDistanceFromLatLonInKm(lat, long, city)] = city.id;
+  }
+  return distances[Math.min(...Object.keys(distances))];
+};
 app.get('/cities', (req, res) => {
   const lat = req.query.lat;
-  const lang = req.query.lang;
-  let minDistance = Infinity;
-  let nearestCity = null;
-  const cities =
-    lat && lang
-      ? getCities.filter(city =>
-          getDistanceFromLatLonInKm(lat, lang, city.latitude, city.longitude)
-        )
-      : getCities();
-  res.json({ cities });
+  const long = req.query.long;
+  const cities = getCities();
+  if (lat && long) {
+    const nearestCityId = getNearestCity(lat, long, cities);
+    return res.json({
+      cities: cities.filter(city => city.id === nearestCityId),
+    });
+  }
+  return res.json({ cities });
 });
 
 app.get('/restaurants', (req, res) => {
