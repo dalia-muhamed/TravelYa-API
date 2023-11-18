@@ -34,16 +34,7 @@ const getNearestCity = (lat, long, cities) => {
   return distances[Math.min(...Object.keys(distances))];
 };
 app.get('/cities', (req, res) => {
-  const lat = req.query.lat;
-  const long = req.query.long;
-  const cities = getCities();
-  if (lat && long) {
-    const nearestCityId = getNearestCity(lat, long, cities);
-    return res.json({
-      cities: cities.filter(city => city.id === nearestCityId),
-    });
-  }
-  return res.json({ cities });
+  return res.json({ cities: getCities() });
 });
 
 app.get('/restaurants', (req, res) => {
@@ -57,8 +48,17 @@ app.get('/thingsToDo', (req, res) => {
 app.get('/cities/hotels', (req, res) => {
   const hotelName = req.query.hotelName;
   const cityName = req.query.cityName;
+  const lat = req.query.lat;
+  const long = req.query.long;
   const cities = getCities();
   const hotels = getHotels();
+
+  if (lat && long) {
+    const nearestCityId = getNearestCity(lat, long, cities);
+    return res.json({
+      cities: hotels.filter(hotel => hotel.country_id === nearestCityId),
+    });
+  }
 
   const filteredHotels = hotels.filter(hotel =>
     hotel.name.toLowerCase().includes((hotelName || '').toLowerCase())
