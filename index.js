@@ -29,7 +29,10 @@ function deg2rad(deg) {
 const getNearestCity = (lat, long, cities) => {
   const distances = {};
   for (const city of cities) {
-    distances[getDistanceFromLatLonInKm(lat, long, city)] = city.id;
+    distances[getDistanceFromLatLonInKm(lat, long, city)] = {
+      id: city.id,
+      name: city.name,
+    };
   }
   return distances[Math.min(...Object.keys(distances))];
 };
@@ -52,11 +55,11 @@ app.get('/cities/hotels', (req, res) => {
   const long = req.query.long;
   const cities = getCities();
   const hotels = getHotels();
-
   if (lat && long) {
-    const nearestCityId = getNearestCity(lat, long, cities);
+    const nearestCity = getNearestCity(lat, long, cities);
     return res.json({
-      cities: hotels.filter(hotel => hotel.country_id === nearestCityId),
+      hotels: hotels.filter(hotel => hotel.country_id === nearestCity.id),
+      cityName: nearestCity.name,
     });
   }
 
